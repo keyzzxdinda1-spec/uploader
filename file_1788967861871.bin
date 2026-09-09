@@ -1,0 +1,602 @@
+[
+  {
+    "index": 0,
+    "soal": "Dewa petir dalam mitologi Yunani yang memegang petir sebagai senjata.",
+    "jawaban": "Zeus",
+    "deskripsi": "Raja para dewa dalam mitologi Yunani, dewa langit dan petir, putra Cronus dan Rhea."
+  },
+  {
+    "index": 1,
+    "soal": "Dewa laut dalam mitologi Yunani, membawa trisula dan tinggal di istana bawah laut.",
+    "jawaban": "Poseidon",
+    "deskripsi": "Dewa laut, gempa bumi, dan kuda, saudara Zeus dan Hades."
+  },
+  {
+    "index": 2,
+    "soal": "Dewa kematian dan dunia bawah dalam mitologi Yunani, memiliki helm yang membuat pemakainya tidak terlihat.",
+    "jawaban": "Hades",
+    "deskripsi": "Dewa dunia bawah, saudara Zeus dan Poseidon, menikahi Persephone."
+  },
+  {
+    "index": 3,
+    "soal": "Dewi kecantikan dan cinta dalam mitologi Yunani, lahir dari busa laut.",
+    "jawaban": "Afrodit",
+    "deskripsi": "Dewi cinta, kecantikan, dan hasrat, ibu dari Eros (Cupid)."
+  },
+  {
+    "index": 4,
+    "soal": "Dewi kebijaksanaan dan strategi perang dalam mitologi Yunani, lahir dari kepala Zeus.",
+    "jawaban": "Athena",
+    "deskripsi": "Dewi kebijaksanaan, perang strategis, dan kerajinan tangan, pelindung kota Athena."
+  },
+  {
+    "index": 5,
+    "soal": "Dewa api dan pandai besi dalam mitologi Yunani, menikah dengan Afrodit.",
+    "jawaban": "Hephaestus",
+    "deskripsi": "Dewa pandai besi, api, dan kerajinan, membuat senjata dan perisai para dewa."
+  },
+  {
+    "index": 6,
+    "soal": "Dewa perang dalam mitologi Yunani, dikenal karena kekejamannya.",
+    "jawaban": "Ares",
+    "deskripsi": "Dewa perang, anak Zeus dan Hera, kekasih Afrodit."
+  },
+  {
+    "index": 7,
+    "soal": "Dewi pemburu dan bulan dalam mitologi Yunani, saudara kembar Apollo.",
+    "jawaban": "Artemis",
+    "deskripsi": "Dewi perburuan, alam liar, dan bulan, pelindung hewan dan anak-anak."
+  },
+  {
+    "index": 8,
+    "soal": "Dewa matahari, musik, dan puisi dalam mitologi Yunani, putra Zeus dan Leto.",
+    "jawaban": "Apollo",
+    "deskripsi": "Dewa matahari, musik, puisi, dan ramalan, saudara kembar Artemis."
+  },
+  {
+    "index": 9,
+    "soal": "Dewa perdagangan, pencuri, dan pembawa pesan dalam mitologi Yunani, memiliki sayap di kaki.",
+    "jawaban": "Hermes",
+    "deskripsi": "Dewa perdagangan, perjalanan, pencuri, dan pembawa pesan para dewa."
+  },
+  {
+    "index": 10,
+    "soal": "Dewi pertanian dan panen dalam mitologi Yunani, ibu dari Persephone.",
+    "jawaban": "Demeter",
+    "deskripsi": "Dewi pertanian, panen, dan kesuburan tanah, ibu Persephone."
+  },
+  {
+    "index": 11,
+    "soal": "Dewi perapian dan rumah tangga dalam mitologi Yunani, salah satu dewa Olimpus.",
+    "jawaban": "Hestia",
+    "deskripsi": "Dewi perapian, rumah tangga, dan arsitektur, salah satu dewa Olimpus tertua."
+  },
+  {
+    "index": 12,
+    "soal": "Pahlawan Yunani yang terkenal dengan kekuatan supernya, putra Zeus dan Alcmene.",
+    "jawaban": "Hercules (Heracles)",
+    "deskripsi": "Pahlawan Yunani yang terkenal dengan 12 tugasnya, memiliki kekuatan super manusia."
+  },
+  {
+    "index": 13,
+    "soal": "Pahlawan Yunani yang membunuh Medusa dan menyelamatkan Andromeda.",
+    "jawaban": "Perseus",
+    "deskripsi": "Pahlawan Yunani yang membunuh Gorgon Medusa dan menyelamatkan putri Andromeda."
+  },
+  {
+    "index": 14,
+    "soal": "Pahlawan Yunani yang memimpin Argonaut mencari Bulu Domba Emas.",
+    "jawaban": "Jason",
+    "deskripsi": "Pahlawan Yunani yang memimpin ekspedisi Argonaut mencari Bulu Domba Emas."
+  },
+  {
+    "index": 15,
+    "soal": "Pahlawan Yunani yang terjebak dalam labirin dan membunuh Minotaur.",
+    "jawaban": "Theseus",
+    "deskripsi": "Pahlawan Athena yang membunuh Minotaur di labirin Kreta."
+  },
+  {
+    "index": 16,
+    "soal": "Pahlawan Yunani yang tercatat dalam Perang Troya, tumitnya adalah titik kelemahan.",
+    "jawaban": "Achilles",
+    "deskripsi": "Pahlawan Yunani dalam Perang Troya yang hampir tidak terkalahkan kecuali tumitnya."
+  },
+  {
+    "index": 17,
+    "soal": "Raja Troya yang dibunuh oleh Achilles dalam Perang Troya.",
+    "jawaban": "Hector",
+    "deskripsi": "Pangeran Troya dan pahlawan terbesar Troya yang dibunuh oleh Achilles."
+  },
+  {
+    "index": 18,
+    "soal": "Dewa petir dalam mitologi Romawi, setara dengan Zeus dalam mitologi Yunani.",
+    "jawaban": "Jupiter",
+    "deskripsi": "Raja para dewa dalam mitologi Romawi, dewa langit dan petir."
+  },
+  {
+    "index": 19,
+    "soal": "Dewa perang dalam mitologi Romawi, setara dengan Ares dalam mitologi Yunani.",
+    "jawaban": "Mars",
+    "deskripsi": "Dewa perang Romawi, ayah dari Romulus dan Remus, pendiri Roma."
+  },
+  {
+    "index": 20,
+    "soal": "Dewi cinta dan kecantikan dalam mitologi Romawi, setara dengan Afrodit.",
+    "jawaban": "Venus",
+    "deskripsi": "Dewi cinta, kecantikan, dan kesuburan dalam mitologi Romawi."
+  },
+  {
+    "index": 21,
+    "soal": "Dewa laut dalam mitologi Romawi, setara dengan Poseidon.",
+    "jawaban": "Neptunus",
+    "deskripsi": "Dewa laut dan gempa bumi dalam mitologi Romawi."
+  },
+  {
+    "index": 22,
+    "soal": "Dewa dunia bawah dalam mitologi Romawi, setara dengan Hades.",
+    "jawaban": "Pluto",
+    "deskripsi": "Dewa dunia bawah dan kekayaan dalam mitologi Romawi."
+  },
+  {
+    "index": 23,
+    "soal": "Dewa kebijaksanaan dalam mitologi Romawi, setara dengan Athena.",
+    "jawaban": "Minerva",
+    "deskripsi": "Dewi kebijaksanaan, perang, dan kerajinan dalam mitologi Romawi."
+  },
+  {
+    "index": 24,
+    "soal": "Dewi perburuan dan bulan dalam mitologi Romawi, setara dengan Artemis.",
+    "jawaban": "Diana",
+    "deskripsi": "Dewi perburuan, bulan, dan alam liar dalam mitologi Romawi."
+  },
+  {
+    "index": 25,
+    "soal": "Dewa perdagangan dan pembawa pesan dalam mitologi Romawi, setara dengan Hermes.",
+    "jawaban": "Merkurius",
+    "deskripsi": "Dewa perdagangan, perjalanan, dan pembawa pesan para dewa Romawi."
+  },
+  {
+    "index": 26,
+    "soal": "Dewa api dan pandai besi dalam mitologi Romawi, setara dengan Hephaestus.",
+    "jawaban": "Vulcan",
+    "deskripsi": "Dewa api dan pandai besi dalam mitologi Romawi."
+  },
+  {
+    "index": 27,
+    "soal": "Dewi pertanian dalam mitologi Romawi, setara dengan Demeter.",
+    "jawaban": "Ceres",
+    "deskripsi": "Dewi pertanian, panen, dan kesuburan dalam mitologi Romawi."
+  },
+  {
+    "index": 28,
+    "soal": "Dewi perapian dalam mitologi Romawi, setara dengan Hestia.",
+    "jawaban": "Vesta",
+    "deskripsi": "Dewi perapian dan rumah tangga dalam mitologi Romawi."
+  },
+  {
+    "index": 29,
+    "soal": "Dewa Odin dalam mitologi Nordik, raja para dewa yang kehilangan satu mata.",
+    "jawaban": "Odin",
+    "deskripsi": "Raja para dewa Nordik, dewa kebijaksanaan, perang, dan kematian."
+  },
+  {
+    "index": 30,
+    "soal": "Dewa petir dalam mitologi Nordik yang menggunakan palu bernama Mjolnir.",
+    "jawaban": "Thor",
+    "deskripsi": "Dewa petir, kekuatan, dan pelindung manusia dalam mitologi Nordik."
+  },
+  {
+    "index": 31,
+    "soal": "Dewa licik dalam mitologi Nordik yang menyebabkan kematian Baldr.",
+    "jawaban": "Loki",
+    "deskripsi": "Dewa tipu daya dan kekacauan dalam mitologi Nordik, bukan dewa Asgard."
+  },
+  {
+    "index": 32,
+    "soal": "Dewa kegembiraan dan cahaya dalam mitologi Nordik, sangat dicintai oleh para dewa.",
+    "jawaban": "Baldr",
+    "deskripsi": "Dewa cahaya, kegembiraan, dan keindahan, dibunuh oleh Loki dengan panah mistletoe."
+  },
+  {
+    "index": 33,
+    "soal": "Dewi cinta dan kecantikan dalam mitologi Nordik, istri Odin.",
+    "jawaban": "Frigg",
+    "deskripsi": "Dewi pernikahan, cinta, dan ramalan, istri Odin dan ratu para dewa Asgard."
+  },
+  {
+    "index": 34,
+    "soal": "Dewa keberanian dan perang dalam mitologi Nordik, putra Odin.",
+    "jawaban": "Tyr",
+    "deskripsi": "Dewa perang dan keberanian, kehilangan satu tangannya saat mengikat serigala Fenrir."
+  },
+  {
+    "index": 35,
+    "soal": "Serigala raksasa dalam mitologi Nordik yang akan memakan Odin saat Ragnarok.",
+    "jawaban": "Fenrir",
+    "deskripsi": "Serigala raksasa putra Loki yang diikat oleh para dewa dan akan membunuh Odin di Ragnarok."
+  },
+  {
+    "index": 36,
+    "soal": "Ular laut raksasa dalam mitologi Nordik yang mengelilingi Midgard (Bumi).",
+    "jawaban": "Jormungandr",
+    "deskripsi": "Ular laut raksasa putra Loki yang mengelilingi dunia dan akan membunuh Thor di Ragnarok."
+  },
+  {
+    "index": 37,
+    "soal": "Dewi dunia bawah dalam mitologi Nordik, putri Loki.",
+    "jawaban": "Hel",
+    "deskripsi": "Dewi dunia bawah, putri Loki, menguasai jiwa-jiwa yang mati karena sakit dan tua."
+  },
+  {
+    "index": 38,
+    "soal": "Dewa matahari dalam mitologi Mesir, memiliki kepala elang dan cakram matahari di atasnya.",
+    "jawaban": "Ra",
+    "deskripsi": "Dewa matahari Mesir, salah satu dewa terpenting dalam mitologi Mesir."
+  },
+  {
+    "index": 39,
+    "soal": "Dewi sihir dan perlindungan dalam mitologi Mesir, memiliki kepala kucing.",
+    "jawaban": "Bastet",
+    "deskripsi": "Dewi rumah, kesuburan, dan perlindungan, digambarkan dengan kepala kucing."
+  },
+  {
+    "index": 40,
+    "soal": "Dewa kematian dan kehidupan setelah kematian dalam mitologi Mesir, digambarkan dengan kepala serigala.",
+    "jawaban": "Anubis",
+    "deskripsi": "Dewa kematian, pembalseman, dan penimbang hati, digambarkan dengan kepala serigala."
+  },
+  {
+    "index": 41,
+    "soal": "Dewa kebijaksanaan dan tulisan dalam mitologi Mesir, digambarkan dengan kepala ibis.",
+    "jawaban": "Thoth",
+    "deskripsi": "Dewa kebijaksanaan, tulisan, dan pengetahuan, digambarkan dengan kepala ibis."
+  },
+  {
+    "index": 42,
+    "soal": "Dewi cinta dan kecantikan dalam mitologi Mesir, istri Osiris.",
+    "jawaban": "Isis",
+    "deskripsi": "Dewi sihir, cinta, dan kesuburan, istri Osiris dan ibu Horus."
+  },
+  {
+    "index": 43,
+    "soal": "Dewa raja dan dunia bawah dalam mitologi Mesir, dibunuh oleh Set.",
+    "jawaban": "Osiris",
+    "deskripsi": "Dewa raja dan penguasa dunia bawah, dibunuh oleh saudaranya Set dan dibangkitkan oleh Isis."
+  },
+  {
+    "index": 44,
+    "soal": "Dewa gurun dan kekacauan dalam mitologi Mesir, musuh Osiris.",
+    "jawaban": "Set",
+    "deskripsi": "Dewa gurun, kekacauan, dan kekuatan, musuh Osiris dan Horus."
+  },
+  {
+    "index": 45,
+    "soal": "Dewa langit dalam mitologi Mesir, putra Osiris dan Isis.",
+    "jawaban": "Horus",
+    "deskripsi": "Dewa langit dan perang, putra Osiris dan Isis, digambarkan dengan kepala elang."
+  },
+  {
+    "index": 46,
+    "soal": "Dewa pencipta dalam mitologi Mesir yang menciptakan dunia dengan kata-kata.",
+    "jawaban": "Ptah",
+    "deskripsi": "Dewa pencipta dalam mitologi Mesir, dewa arsitek dan pengrajin."
+  },
+  {
+    "index": 47,
+    "soal": "Dewa Brahma dalam mitologi Hindu, dewa pencipta alam semesta.",
+    "jawaban": "Brahma",
+    "deskripsi": "Dewa pencipta dalam Trimurti Hindu, memiliki empat kepala."
+  },
+  {
+    "index": 48,
+    "soal": "Dewa Wisnu dalam mitologi Hindu, dewa pemelihara alam semesta.",
+    "jawaban": "Wisnu",
+    "deskripsi": "Dewa pemelihara dalam Trimurti Hindu, menjelma dalam berbagai avatar."
+  },
+  {
+    "index": 49,
+    "soal": "Dewa Siwa dalam mitologi Hindu, dewa perusak dan transformasi.",
+    "jawaban": "Siwa",
+    "deskripsi": "Dewa perusak dalam Trimurti Hindu, juga dewa penari dan meditasi."
+  },
+  {
+    "index": 50,
+    "soal": "Dewi kemakmuran dan keberuntungan dalam mitologi Hindu, istri Wisnu.",
+    "jawaban": "Lakshmi",
+    "deskripsi": "Dewi kemakmuran, keberuntungan, dan kecantikan, istri Wisnu."
+  },
+  {
+    "index": 51,
+    "soal": "Dewi pengetahuan dan seni dalam mitologi Hindu, istri Brahma.",
+    "jawaban": "Saraswati",
+    "deskripsi": "Dewi pengetahuan, musik, dan seni, istri Brahma."
+  },
+  {
+    "index": 52,
+    "soal": "Dewi kekuatan dan peperangan dalam mitologi Hindu, istri Siwa.",
+    "jawaban": "Durga",
+    "deskripsi": "Dewi perang dan kekuatan, istri Siwa, berkendara singa."
+  },
+  {
+    "index": 53,
+    "soal": "Dewa Ganesha dalam mitologi Hindu, dewa kebijaksanaan dan keberuntungan, berkepala gajah.",
+    "jawaban": "Ganesha",
+    "deskripsi": "Dewa kebijaksanaan, pengetahuan, dan keberuntungan, putra Siwa dan Parvati."
+  },
+  {
+    "index": 54,
+    "soal": "Dewi Kali dalam mitologi Hindu, dewi kematian dan waktu.",
+    "jawaban": "Kali",
+    "deskripsi": "Dewi kematian, waktu, dan kekuatan, istri Siwa, digambarkan dengan kalung tengkorak."
+  },
+  {
+    "index": 55,
+    "soal": "Dewa Indra dalam mitologi Hindu, dewa langit dan petir, raja para dewa.",
+    "jawaban": "Indra",
+    "deskripsi": "Raja para dewa dalam mitologi Hindu, dewa langit, petir, dan hujan."
+  },
+  {
+    "index": 56,
+    "soal": "Dewa Agni dalam mitologi Hindu, dewa api dan pengorbanan.",
+    "jawaban": "Agni",
+    "deskripsi": "Dewa api dan pengorbanan, mediator antara manusia dan dewa."
+  },
+  {
+    "index": 57,
+    "soal": "Dewa Vayu dalam mitologi Hindu, dewa angin dan udara.",
+    "jawaban": "Vayu",
+    "deskripsi": "Dewa angin dan udara, ayah dari Bhima dan Hanuman."
+  },
+  {
+    "index": 58,
+    "soal": "Dewa Yama dalam mitologi Hindu, dewa kematian dan keadilan.",
+    "jawaban": "Yama",
+    "deskripsi": "Dewa kematian dan keadilan, penguasa Naraka (neraka)."
+  },
+  {
+    "index": 59,
+    "soal": "Dewi Ushas dalam mitologi Hindu, dewi fajar dan cahaya pagi.",
+    "jawaban": "Ushas",
+    "deskripsi": "Dewi fajar, membawa cahaya setiap pagi, disebut dalam Rigveda."
+  },
+  {
+    "index": 60,
+    "soal": "Dewa Surya dalam mitologi Hindu, dewa matahari dan cahaya.",
+    "jawaban": "Surya",
+    "deskripsi": "Dewa matahari, dewa utama dalam Weda, mengendarai kereta yang ditarik tujuh kuda."
+  },
+  {
+    "index": 61,
+    "soal": "Dewa Chandra dalam mitologi Hindu, dewa bulan.",
+    "jawaban": "Chandra",
+    "deskripsi": "Dewa bulan dalam mitologi Hindu, dikenal sebagai dewa kesuburan."
+  },
+  {
+    "index": 62,
+    "soal": "Dewa Kubera dalam mitologi Hindu, dewa kekayaan dan harta benda.",
+    "jawaban": "Kubera",
+    "deskripsi": "Dewa kekayaan dan harta, penguasa para Yaksha dan raja Alaka."
+  },
+  {
+    "index": 63,
+    "soal": "Dewi Ganga dalam mitologi Hindu, dewi sungai Gangga yang suci.",
+    "jawaban": "Ganga",
+    "deskripsi": "Dewi sungai Gangga, turun ke Bumi untuk memurnikan jiwa-jiwa."
+  },
+  {
+    "index": 64,
+    "soal": "Dewi Parvati dalam mitologi Hindu, istri Siwa dan ibu Ganesha.",
+    "jawaban": "Parvati",
+    "deskripsi": "Dewi cinta, kesuburan, dan pernikahan, istri Siwa dan ibu Ganesha."
+  },
+  {
+    "index": 65,
+    "soal": "Dewa Kama dalam mitologi Hindu, dewa cinta dan hasrat.",
+    "jawaban": "Kama",
+    "deskripsi": "Dewa cinta dan hasrat, setara dengan Cupid/Eros, membawa panah bunga."
+  },
+  {
+    "index": 66,
+    "soal": "Makhluk mitologi Jepang berbentuk rubah berekor sembilan yang bisa berubah bentuk.",
+    "jawaban": "Kitsune",
+    "deskripsi": "Rubah berekor sembilan dalam mitologi Jepang, bisa berubah bentuk dan memiliki kekuatan sihir."
+  },
+  {
+    "index": 67,
+    "soal": "Makhluk mitologi Jepang berbentuk kucing besar yang dapat membawa keberuntungan.",
+    "jawaban": "Maneki-neko",
+    "deskripsi": "Kucing keberuntungan Jepang dengan satu kaki terangkat, sering ditemukan di toko-toko."
+  },
+  {
+    "index": 68,
+    "soal": "Makhluk mitologi Jepang berbentuk rakun yang suka menipu dan berubah bentuk.",
+    "jawaban": "Tanuki",
+    "deskripsi": "Rakun mitologi Jepang yang suka menipu, berubah bentuk, dan membawa botol sake."
+  },
+  {
+    "index": 69,
+    "soal": "Makhluk mitologi Jepang berbentuk iblis atau raksasa dengan tanduk dan kulit merah.",
+    "jawaban": "Oni",
+    "deskripsi": "Iblis atau raksasa dalam mitologi Jepang, sering digambarkan dengan tanduk dan kulit merah."
+  },
+  {
+    "index": 70,
+    "soal": "Makhluk mitologi Jepang berbentuk ular besar yang hidup di laut dan menyebabkan gempa bumi.",
+    "jawaban": "Namazu",
+    "deskripsi": "Leluhur ular raksasa dalam mitologi Jepang yang hidup di bawah Bumi dan menyebabkan gempa."
+  },
+  {
+    "index": 71,
+    "soal": "Makhluk mitologi Jepang berbentuk kura-kura dengan ekor ular dan kepala naga.",
+    "jawaban": "Shinobu",
+    "deskripsi": "Makhluk mitologi Jepang, kombinasi kura-kura dan ular, simbol umur panjang."
+  },
+  {
+    "index": 72,
+    "soal": "Makhluk mitologi Tiongkok berbentuk naga yang membawa keberuntungan dan kekuasaan.",
+    "jawaban": "Naga Tiongkok",
+    "deskripsi": "Makhluk mitologi Tiongkok, simbol kekuasaan, keberuntungan, dan kebijaksanaan."
+  },
+  {
+    "index": 73,
+    "soal": "Makhluk mitologi Tiongkok berbentuk burung api yang muncul saat kedamaian.",
+    "jawaban": "Fenghuang",
+    "deskripsi": "Burung api dalam mitologi Tiongkok, simbol kebajikan dan kedamaian."
+  },
+  {
+    "index": 74,
+    "soal": "Makhluk mitologi Tiongkok berbentuk kura-kura dengan naga, simbol umur panjang.",
+    "jawaban": "Kura-kura Naga",
+    "deskripsi": "Makhluk mitologi Tiongkok, kombinasi kura-kura dan naga, simbol umur panjang dan kebijaksanaan."
+  },
+  {
+    "index": 75,
+    "soal": "Makhluk mitologi Tiongkok berbentuk harimau putih, salah satu dari empat simbol.",
+    "jawaban": "Harimau Putih",
+    "deskripsi": "Salah satu dari empat simbol mitologi Tiongkok, melambangkan barat dan musim gugur."
+  },
+  {
+    "index": 76,
+    "soal": "Makhluk mitologi Tiongkok berbentuk naga biru, salah satu dari empat simbol.",
+    "jawaban": "Naga Biru",
+    "deskripsi": "Salah satu dari empat simbol mitologi Tiongkok, melambangkan timur dan musim semi."
+  },
+  {
+    "index": 77,
+    "soal": "Makhluk mitologi Tiongkok berbentuk burung merah, salah satu dari empat simbol.",
+    "jawaban": "Burung Merah",
+    "deskripsi": "Salah satu dari empat simbol mitologi Tiongkok, melambangkan selatan dan musim panas."
+  },
+  {
+    "index": 78,
+    "soal": "Makhluk mitologi Tiongkok berbentuk kura-kura hitam, salah satu dari empat simbol.",
+    "jawaban": "Kura-kura Hitam",
+    "deskripsi": "Salah satu dari empat simbol mitologi Tiongkok, melambangkan utara dan musim dingin."
+  },
+  {
+    "index": 79,
+    "soal": "Makhluk mitologi Mesir berbentuk sphinx dengan tubuh singa dan kepala manusia.",
+    "jawaban": "Sphinx",
+    "deskripsi": "Makhluk mitologi Mesir dengan tubuh singa dan kepala manusia, dikenal sebagai penjaga."
+  },
+  {
+    "index": 80,
+    "soal": "Makhluk mitologi Yunani berbentuk separuh manusia dan separuh kuda.",
+    "jawaban": "Centaur",
+    "deskripsi": "Makhluk mitologi Yunani dengan tubuh kuda dan batang tubuh manusia."
+  },
+  {
+    "index": 81,
+    "soal": "Makhluk mitologi Yunani berbentuk separuh manusia dan separuh kambing.",
+    "jawaban": "Satyr",
+    "deskripsi": "Makhluk mitologi Yunani dengan tubuh manusia dan kaki kambing, pengikut Dionysus."
+  },
+  {
+    "index": 82,
+    "soal": "Makhluk mitologi Yunani berbentuk wanita dengan ekor ular dan rambut ular (Gorgon).",
+    "jawaban": "Medusa",
+    "deskripsi": "Salah satu Gorgon dalam mitologi Yunani, memiliki rambut ular dan bisa mengubah orang menjadi batu."
+  },
+  {
+    "index": 83,
+    "soal": "Makhluk mitologi Yunani berbentuk burung dengan wajah wanita, suara merdu.",
+    "jawaban": "Siren",
+    "deskripsi": "Makhluk mitologi Yunani dengan suara merdu yang memikat pelaut ke kematian."
+  },
+  {
+    "index": 84,
+    "soal": "Makhluk mitologi Yunani berbentuk raksasa dengan satu mata di tengah dahi.",
+    "jawaban": "Cyclops",
+    "deskripsi": "Raksasa bermata satu dalam mitologi Yunani, terkenal dalam cerita Odysseus."
+  },
+  {
+    "index": 85,
+    "soal": "Makhluk mitologi Yunani berbentuk wanita dengan sayap burung dan cakar.",
+    "jawaban": "Harpy",
+    "deskripsi": "Makhluk mitologi Yunani dengan tubuh burung dan wajah wanita, pencuri makanan."
+  },
+  {
+    "index": 86,
+    "soal": "Makhluk mitologi Yunani berbentuk naga berkepala banyak yang menjaga Hades.",
+    "jawaban": "Cerberus",
+    "deskripsi": "Anjing berkepala tiga yang menjaga pintu masuk dunia bawah dalam mitologi Yunani."
+  },
+  {
+    "index": 87,
+    "soal": "Makhluk mitologi Yunani berbentuk ular dengan sembilan kepala, dibunuh oleh Hercules.",
+    "jawaban": "Hydra",
+    "deskripsi": "Ular raksasa dengan sembilan kepala dalam mitologi Yunani, dibunuh oleh Hercules sebagai tugas kedua."
+  },
+  {
+    "index": 88,
+    "soal": "Makhluk mitologi Yunani berbentuk singa dengan kulit kebal, dibunuh oleh Hercules.",
+    "jawaban": "Singa Nemea",
+    "deskripsi": "Singa raksasa dengan kulit kebal dalam mitologi Yunani, dibunuh oleh Hercules sebagai tugas pertama."
+  },
+  {
+    "index": 89,
+    "soal": "Makhluk mitologi Yunani berbentuk burung raksasa dengan bulu emas, dijaga oleh naga.",
+    "jawaban": "Bulu Domba Emas",
+    "deskripsi": "Bulu domba emas dalam mitologi Yunani, dicari oleh Jason dan para Argonaut."
+  },
+  {
+    "index": 90,
+    "soal": "Makhluk mitologi Yunani berbentuk ular raksasa yang menjaga ramalan di Delphi.",
+    "jawaban": "Python",
+    "deskripsi": "Ular raksasa dalam mitologi Yunani yang dijaga oleh Apollo di Delphi."
+  },
+  {
+    "index": 91,
+    "soal": "Makhluk mitologi Yunani berbentuk manusia dan banteng, tinggal di labirin Kreta.",
+    "jawaban": "Minotaur",
+    "deskripsi": "Makhluk dengan tubuh manusia dan kepala banteng dalam mitologi Yunani, tinggal di labirin Kreta."
+  },
+  {
+    "index": 92,
+    "soal": "Makhluk mitologi Nordik berbentuk naga yang menjaga harta karun.",
+    "jawaban": "Fafnir",
+    "deskripsi": "Naga dalam mitologi Nordik yang menjaga harta karun dan dibunuh oleh Sigurd."
+  },
+  {
+    "index": 93,
+    "soal": "Makhluk mitologi Nordik berbentuk raksasa es yang musuh para dewa Asgard.",
+    "jawaban": "Jotun (Raksasa Es)",
+    "deskripsi": "Raksasa es dalam mitologi Nordik, musuh utama para dewa Asgard."
+  },
+  {
+    "index": 94,
+    "soal": "Makhluk mitologi Nordik berbentuk kuda dengan delapan kaki milik Odin.",
+    "jawaban": "Sleipnir",
+    "deskripsi": "Kuda dengan delapan kaki dalam mitologi Nordik, tunggangan Odin."
+  },
+  {
+    "index": 95,
+    "soal": "Makhluk mitologi Mesir berbentuk buaya dan manusia, dewa kelahiran.",
+    "jawaban": "Sobek",
+    "deskripsi": "Dewa buaya dalam mitologi Mesir, dewa kekuatan dan kelahiran."
+  },
+  {
+    "index": 96,
+    "soal": "Makhluk mitologi Mesir berbentuk burung bangau, dewa waktu.",
+    "jawaban": "Bennu",
+    "deskripsi": "Burung bangau dalam mitologi Mesir, dewa waktu dan penciptaan."
+  },
+  {
+    "index": 97,
+    "soal": "Makhluk mitologi India berbentuk kera putih yang membantu Rama.",
+    "jawaban": "Hanuman",
+    "deskripsi": "Kera putih dalam mitologi Hindu, prajurit setia Rama dan dewa kekuatan."
+  },
+  {
+    "index": 98,
+    "soal": "Makhluk mitologi Indonesia berbentuk naga terbang yang menjaga laut selatan.",
+    "jawaban": "Naga Laut",
+    "deskripsi": "Makhluk mitologi Nusantara, penjaga laut dan sumber bencana alam."
+  },
+  {
+    "index": 99,
+    "soal": "Makhluk mitologi Indonesia berbentuk ular berkepala tujuh, penjaga dunia bawah.",
+    "jawaban": "Naga Berkepala Tujuh",
+    "deskripsi": "Makhluk mitologi Nusantara, penjaga dunia bawah dan simbol kekuatan."
+  }
+]
