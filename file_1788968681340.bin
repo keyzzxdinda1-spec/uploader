@@ -1,0 +1,602 @@
+[
+  {
+    "index": 0,
+    "soal": "Ilmuwan yang merumuskan teori relativitas dan persamaan E=mc²",
+    "jawaban": "Albert Einstein",
+    "deskripsi": "Fisikawan Jerman yang merevolusi fisika modern dengan teori relativitas umum dan khusus."
+  },
+  {
+    "index": 1,
+    "soal": "Ilmuwan yang menemukan hukum gravitasi dan tiga hukum gerak",
+    "jawaban": "Isaac Newton",
+    "deskripsi": "Fisikawan dan matematikawan Inggris yang meletakkan dasar mekanika klasik dan kalkulus."
+  },
+  {
+    "index": 2,
+    "soal": "Ilmuwan yang mencetuskan teori evolusi melalui seleksi alam",
+    "jawaban": "Charles Darwin",
+    "deskripsi": "Naturalis Inggris yang menulis 'On the Origin of Species' dan mengubah biologi modern."
+  },
+  {
+    "index": 3,
+    "soal": "Ilmuwan yang menemukan unsur radioaktif Polonium dan Radium",
+    "jawaban": "Marie Curie",
+    "deskripsi": "Fisikawan dan kimiawan Polandia-Perancis, peraih Nobel dua bidang (Fisika dan Kimia)."
+  },
+  {
+    "index": 4,
+    "soal": "Ilmuwan yang menemukan vaksin polio dan berjasa dalam eradikasi penyakit",
+    "jawaban": "Jonas Salk",
+    "deskripsi": "Dokter dan peneliti Amerika yang mengembangkan vaksin polio tidak aktif pertama."
+  },
+  {
+    "index": 5,
+    "soal": "Ilmuwan yang menemukan penisilin, antibiotik pertama",
+    "jawaban": "Alexander Fleming",
+    "deskripsi": "Mikrobiolog Skotlandia yang secara tidak sengaja menemukan jamur Penicillium pada tahun 1928."
+  },
+  {
+    "index": 6,
+    "soal": "Ilmuwan yang merumuskan mekanika kuantum dan eksperimen kucing Schrödiger",
+    "jawaban": "Erwin Schrödinger",
+    "deskripsi": "Fisikawan Austria yang dikenal dengan persamaan Schrödinger dan paradoks kucing."
+  },
+  {
+    "index": 7,
+    "soal": "Ilmuwan yang menemukan prinsip ketidakpastian dalam fisika kuantum",
+    "jawaban": "Werner Heisenberg",
+    "deskripsi": "Fisikawan Jerman, peraih Nobel Fisika 1932, pencetus prinsip ketidakpastian."
+  },
+  {
+    "index": 8,
+    "soal": "Ilmuwan yang mengembangkan tabel periodik unsur",
+    "jawaban": "Dmitri Mendeleev",
+    "deskripsi": "Kimiawan Rusia yang menyusun tabel periodik berdasarkan massa atom dan sifat unsur."
+  },
+  {
+    "index": 9,
+    "soal": "Ilmuwan yang menemukan radiasi latar belakang kosmik (bukti Big Bang)",
+    "jawaban": "Arno Penzias",
+    "deskripsi": "Fisikawan Amerika yang bersama Robert Wilson menemukan CMB, memperkuat teori Big Bang."
+  },
+  {
+    "index": 10,
+    "soal": "Ilmuwan yang menemukan struktur DNA (double helix) bersama Crick",
+    "jawaban": "James Watson",
+    "deskripsi": "Ahli biologi molekuler Amerika yang menemukan struktur DNA bersama Francis Crick."
+  },
+  {
+    "index": 11,
+    "soal": "Ilmuwan yang menemukan vaksin rabies dan proses pasteurisasi",
+    "jawaban": "Louis Pasteur",
+    "deskripsi": "Kimiawan dan mikrobiolog Prancis yang mengembangkan vaksin dan teknik pasteurisasi."
+  },
+  {
+    "index": 12,
+    "soal": "Ilmuwan yang merumuskan hukum genetika melalui percobaan pada kacang kapri",
+    "jawaban": "Gregor Mendel",
+    "deskripsi": "Biksu dan ilmuwan Austria yang menjadi pelopor genetika modern."
+  },
+  {
+    "index": 13,
+    "soal": "Ilmuwan yang menemukan bahwa Bumi berputar mengelilingi Matahari (heliosentris)",
+    "jawaban": "Nicolaus Copernicus",
+    "deskripsi": "Astronom Polandia yang mengusulkan model heliosentris tata surya."
+  },
+  {
+    "index": 14,
+    "soal": "Ilmuwan yang menemukan planet-planet memiliki orbit elips (hukum Kepler)",
+    "jawaban": "Johannes Kepler",
+    "deskripsi": "Astronom Jerman yang merumuskan tiga hukum gerak planet."
+  },
+  {
+    "index": 15,
+    "soal": "Ilmuwan yang mengembangkan teleskop dan menemukan bulan-bulan Jupiter",
+    "jawaban": "Galileo Galilei",
+    "deskripsi": "Astronom Italia yang menyempurnakan teleskop dan mendukung teori heliosentris."
+  },
+  {
+    "index": 16,
+    "soal": "Ilmuwan yang merumuskan persamaan gelombang elektromagnetik",
+    "jawaban": "James Clerk Maxwell",
+    "deskripsi": "Fisikawan Skotlandia yang menyatukan listrik, magnet, dan cahaya dalam teori elektromagnetisme."
+  },
+  {
+    "index": 17,
+    "soal": "Ilmuwan yang menemukan induksi elektromagnetik dan hukum Faraday",
+    "jawaban": "Michael Faraday",
+    "deskripsi": "Ilmuwan Inggris yang menemukan induksi elektromagnetik, prinsip dasar generator dan motor."
+  },
+  {
+    "index": 18,
+    "soal": "Ilmuwan yang menemukan reaksi rantai nuklir dan membangun reaktor atom pertama",
+    "jawaban": "Enrico Fermi",
+    "deskripsi": "Fisikawan Italia-Amerika, pencetus reaktor nuklir pertama (Chicago Pile-1)."
+  },
+  {
+    "index": 19,
+    "soal": "Ilmuwan yang mengembangkan dinamit dan mendirikan hadiah Nobel",
+    "jawaban": "Alfred Nobel",
+    "deskripsi": "Kimiawan dan insinyur Swedia yang menemukan dinamit dan mewariskan hartanya untuk hadiah Nobel."
+  },
+  {
+    "index": 20,
+    "soal": "Ilmuwan yang menemukan bakteri penyebab TBC dan prinsip Koch",
+    "jawaban": "Robert Koch",
+    "deskripsi": "Mikrobiolog Jerman yang menemukan basil TBC dan mengembangkan postulat Koch."
+  },
+  {
+    "index": 21,
+    "soal": "Ilmuwan yang menemukan radiasi dan zat radioaktif (Becquerel)",
+    "jawaban": "Henri Becquerel",
+    "deskripsi": "Fisikawan Prancis yang menemukan radioaktivitas secara tidak sengaja pada tahun 1896."
+  },
+  {
+    "index": 22,
+    "soal": "Ilmuwan yang mengembangkan teori atom modern dan model atom Bohr",
+    "jawaban": "Niels Bohr",
+    "deskripsi": "Fisikawan Denmark yang merumuskan model atom dengan elektron mengorbit pada tingkat energi."
+  },
+  {
+    "index": 23,
+    "soal": "Ilmuwan yang menemukan elektron sebagai partikel subatom",
+    "jawaban": "J.J. Thomson",
+    "deskripsi": "Fisikawan Inggris yang menemukan elektron melalui eksperimen tabung sinar katoda."
+  },
+  {
+    "index": 24,
+    "soal": "Ilmuwan yang mengukur muatan elektron dengan percobaan tetes minyak",
+    "jawaban": "Robert Millikan",
+    "deskripsi": "Fisikawan Amerika yang mengukur muatan elektron dan memenangkan Nobel Fisika 1923."
+  },
+  {
+    "index": 25,
+    "soal": "Ilmuwan yang menemukan neutron sebagai partikel netral dalam inti atom",
+    "jawaban": "James Chadwick",
+    "deskripsi": "Fisikawan Inggris yang menemukan neutron pada tahun 1932."
+  },
+  {
+    "index": 26,
+    "soal": "Ilmuwan yang merumuskan prinsip ketidakpastian dan kontribusi pada mekanika matriks",
+    "jawaban": "Werner Heisenberg",
+    "deskripsi": "Fisikawan Jerman, peraih Nobel Fisika 1932, pencetus prinsip ketidakpastian."
+  },
+  {
+    "index": 27,
+    "soal": "Ilmuwan yang mengembangkan teori kuantum Planck (konstanta Planck)",
+    "jawaban": "Max Planck",
+    "deskripsi": "Fisikawan Jerman yang memperkenalkan konstanta Planck dan memulai teori kuantum."
+  },
+  {
+    "index": 28,
+    "soal": "Ilmuwan yang menemukan hukum kekekalan massa dan merintis kimia modern",
+    "jawaban": "Antoine Lavoisier",
+    "deskripsi": "Kimiawan Prancis yang merumuskan hukum kekekalan massa dan mengidentifikasi oksigen."
+  },
+  {
+    "index": 29,
+    "soal": "Ilmuwan yang menemukan gas oksigen secara terpisah (dari air)",
+    "jawaban": "Joseph Priestley",
+    "deskripsi": "Kimiawan Inggris yang menemukan oksigen dan banyak gas lainnya."
+  },
+  {
+    "index": 30,
+    "soal": "Ilmuwan yang mengembangkan teori sel dan menemukan sel pertama",
+    "jawaban": "Robert Hooke",
+    "deskripsi": "Ilmuwan Inggris yang mengamati sel gabus dan menciptakan istilah 'cell'."
+  },
+  {
+    "index": 31,
+    "soal": "Ilmuwan yang menemukan mikroorganisme menggunakan mikroskop pertama",
+    "jawaban": "Antonie van Leeuwenhoek",
+    "deskripsi": "Ilmuwan Belanda yang mengamati bakteri dan protozoa pertama kali."
+  },
+  {
+    "index": 32,
+    "soal": "Ilmuwan yang menyusun sistem klasifikasi makhluk hidup (taksonomi)",
+    "jawaban": "Carl Linnaeus",
+    "deskripsi": "Ilmuwan Swedia yang menciptakan sistem tata nama binomial untuk spesies."
+  },
+  {
+    "index": 33,
+    "soal": "Ilmuwan yang mengembangkan teori tentang gerak lempeng tektonik",
+    "jawaban": "Alfred Wegener",
+    "deskripsi": "Meteorologi dan geolog Jerman yang mengusulkan teori pergeseran benua."
+  },
+  {
+    "index": 34,
+    "soal": "Ilmuwan yang menemukan bahwa alam semesta mengembang (Hukum Hubble)",
+    "jawaban": "Edwin Hubble",
+    "deskripsi": "Astronom Amerika yang membuktikan galaksi-galaksi saling menjauh dan alam semesta mengembang."
+  },
+  {
+    "index": 35,
+    "soal": "Ilmuwan yang mengembangkan vaksin cacar pertama (dari sapi)",
+    "jawaban": "Edward Jenner",
+    "deskripsi": "Dokter Inggris yang mengembangkan vaksin cacar dengan menggunakan virus sapi."
+  },
+  {
+    "index": 36,
+    "soal": "Ilmuwan yang menemukan Helicobacter pylori sebagai penyebab maag",
+    "jawaban": "Barry Marshall",
+    "deskripsi": "Dokter Australia yang menemukan bakteri H. pylori dan memenangkan Nobel 2005."
+  },
+  {
+    "index": 37,
+    "soal": "Ilmuwan yang memetakan genom manusia dan mengarahkan Proyek Genom Manusia",
+    "jawaban": "Francis Collins",
+    "deskripsi": "Ahli genetika Amerika yang memimpin Proyek Genom Manusia."
+  },
+  {
+    "index": 38,
+    "soal": "Ilmuwan yang menemukan teknik DNA fingerprinting (sidik jari DNA)",
+    "jawaban": "Alec Jeffreys",
+    "deskripsi": "Ahli genetika Inggris yang mengembangkan teknik DNA fingerprinting untuk identifikasi."
+  },
+  {
+    "index": 39,
+    "soal": "Ilmuwan yang mengembangkan reaksi berantai PCR untuk amplifikasi DNA",
+    "jawaban": "Kary Mullis",
+    "deskripsi": "Kimiawan Amerika yang menemukan PCR, merevolusi biologi molekuler."
+  },
+  {
+    "index": 40,
+    "soal": "Ilmuwan yang mengusulkan struktur heliks DNA dan bersama Franklin, Wilkins, dan Crick",
+    "jawaban": "Rosalind Franklin",
+    "deskripsi": "Ahli biofisika Inggris yang mengambil foto X-ray DNA yang menjadi dasar penemuan heliks ganda."
+  },
+  {
+    "index": 41,
+    "soal": "Ilmuwan yang menemukan inti atom dan model atom Rutherford",
+    "jawaban": "Ernest Rutherford",
+    "deskripsi": "Fisikawan Selandia Baru yang menemukan inti atom melalui percobaan lempeng emas."
+  },
+  {
+    "index": 42,
+    "soal": "Ilmuwan yang mengembangkan bom atom di Proyek Manhattan",
+    "jawaban": "J. Robert Oppenheimer",
+    "deskripsi": "Fisikawan Amerika yang memimpin Proyek Manhattan dan menciptakan bom atom pertama."
+  },
+  {
+    "index": 43,
+    "soal": "Ilmuwan yang menemukan fisi nuklir bersama Strassmann dan Hahn",
+    "jawaban": "Lise Meitner",
+    "deskripsi": "Fisikawan Austria yang menjelaskan fisi nuklir dan tidak mendapatkan Nobel."
+  },
+  {
+    "index": 44,
+    "soal": "Ilmuwan yang menemukan partikel Higgs boson melalui CERN",
+    "jawaban": "Peter Higgs",
+    "deskripsi": "Fisikawan Inggris yang memprediksi keberadaan boson Higgs pada tahun 1964."
+  },
+  {
+    "index": 45,
+    "soal": "Ilmuwan yang mengembangkan teorema terakhir Fermat (jawaban dibuktikan oleh Wiles)",
+    "jawaban": "Andrew Wiles",
+    "deskripsi": "Matematikawan Inggris yang membuktikan Teorema Terakhir Fermat pada tahun 1994."
+  },
+  {
+    "index": 46,
+    "soal": "Ilmuwan yang menemukan komputasi modern dan mesin Turing",
+    "jawaban": "Alan Turing",
+    "deskripsi": "Ilmuwan komputer Inggris yang merumuskan konsep mesin Turing dan memecahkan kode Enigma."
+  },
+  {
+    "index": 47,
+    "soal": "Ilmuwan yang mengembangkan World Wide Web (WWW)",
+    "jawaban": "Tim Berners-Lee",
+    "deskripsi": "Ilmuwan komputer Inggris yang menciptakan WWW pada tahun 1989."
+  },
+  {
+    "index": 48,
+    "soal": "Ilmuwan yang menemukan arus listrik bolak-balik (AC) dan transformator",
+    "jawaban": "Nikola Tesla",
+    "deskripsi": "Insinyur listrik Serbia-Amerika yang mengembangkan sistem AC dan banyak penemuan lainnya."
+  },
+  {
+    "index": 49,
+    "soal": "Ilmuwan yang mengembangkan bola lampu pijar praktis dan sistem distribusi listrik DC",
+    "jawaban": "Thomas Edison",
+    "deskripsi": "Penemu Amerika yang mengembangkan bola lampu dan sistem listrik DC, serta banyak paten."
+  },
+  {
+    "index": 50,
+    "soal": "Ilmuwan yang menemukan hukum kekekalan energi dan termodinamika",
+    "jawaban": "Julius Robert Mayer",
+    "deskripsi": "Dokter dan fisikawan Jerman yang merumuskan hukum kekekalan energi."
+  },
+  {
+    "index": 51,
+    "soal": "Ilmuwan yang menemukan prinsip termodinamika kedua (entropi)",
+    "jawaban": "Rudolf Clausius",
+    "deskripsi": "Fisikawan Jerman yang merumuskan konsep entropi dan termodinamika kedua."
+  },
+  {
+    "index": 52,
+    "soal": "Ilmuwan yang mengembangkan model atom dengan kulit elektron (Bohr dan Sommerfeld)",
+    "jawaban": "Arnold Sommerfeld",
+    "deskripsi": "Fisikawan Jerman yang memperluas model Bohr dengan orbit elips dan bilangan kuantum."
+  },
+  {
+    "index": 53,
+    "soal": "Ilmuwan yang menemukan prinsip pengecualian Pauli dalam mekanika kuantum",
+    "jawaban": "Wolfgang Pauli",
+    "deskripsi": "Fisikawan Austria yang merumuskan prinsip pengecualian untuk fermion."
+  },
+  {
+    "index": 54,
+    "soal": "Ilmuwan yang mengembangkan teori relativitas umum dan meramalkan lubang hitam",
+    "jawaban": "Albert Einstein",
+    "deskripsi": "Fisikawan Jerman yang memprediksi lubang hitam dan gelombang gravitasi."
+  },
+  {
+    "index": 55,
+    "soal": "Ilmuwan yang menemukan hukum gas ideal dan konstanta Avogadro",
+    "jawaban": "Amedeo Avogadro",
+    "deskripsi": "Ilmuwan Italia yang mengusulkan bahwa gas-gas dengan volume yang sama mengandung jumlah molekul yang sama."
+  },
+  {
+    "index": 56,
+    "soal": "Ilmuwan yang mengembangkan teori atom Dalton (bola pejal)",
+    "jawaban": "John Dalton",
+    "deskripsi": "Kimiawan Inggris yang mengembangkan teori atom modern pertama."
+  },
+  {
+    "index": 57,
+    "soal": "Ilmuwan yang menemukan isotop dan notasi kimia modern",
+    "jawaban": "Frederick Soddy",
+    "deskripsi": "Kimiawan Inggris yang menemukan isotop dan menerima Nobel 1921."
+  },
+  {
+    "index": 58,
+    "soal": "Ilmuwan yang mengembangkan teknik kristalografi sinar-X untuk struktur protein",
+    "jawaban": "Dorothy Crowfoot Hodgkin",
+    "deskripsi": "Kimiawan Inggris yang memetakan struktur insulin dan vitamin B12 dengan sinar-X."
+  },
+  {
+    "index": 59,
+    "soal": "Ilmuwan yang menemukan enzim dan konsep katalisis biologis",
+    "jawaban": "Eduard Buchner",
+    "deskripsi": "Kimiawan Jerman yang menemukan fermentasi tanpa sel hidup (enzim)."
+  },
+  {
+    "index": 60,
+    "soal": "Ilmuwan yang menemukan vitamin C dan perannya dalam kesehatan",
+    "jawaban": "Albert Szent-Györgyi",
+    "deskripsi": "Fisiologi Hungaria yang menemukan vitamin C dan menerima Nobel 1937."
+  },
+  {
+    "index": 61,
+    "soal": "Ilmuwan yang mengembangkan teori kekebalan dan serum anti-tetanus",
+    "jawaban": "Émile Roux",
+    "deskripsi": "Dokter Prancis yang mengembangkan serum untuk difteri dan tetanus."
+  },
+  {
+    "index": 62,
+    "soal": "Ilmuwan yang menemukan vaksin hepatitis B dan metode transplantasi",
+    "jawaban": "Baruch Blumberg",
+    "deskripsi": "Dokter Amerika yang menemukan virus hepatitis B dan mengembangkan vaksin."
+  },
+  {
+    "index": 63,
+    "soal": "Ilmuwan yang mempelajari radiasi kosmik dan menemukan partikel muon",
+    "jawaban": "Carl David Anderson",
+    "deskripsi": "Fisikawan Amerika yang menemukan positron dan muon."
+  },
+  {
+    "index": 64,
+    "soal": "Ilmuwan yang mengembangkan teori evolusi kimia dan prebiotik (Miller-Urey)",
+    "jawaban": "Stanley Miller",
+    "deskripsi": "Kimiawan Amerika yang melakukan eksperimen Miller-Urey untuk mensimulasikan asal-usul kehidupan."
+  },
+  {
+    "index": 65,
+    "soal": "Ilmuwan yang menemukan struktur kristal insulin dan klorofil",
+    "jawaban": "Richard Willstätter",
+    "deskripsi": "Kimiawan Jerman yang mempelajari pigmen tumbuhan dan struktur klorofil, Nobel 1915."
+  },
+  {
+    "index": 66,
+    "soal": "Ilmuwan yang mengembangkan teknologi laser dan maser",
+    "jawaban": "Charles Townes",
+    "deskripsi": "Fisikawan Amerika yang menemukan maser dan laser, Nobel Fisika 1964."
+  },
+  {
+    "index": 67,
+    "soal": "Ilmuwan yang menemukan prinsip holografi dan mikroskop elektron",
+    "jawaban": "Dennis Gabor",
+    "deskripsi": "Insinyur Hungaria yang menemukan holografi, Nobel Fisika 1971."
+  },
+  {
+    "index": 68,
+    "soal": "Ilmuwan yang mengembangkan teori superkonduktor dan efek Meissner",
+    "jawaban": "Walther Meissner",
+    "deskripsi": "Fisikawan Jerman yang menemukan efek Meissner pada superkonduktor."
+  },
+  {
+    "index": 69,
+    "soal": "Ilmuwan yang menemukan partikel neutrino dan teori peluruhan beta",
+    "jawaban": "Wolfgang Pauli",
+    "deskripsi": "Fisikawan Austria yang memprediksi keberadaan neutrino untuk menjelaskan peluruhan beta."
+  },
+  {
+    "index": 70,
+    "soal": "Ilmuwan yang mengembangkan teori arus bolak-balik dan transformer",
+    "jawaban": "Nikola Tesla",
+    "deskripsi": "Insinyur listrik Serbia-Amerika, penemu sistem AC dan motor listrik."
+  },
+  {
+    "index": 71,
+    "soal": "Ilmuwan yang menemukan radioaktivitas buatan dan unsur transuranium",
+    "jawaban": "Frédéric Joliot-Curie",
+    "deskripsi": "Fisikawan Prancis yang menemukan radioaktivitas buatan, Nobel 1935."
+  },
+  {
+    "index": 72,
+    "soal": "Ilmuwan yang mempelajari struktur virus dan bakteriofag",
+    "jawaban": "Max Delbrück",
+    "deskripsi": "Ahli biologi Jerman-Amerika yang mempelajari virus dan genetika, Nobel 1969."
+  },
+  {
+    "index": 73,
+    "soal": "Ilmuwan yang mengembangkan terapi gen dan CRISPR-Cas9",
+    "jawaban": "Jennifer Doudna",
+    "deskripsi": "Ahli biokimia Amerika yang mengembangkan sistem pengeditan gen CRISPR-Cas9, Nobel 2020."
+  },
+  {
+    "index": 74,
+    "soal": "Ilmuwan yang menemukan struktur ribosom menggunakan kristalografi sinar-X",
+    "jawaban": "Ada Yonath",
+    "deskripsi": "Ahli kristalografi Israel yang memetakan struktur ribosom, Nobel Kimia 2009."
+  },
+  {
+    "index": 75,
+    "soal": "Ilmuwan yang mengembangkan teori gelombang gravitasi dan LIGO",
+    "jawaban": "Kip Thorne",
+    "deskripsi": "Fisikawan Amerika yang mengembangkan detektor LIGO dan mengamati gelombang gravitasi."
+  },
+  {
+    "index": 76,
+    "soal": "Ilmuwan yang menemukan mekanisme replikasi DNA dan enzim polimerase",
+    "jawaban": "Arthur Kornberg",
+    "deskripsi": "Ahli biokimia Amerika yang menemukan DNA polimerase, Nobel 1959."
+  },
+  {
+    "index": 77,
+    "soal": "Ilmuwan yang mengembangkan teori chaos dan efek kupu-kupu",
+    "jawaban": "Edward Lorenz",
+    "deskripsi": "Matematikawan dan meteorologi Amerika yang merumuskan teori chaos."
+  },
+  {
+    "index": 78,
+    "soal": "Ilmuwan yang menemukan AIDS virus dan mengembangkan obat antiretroviral",
+    "jawaban": "Robert Gallo",
+    "deskripsi": "Virolog Amerika yang mengidentifikasi HIV sebagai penyebab AIDS."
+  },
+  {
+    "index": 79,
+    "soal": "Ilmuwan yang mengembangkan terapi sel punca dan kloning (Domba Dolly)",
+    "jawaban": "Ian Wilmut",
+    "deskripsi": "Embriolog Inggris yang mengkloning domba Dolly menggunakan transfer inti."
+  },
+  {
+    "index": 80,
+    "soal": "Ilmuwan yang menemukan prinsip relativitas khusus dan massa-energi",
+    "jawaban": "Albert Einstein",
+    "deskripsi": "Fisikawan Jerman yang merevolusi fisika dengan relativitas dan E=mc²."
+  },
+  {
+    "index": 81,
+    "soal": "Ilmuwan yang mengembangkan teori superstring dan dimensi ekstra",
+    "jawaban": "Edward Witten",
+    "deskripsi": "Fisikawan matematis Amerika yang memajukan teori string dan M-teori."
+  },
+  {
+    "index": 82,
+    "soal": "Ilmuwan yang menemukan unsur-unsur baru dan tabel periodik modern",
+    "jawaban": "Glenn Seaborg",
+    "deskripsi": "Kimiawan Amerika yang menemukan unsur plutonium dan banyak unsur transuranium."
+  },
+  {
+    "index": 83,
+    "soal": "Ilmuwan yang mengembangkan teknik spektroskopi massa dan isotop",
+    "jawaban": "Francis William Aston",
+    "deskripsi": "Fisikawan Inggris yang menemukan spektrograf massa dan isotop, Nobel 1922."
+  },
+  {
+    "index": 84,
+    "soal": "Ilmuwan yang mempelajari fotosintesis dan klorofil",
+    "jawaban": "Robert Hill",
+    "deskripsi": "Ahli biokimia Inggris yang menemukan reaksi Hill dalam fotosintesis."
+  },
+  {
+    "index": 85,
+    "soal": "Ilmuwan yang mengembangkan teori informasi dan bit",
+    "jawaban": "Claude Shannon",
+    "deskripsi": "Matematikawan dan insinyur listrik Amerika, bapak teori informasi."
+  },
+  {
+    "index": 86,
+    "soal": "Ilmuwan yang menemukan supernova dan percepatan perluasan alam semesta",
+    "jawaban": "Saul Perlmutter",
+    "deskripsi": "Astrofisikawan Amerika yang menemukan energi gelap dan perluasan alam semesta."
+  },
+  {
+    "index": 87,
+    "soal": "Ilmuwan yang mengembangkan vaksin mRNA COVID-19 (BioNTech)",
+    "jawaban": "Uğur Şahin",
+    "deskripsi": "Ahli onkologi Turki-Jerman yang mengembangkan vaksin mRNA COVID-19 bersama BioNTech."
+  },
+  {
+    "index": 88,
+    "soal": "Ilmuwan yang menemukan efek fotolistrik dan teori kuantum cahaya",
+    "jawaban": "Albert Einstein",
+    "deskripsi": "Fisikawan Jerman yang menjelaskan efek fotolistrik, menerima Nobel Fisika 1921."
+  },
+  {
+    "index": 89,
+    "soal": "Ilmuwan yang mengembangkan metode pemurnian air dan desalinasi",
+    "jawaban": "Sidney Loeb",
+    "deskripsi": "Insinyur Amerika yang mengembangkan membran osmosis balik untuk desalinasi."
+  },
+  {
+    "index": 90,
+    "soal": "Ilmuwan yang mempelajari perilaku sosial hewan dan komunikasi lebah",
+    "jawaban": "Karl von Frisch",
+    "deskripsi": "Ahli etologi Austria yang meneliti komunikasi lebah dan tari lebah."
+  },
+  {
+    "index": 91,
+    "soal": "Ilmuwan yang mengembangkan teori kecerdasan buatan dan jaringan saraf",
+    "jawaban": "Geoffrey Hinton",
+    "deskripsi": "Ilmuwan komputer Kanada yang mengembangkan deep learning dan jaringan saraf."
+  },
+  {
+    "index": 92,
+    "soal": "Ilmuwan yang menemukan planet Uranus dan mengembangkan teleskop",
+    "jawaban": "William Herschel",
+    "deskripsi": "Astronom Inggris-Jerman yang menemukan planet Uranus pada tahun 1781."
+  },
+  {
+    "index": 93,
+    "soal": "Ilmuwan yang menemukan radiasi infra merah dan spektrum elektromagnetik",
+    "jawaban": "William Herschel",
+    "deskripsi": "Astronom yang juga menemukan radiasi infra merah saat mengamati matahari."
+  },
+  {
+    "index": 94,
+    "soal": "Ilmuwan yang mengembangkan ilmu epidemiologi dan peta penyakit",
+    "jawaban": "John Snow",
+    "deskripsi": "Dokter Inggris yang menemukan sumber wabah kolera dan merintis epidemiologi."
+  },
+  {
+    "index": 95,
+    "soal": "Ilmuwan yang menemukan prinsip kerja jam atom dan frekuensi cesium",
+    "jawaban": "Isidor Rabi",
+    "deskripsi": "Fisikawan Amerika yang mengembangkan resonansi magnetik dan jam atom."
+  },
+  {
+    "index": 96,
+    "soal": "Ilmuwan yang mengembangkan teori keruangan relativitas dan lubang hitam (Hawking)",
+    "jawaban": "Stephen Hawking",
+    "deskripsi": "Fisikawan teoretis Inggris yang mempelajari lubang hitam dan radiasi Hawking."
+  },
+  {
+    "index": 97,
+    "soal": "Ilmuwan yang menemukan pola bilangan Fibonacci dan Golden Ratio",
+    "jawaban": "Leonardo Fibonacci",
+    "deskripsi": "Matematikawan Italia yang memperkenalkan deret Fibonacci ke dunia Barat."
+  },
+  {
+    "index": 98,
+    "soal": "Ilmuwan yang mengembangkan teori probabilitas dan analisis statistik",
+    "jawaban": "Blaise Pascal",
+    "deskripsi": "Matematikawan dan fisikawan Prancis yang berkontribusi pada probabilitas dan hidrolika."
+  },
+  {
+    "index": 99,
+    "soal": "Ilmuwan yang menemukan vaksin campak dan gondok",
+    "jawaban": "Maurice Hilleman",
+    "deskripsi": "Mikrobiolog Amerika yang mengembangkan lebih dari 40 vaksin, termasuk campak dan gondok."
+  }
+]
