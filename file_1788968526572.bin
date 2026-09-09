@@ -1,0 +1,602 @@
+[
+  {
+    "index": 0,
+    "soal": "Pahlawan proklamator kemerdekaan Indonesia yang membacakan teks proklamasi.",
+    "jawaban": "Soekarno",
+    "deskripsi": "Presiden pertama Indonesia, orator ulung, penggali Pancasila, dan proklamator kemerdekaan."
+  },
+  {
+    "index": 1,
+    "soal": "Pahlawan yang dijuluki 'Si Singamangaraja' dari Tanah Batak.",
+    "jawaban": "Sisingamangaraja XII",
+    "deskripsi": "Pahlawan nasional dari Sumatera Utara yang berjuang melawan Belanda."
+  },
+  {
+    "index": 2,
+    "soal": "Pahlawan wanita dari Aceh yang berjuang melawan Belanda, dijuluki 'Si Ratu Atjeh'.",
+    "jawaban": "Cut Nyak Dien",
+    "deskripsi": "Pahlawan nasional Indonesia dari Aceh yang gigih melawan penjajah Belanda."
+  },
+  {
+    "index": 3,
+    "soal": "Pahlawan yang berperang di Surabaya dan terkenal dengan pidato 'Bersatulah, Bersatulah!'.",
+    "jawaban": "Bung Tomo",
+    "deskripsi": "Pahlawan revolusi yang membakar semangat arek-arek Surabaya melawan Sekutu."
+  },
+  {
+    "index": 4,
+    "soal": "Pahlawan yang dianggap sebagai Bapak Pendidikan Nasional Indonesia.",
+    "jawaban": "Ki Hajar Dewantara",
+    "deskripsi": "Tokoh pendidikan Indonesia, pendiri Taman Siswa, dan pencetus semboyan 'Ing Ngarso Sung Tulodo'."
+  },
+  {
+    "index": 5,
+    "soal": "Pahlawan yang dijuluki 'Jenderal Bintang Lima' karena sangat berjasa dalam kemerdekaan.",
+    "jawaban": "Sudirman",
+    "deskripsi": "Panglima besar TNI, memimpin perang gerilya melawan Belanda meskipun sakit keras."
+  },
+  {
+    "index": 6,
+    "soal": "Pahlawan yang merumuskan Pancasila dan dijuluki 'Bapak Koperasi Indonesia'.",
+    "jawaban": "Mohammad Hatta",
+    "deskripsi": "Wakil presiden pertama Indonesia, tokoh koperasi, dan proklamator kemerdekaan."
+  },
+  {
+    "index": 7,
+    "soal": "Pahlawan dari Jawa Barat yang berjuang melawan Belanda dengan taktik perang gerilya.",
+    "jawaban": "Diponegoro",
+    "deskripsi": "Pangeran Jawa yang memimpin Perang Diponegoro (1825-1830) melawan Belanda."
+  },
+  {
+    "index": 8,
+    "soal": "Pahlawan dari Sulawesi Selatan yang berjuang melawan Belanda dan gugur di usia muda.",
+    "jawaban": "Pangeran Antasari",
+    "deskripsi": "Pahlawan nasional dari Kalimantan yang memimpin perlawanan terhadap Belanda."
+  },
+  {
+    "index": 9,
+    "soal": "Pahlawan yang dikenal sebagai 'Sultan Baabullah' dari Kesultanan Ternate.",
+    "jawaban": "Baabullah",
+    "deskripsi": "Sultan Ternate yang berhasil mengusir Portugis dari Maluku pada abad ke-16."
+  },
+  {
+    "index": 10,
+    "soal": "Pahlawan yang memimpin perlawanan di Padang, Sumatera Barat melawan Belanda.",
+    "jawaban": "Tuanku Imam Bonjol",
+    "deskripsi": "Pahlawan nasional dari Sumatera Barat yang memimpin Perang Padri."
+  },
+  {
+    "index": 11,
+    "soal": "Pahlawan wanita yang gugur saat berjuang di Makassar melawan Belanda.",
+    "jawaban": "Kartini",
+    "deskripsi": "Tokoh emansipasi wanita Indonesia, pelopor kesetaraan gender dan pendidikan bagi perempuan."
+  },
+  {
+    "index": 12,
+    "soal": "Pahlawan dari Ternate yang dijuluki 'Nuku' dan memimpin perlawanan terhadap Belanda.",
+    "jawaban": "Sultan Nuku",
+    "deskripsi": "Sultan Tidore yang berhasil mengusir Belanda dari Maluku Utara."
+  },
+  {
+    "index": 13,
+    "soal": "Pahlawan yang berjasa dalam bidang diplomasi dan dikenal sebagai 'Bapak Diplomasi Indonesia'.",
+    "jawaban": "Agus Salim",
+    "deskripsi": "Tokoh diplomasi Indonesia, ahli bahasa, dan perjuangannya di bidang internasional."
+  },
+  {
+    "index": 14,
+    "soal": "Pahlawan yang memimpin perlawanan di Jawa Tengah melawan Belanda dengan taktik benteng pertahanan.",
+    "jawaban": "Pangeran Mangkubumi",
+    "deskripsi": "Sultan Hamengkubuwono I, pendiri Kesultanan Yogyakarta dan pahlawan perang melawan Belanda."
+  },
+  {
+    "index": 15,
+    "soal": "Pahlawan yang dijuluki 'Singa dari Timor' karena keberaniannya melawan Jepang.",
+    "jawaban": "Dominguos Soares",
+    "deskripsi": "Pahlawan nasional dari Timor Timur yang berjuang melawan penjajah."
+  },
+  {
+    "index": 16,
+    "soal": "Pahlawan yang gugur dalam pertempuran 10 November 1945 di Surabaya.",
+    "jawaban": "Mochammad Toha",
+    "deskripsi": "Pahlawan arek-arek Surabaya yang gugur dalam pertempuran melawan Sekutu."
+  },
+  {
+    "index": 17,
+    "soal": "Pahlawan yang berjasa di bidang agama dan pendidikan di Aceh.",
+    "jawaban": "Teungku Chik di Tiro",
+    "deskripsi": "Ulama dan pahlawan Aceh yang memimpin perlawanan terhadap Belanda."
+  },
+  {
+    "index": 18,
+    "soal": "Pahlawan yang memimpin perlawanan di Minahasa, Sulawesi Utara melawan Belanda.",
+    "jawaban": "Sam Ratulangi",
+    "deskripsi": "Pahlawan nasional dari Sulawesi Utara, tokoh pendidikan dan perjuangan."
+  },
+  {
+    "index": 19,
+    "soal": "Pahlawan yang berjasa dalam kemerdekaan Indonesia dan dikenal sebagai 'Bapak Pers Indonesia'.",
+    "jawaban": "Tirto Adhi Soerjo",
+    "deskripsi": "Tokoh pers Indonesia, pelopor jurnalisme dan perjuangan melalui media."
+  },
+  {
+    "index": 20,
+    "soal": "Pahlawan yang memimpin perlawanan di Kalimantan Selatan melawan Belanda.",
+    "jawaban": "Pangeran Antasari",
+    "deskripsi": "Pahlawan nasional dari Kalimantan yang memimpin perlawanan terhadap Belanda."
+  },
+  {
+    "index": 21,
+    "soal": "Pahlawan yang berjasa di bidang militer dan dikenal sebagai 'Jenderal Sudirman'.",
+    "jawaban": "Sudirman",
+    "deskripsi": "Panglima besar TNI yang memimpin perang gerilya melawan Belanda."
+  },
+  {
+    "index": 22,
+    "soal": "Pahlawan yang dijuluki 'Buya' dan merupakan tokoh pendidikan di Sumatera Barat.",
+    "jawaban": "Hamka",
+    "deskripsi": "Ulama, sastrawan, dan pahlawan nasional dari Sumatera Barat, penulis Tafsir Al-Azhar."
+  },
+  {
+    "index": 23,
+    "soal": "Pahlawan yang memimpin perlawanan di Banten melawan Belanda.",
+    "jawaban": "Sultan Ageng Tirtayasa",
+    "deskripsi": "Sultan Banten yang berjuang melawan Belanda pada abad ke-17."
+  },
+  {
+    "index": 24,
+    "soal": "Pahlawan yang berjasa dalam bidang ekonomi dan koperasi, dikenal sebagai 'Bapak Koperasi'.",
+    "jawaban": "Mohammad Hatta",
+    "deskripsi": "Wakil presiden pertama Indonesia dan tokoh koperasi nasional."
+  },
+  {
+    "index": 25,
+    "soal": "Pahlawan yang memimpin perlawanan di Maluku melawan Belanda.",
+    "jawaban": "Thomas Matulessy (Pattimura)",
+    "deskripsi": "Pahlawan nasional dari Maluku yang memimpin perlawanan melawan Belanda."
+  },
+  {
+    "index": 26,
+    "soal": "Pahlawan yang dijuluki 'Jenderal TNI' dan berjuang di Jawa Timur.",
+    "jawaban": "Bung Tomo",
+    "deskripsi": "Pahlawan revolusi yang membangkitkan semangat perjuangan arek-arek Surabaya."
+  },
+  {
+    "index": 27,
+    "soal": "Pahlawan yang berjasa di bidang kesehatan dan dikenal sebagai 'Bapak Kesehatan Indonesia'.",
+    "jawaban": "Dokter Cipto Mangunkusumo",
+    "deskripsi": "Tokoh pergerakan nasional dan pelopor kesehatan masyarakat Indonesia."
+  },
+  {
+    "index": 28,
+    "soal": "Pahlawan yang memimpin perlawanan di Sumatera Utara melawan Belanda.",
+    "jawaban": "Sisingamangaraja XII",
+    "deskripsi": "Pahlawan Batak yang berjuang melawan Belanda dan gugur di medan perang."
+  },
+  {
+    "index": 29,
+    "soal": "Pahlawan yang dijuluki 'Si Bungsu' dan merupakan tokoh pers Indonesia.",
+    "jawaban": "R.M. Tirto Adhi Soerjo",
+    "deskripsi": "Tokoh pers Indonesia, pelopor jurnalisme dan perjuangan melalui media."
+  },
+  {
+    "index": 30,
+    "soal": "Pahlawan yang memimpin perlawanan di Aceh melawan Belanda.",
+    "jawaban": "Cut Meutia",
+    "deskripsi": "Pahlawan wanita Aceh yang berjuang melawan Belanda dan gugur di medan perang."
+  },
+  {
+    "index": 31,
+    "soal": "Pahlawan yang berjasa di bidang seni dan budaya, dikenal sebagai 'Bapak Wayang Indonesia'.",
+    "jawaban": "Sunan Kalijaga",
+    "deskripsi": "Tokoh Wali Songo yang menyebarkan Islam melalui seni dan budaya Jawa."
+  },
+  {
+    "index": 32,
+    "soal": "Pahlawan yang memimpin perlawanan di Sulawesi Selatan melawan Belanda.",
+    "jawaban": "Pangeran Antasari",
+    "deskripsi": "Pahlawan nasional dari Kalimantan yang memimpin perlawanan terhadap Belanda."
+  },
+  {
+    "index": 33,
+    "soal": "Pahlawan yang dijuluki 'Bapak Pembangunan' karena berjasa dalam pembangunan infrastruktur.",
+    "jawaban": "Soeharto",
+    "deskripsi": "Presiden kedua Indonesia yang berkuasa selama 32 tahun dan fokus pada pembangunan ekonomi."
+  },
+  {
+    "index": 34,
+    "soal": "Pahlawan yang memimpin perlawanan di Sumatera Barat melawan Belanda.",
+    "jawaban": "Tuanku Imam Bonjol",
+    "deskripsi": "Pahlawan nasional dari Sumatera Barat yang memimpin Perang Padri."
+  },
+  {
+    "index": 35,
+    "soal": "Pahlawan yang berjasa di bidang agama dan pendidikan di Jawa Tengah.",
+    "jawaban": "K.H. Ahmad Dahlan",
+    "deskripsi": "Pendiri Muhammadiyah, pelopor gerakan pembaharuan Islam di Indonesia."
+  },
+  {
+    "index": 36,
+    "soal": "Pahlawan yang memimpin perlawanan di Kalimantan Barat melawan Belanda.",
+    "jawaban": "Pangeran Antasari",
+    "deskripsi": "Pahlawan nasional dari Kalimantan yang memimpin perlawanan terhadap Belanda."
+  },
+  {
+    "index": 37,
+    "soal": "Pahlawan yang dijuluki 'Bapak Pers Indonesia' dan berjasa dalam kemerdekaan.",
+    "jawaban": "Tirto Adhi Soerjo",
+    "deskripsi": "Tokoh pers Indonesia, pelopor jurnalisme dan perjuangan melalui media."
+  },
+  {
+    "index": 38,
+    "soal": "Pahlawan yang memimpin perlawanan di Maluku Utara melawan Belanda.",
+    "jawaban": "Sultan Nuku",
+    "deskripsi": "Sultan Tidore yang berhasil mengusir Belanda dari Maluku Utara."
+  },
+  {
+    "index": 39,
+    "soal": "Pahlawan yang berjasa di bidang olahraga dan dikenal sebagai 'Bapak Olahraga Indonesia'.",
+    "jawaban": "Soeratin Sosrosoegondo",
+    "deskripsi": "Tokoh olahraga Indonesia, pendiri Persatuan Sepak Bola Seluruh Indonesia (PSSI)."
+  },
+  {
+    "index": 40,
+    "soal": "Pahlawan yang memimpin perlawanan di Sumatera Utara melawan Belanda.",
+    "jawaban": "Sisingamangaraja XII",
+    "deskripsi": "Pahlawan Batak yang berjuang melawan Belanda dan gugur di medan perang."
+  },
+  {
+    "index": 41,
+    "soal": "Pahlawan yang dijuluki 'Jenderal Perak' dan berjasa dalam diplomasi.",
+    "jawaban": "Agus Salim",
+    "deskripsi": "Tokoh diplomasi Indonesia, ahli bahasa, dan perjuangannya di bidang internasional."
+  },
+  {
+    "index": 42,
+    "soal": "Pahlawan yang memimpin perlawanan di Aceh melawan Belanda.",
+    "jawaban": "Teungku Chik di Tiro",
+    "deskripsi": "Ulama dan pahlawan Aceh yang memimpin perlawanan terhadap Belanda."
+  },
+  {
+    "index": 43,
+    "soal": "Pahlawan yang berjasa di bidang pendidikan dan dikenal sebagai 'Bapak Pendidikan Nasional'.",
+    "jawaban": "Ki Hajar Dewantara",
+    "deskripsi": "Tokoh pendidikan Indonesia, pendiri Taman Siswa, dan pencetus semboyan 'Ing Ngarso Sung Tulodo'."
+  },
+  {
+    "index": 44,
+    "soal": "Pahlawan yang memimpin perlawanan di Banten melawan Belanda.",
+    "jawaban": "Sultan Ageng Tirtayasa",
+    "deskripsi": "Sultan Banten yang berjuang melawan Belanda pada abad ke-17."
+  },
+  {
+    "index": 45,
+    "soal": "Pahlawan yang dijuluki 'Singa dari Timor' dan berjuang melawan Jepang.",
+    "jawaban": "Dominguos Soares",
+    "deskripsi": "Pahlawan nasional dari Timor Timur yang berjuang melawan penjajah."
+  },
+  {
+    "index": 46,
+    "soal": "Pahlawan yang berjasa di bidang agama dan pendidikan di Sumatera Barat.",
+    "jawaban": "Hamka",
+    "deskripsi": "Ulama, sastrawan, dan pahlawan nasional dari Sumatera Barat, penulis Tafsir Al-Azhar."
+  },
+  {
+    "index": 47,
+    "soal": "Pahlawan yang memimpin perlawanan di Jawa Timur melawan Belanda.",
+    "jawaban": "Bung Tomo",
+    "deskripsi": "Pahlawan revolusi yang membangkitkan semangat perjuangan arek-arek Surabaya."
+  },
+  {
+    "index": 48,
+    "soal": "Pahlawan yang dijuluki 'Bapak Koperasi Indonesia' dan berjasa dalam ekonomi.",
+    "jawaban": "Mohammad Hatta",
+    "deskripsi": "Wakil presiden pertama Indonesia dan tokoh koperasi nasional."
+  },
+  {
+    "index": 49,
+    "soal": "Pahlawan yang memimpin perlawanan di Maluku melawan Belanda.",
+    "jawaban": "Pattimura (Thomas Matulessy)",
+    "deskripsi": "Pahlawan nasional dari Maluku yang memimpin perlawanan melawan Belanda."
+  },
+  {
+    "index": 50,
+    "soal": "Pahlawan yang berjasa di bidang kesehatan dan dikenal sebagai 'Bapak Kesehatan Indonesia'.",
+    "jawaban": "Dokter Cipto Mangunkusumo",
+    "deskripsi": "Tokoh pergerakan nasional dan pelopor kesehatan masyarakat Indonesia."
+  },
+  {
+    "index": 51,
+    "soal": "Pahlawan yang memimpin perlawanan di Sulawesi Utara melawan Belanda.",
+    "jawaban": "Sam Ratulangi",
+    "deskripsi": "Pahlawan nasional dari Sulawesi Utara, tokoh pendidikan dan perjuangan."
+  },
+  {
+    "index": 52,
+    "soal": "Pahlawan yang dijuluki 'Singa dari Batavia' dan berjuang melawan Belanda.",
+    "jawaban": "Pieter Erberveld",
+    "deskripsi": "Pahlawan Betawi yang memimpin pemberontakan melawan Belanda di Batavia."
+  },
+  {
+    "index": 53,
+    "soal": "Pahlawan yang berjasa di bidang seni dan budaya, dikenal sebagai 'Bapak Wayang'.",
+    "jawaban": "Sunan Kalijaga",
+    "deskripsi": "Tokoh Wali Songo yang menyebarkan Islam melalui seni dan budaya Jawa."
+  },
+  {
+    "index": 54,
+    "soal": "Pahlawan yang memimpin perlawanan di Sumatera Barat melawan Belanda.",
+    "jawaban": "Tuanku Imam Bonjol",
+    "deskripsi": "Pahlawan nasional dari Sumatera Barat yang memimpin Perang Padri."
+  },
+  {
+    "index": 55,
+    "soal": "Pahlawan yang dijuluki 'Jenderal TNI' dan berjuang di Surabaya.",
+    "jawaban": "Bung Tomo",
+    "deskripsi": "Pahlawan revolusi yang membangkitkan semangat perjuangan arek-arek Surabaya."
+  },
+  {
+    "index": 56,
+    "soal": "Pahlawan yang berjasa di bidang politik dan dikenal sebagai 'Bapak Diplomasi'.",
+    "jawaban": "Agus Salim",
+    "deskripsi": "Tokoh diplomasi Indonesia, ahli bahasa, dan perjuangannya di bidang internasional."
+  },
+  {
+    "index": 57,
+    "soal": "Pahlawan yang memimpin perlawanan di Aceh melawan Belanda.",
+    "jawaban": "Cut Meutia",
+    "deskripsi": "Pahlawan wanita Aceh yang berjuang melawan Belanda dan gugur di medan perang."
+  },
+  {
+    "index": 58,
+    "soal": "Pahlawan yang dijuluki 'Bapak Kemerdekaan' dan memimpin perjuangan kemerdekaan.",
+    "jawaban": "Soekarno",
+    "deskripsi": "Presiden pertama Indonesia, orator ulung, dan proklamator kemerdekaan."
+  },
+  {
+    "index": 59,
+    "soal": "Pahlawan yang memimpin perlawanan di Kalimantan Selatan melawan Belanda.",
+    "jawaban": "Pangeran Antasari",
+    "deskripsi": "Pahlawan nasional dari Kalimantan yang memimpin perlawanan terhadap Belanda."
+  },
+  {
+    "index": 60,
+    "soal": "Pahlawan yang berjasa di bidang agama dan pendidikan di Jawa Tengah.",
+    "jawaban": "K.H. Ahmad Dahlan",
+    "deskripsi": "Pendiri Muhammadiyah, pelopor gerakan pembaharuan Islam di Indonesia."
+  },
+  {
+    "index": 61,
+    "soal": "Pahlawan yang memimpin perlawanan di Sumatera Utara melawan Belanda.",
+    "jawaban": "Sisingamangaraja XII",
+    "deskripsi": "Pahlawan Batak yang berjuang melawan Belanda dan gugur di medan perang."
+  },
+  {
+    "index": 62,
+    "soal": "Pahlawan yang dijuluki 'Bapak Pembangunan' dan memimpin pembangunan ekonomi.",
+    "jawaban": "Soeharto",
+    "deskripsi": "Presiden kedua Indonesia yang berkuasa selama 32 tahun dan fokus pada pembangunan ekonomi."
+  },
+  {
+    "index": 63,
+    "soal": "Pahlawan yang memimpin perlawanan di Banten melawan Belanda.",
+    "jawaban": "Sultan Ageng Tirtayasa",
+    "deskripsi": "Sultan Banten yang berjuang melawan Belanda pada abad ke-17."
+  },
+  {
+    "index": 64,
+    "soal": "Pahlawan yang berjasa di bidang pendidikan dan dikenal sebagai 'Bapak Pendidikan'.",
+    "jawaban": "Ki Hajar Dewantara",
+    "deskripsi": "Tokoh pendidikan Indonesia, pendiri Taman Siswa, dan pencetus semboyan 'Ing Ngarso Sung Tulodo'."
+  },
+  {
+    "index": 65,
+    "soal": "Pahlawan yang memimpin perlawanan di Maluku Utara melawan Belanda.",
+    "jawaban": "Sultan Nuku",
+    "deskripsi": "Sultan Tidore yang berhasil mengusir Belanda dari Maluku Utara."
+  },
+  {
+    "index": 66,
+    "soal": "Pahlawan yang dijuluki 'Singa dari Timor' dan berjuang melawan Jepang.",
+    "jawaban": "Dominguos Soares",
+    "deskripsi": "Pahlawan nasional dari Timor Timur yang berjuang melawan penjajah."
+  },
+  {
+    "index": 67,
+    "soal": "Pahlawan yang berjasa di bidang kesehatan dan dikenal sebagai 'Bapak Kesehatan'.",
+    "jawaban": "Dokter Cipto Mangunkusumo",
+    "deskripsi": "Tokoh pergerakan nasional dan pelopor kesehatan masyarakat Indonesia."
+  },
+  {
+    "index": 68,
+    "soal": "Pahlawan yang memimpin perlawanan di Sulawesi Selatan melawan Belanda.",
+    "jawaban": "Pangeran Antasari",
+    "deskripsi": "Pahlawan nasional dari Kalimantan yang memimpin perlawanan terhadap Belanda."
+  },
+  {
+    "index": 69,
+    "soal": "Pahlawan yang dijuluki 'Bapak Pers Indonesia' dan berjasa dalam kemerdekaan.",
+    "jawaban": "Tirto Adhi Soerjo",
+    "deskripsi": "Tokoh pers Indonesia, pelopor jurnalisme dan perjuangan melalui media."
+  },
+  {
+    "index": 70,
+    "soal": "Pahlawan yang memimpin perlawanan di Aceh melawan Belanda.",
+    "jawaban": "Teungku Chik di Tiro",
+    "deskripsi": "Ulama dan pahlawan Aceh yang memimpin perlawanan terhadap Belanda."
+  },
+  {
+    "index": 71,
+    "soal": "Pahlawan yang berjasa di bidang olahraga dan dikenal sebagai 'Bapak Olahraga'.",
+    "jawaban": "Soeratin Sosrosoegondo",
+    "deskripsi": "Tokoh olahraga Indonesia, pendiri Persatuan Sepak Bola Seluruh Indonesia (PSSI)."
+  },
+  {
+    "index": 72,
+    "soal": "Pahlawan yang memimpin perlawanan di Sumatera Barat melawan Belanda.",
+    "jawaban": "Tuanku Imam Bonjol",
+    "deskripsi": "Pahlawan nasional dari Sumatera Barat yang memimpin Perang Padri."
+  },
+  {
+    "index": 73,
+    "soal": "Pahlawan yang dijuluki 'Jenderal TNI' dan berjuang di Surabaya.",
+    "jawaban": "Bung Tomo",
+    "deskripsi": "Pahlawan revolusi yang membangkitkan semangat perjuangan arek-arek Surabaya."
+  },
+  {
+    "index": 74,
+    "soal": "Pahlawan yang berjasa di bidang politik dan dikenal sebagai 'Bapak Diplomasi'.",
+    "jawaban": "Agus Salim",
+    "deskripsi": "Tokoh diplomasi Indonesia, ahli bahasa, dan perjuangannya di bidang internasional."
+  },
+  {
+    "index": 75,
+    "soal": "Pahlawan yang memimpin perlawanan di Aceh melawan Belanda.",
+    "jawaban": "Cut Meutia",
+    "deskripsi": "Pahlawan wanita Aceh yang berjuang melawan Belanda dan gugur di medan perang."
+  },
+  {
+    "index": 76,
+    "soal": "Pahlawan yang dijuluki 'Bapak Kemerdekaan' dan memimpin perjuangan kemerdekaan.",
+    "jawaban": "Soekarno",
+    "deskripsi": "Presiden pertama Indonesia, orator ulung, dan proklamator kemerdekaan."
+  },
+  {
+    "index": 77,
+    "soal": "Pahlawan yang memimpin perlawanan di Kalimantan Selatan melawan Belanda.",
+    "jawaban": "Pangeran Antasari",
+    "deskripsi": "Pahlawan nasional dari Kalimantan yang memimpin perlawanan terhadap Belanda."
+  },
+  {
+    "index": 78,
+    "soal": "Pahlawan yang berjasa di bidang agama dan pendidikan di Jawa Tengah.",
+    "jawaban": "K.H. Ahmad Dahlan",
+    "deskripsi": "Pendiri Muhammadiyah, pelopor gerakan pembaharuan Islam di Indonesia."
+  },
+  {
+    "index": 79,
+    "soal": "Pahlawan yang memimpin perlawanan di Sumatera Utara melawan Belanda.",
+    "jawaban": "Sisingamangaraja XII",
+    "deskripsi": "Pahlawan Batak yang berjuang melawan Belanda dan gugur di medan perang."
+  },
+  {
+    "index": 80,
+    "soal": "Pahlawan yang dijuluki 'Bapak Pembangunan' dan memimpin pembangunan ekonomi.",
+    "jawaban": "Soeharto",
+    "deskripsi": "Presiden kedua Indonesia yang berkuasa selama 32 tahun dan fokus pada pembangunan ekonomi."
+  },
+  {
+    "index": 81,
+    "soal": "Pahlawan yang memimpin perlawanan di Banten melawan Belanda.",
+    "jawaban": "Sultan Ageng Tirtayasa",
+    "deskripsi": "Sultan Banten yang berjuang melawan Belanda pada abad ke-17."
+  },
+  {
+    "index": 82,
+    "soal": "Pahlawan yang berjasa di bidang pendidikan dan dikenal sebagai 'Bapak Pendidikan'.",
+    "jawaban": "Ki Hajar Dewantara",
+    "deskripsi": "Tokoh pendidikan Indonesia, pendiri Taman Siswa, dan pencetus semboyan 'Ing Ngarso Sung Tulodo'."
+  },
+  {
+    "index": 83,
+    "soal": "Pahlawan yang memimpin perlawanan di Maluku Utara melawan Belanda.",
+    "jawaban": "Sultan Nuku",
+    "deskripsi": "Sultan Tidore yang berhasil mengusir Belanda dari Maluku Utara."
+  },
+  {
+    "index": 84,
+    "soal": "Pahlawan yang dijuluki 'Singa dari Timor' dan berjuang melawan Jepang.",
+    "jawaban": "Dominguos Soares",
+    "deskripsi": "Pahlawan nasional dari Timor Timur yang berjuang melawan penjajah."
+  },
+  {
+    "index": 85,
+    "soal": "Pahlawan yang berjasa di bidang kesehatan dan dikenal sebagai 'Bapak Kesehatan'.",
+    "jawaban": "Dokter Cipto Mangunkusumo",
+    "deskripsi": "Tokoh pergerakan nasional dan pelopor kesehatan masyarakat Indonesia."
+  },
+  {
+    "index": 86,
+    "soal": "Pahlawan yang memimpin perlawanan di Sulawesi Selatan melawan Belanda.",
+    "jawaban": "Pangeran Antasari",
+    "deskripsi": "Pahlawan nasional dari Kalimantan yang memimpin perlawanan terhadap Belanda."
+  },
+  {
+    "index": 87,
+    "soal": "Pahlawan yang dijuluki 'Bapak Pers Indonesia' dan berjasa dalam kemerdekaan.",
+    "jawaban": "Tirto Adhi Soerjo",
+    "deskripsi": "Tokoh pers Indonesia, pelopor jurnalisme dan perjuangan melalui media."
+  },
+  {
+    "index": 88,
+    "soal": "Pahlawan yang memimpin perlawanan di Aceh melawan Belanda.",
+    "jawaban": "Teungku Chik di Tiro",
+    "deskripsi": "Ulama dan pahlawan Aceh yang memimpin perlawanan terhadap Belanda."
+  },
+  {
+    "index": 89,
+    "soal": "Pahlawan yang berjasa di bidang olahraga dan dikenal sebagai 'Bapak Olahraga'.",
+    "jawaban": "Soeratin Sosrosoegondo",
+    "deskripsi": "Tokoh olahraga Indonesia, pendiri Persatuan Sepak Bola Seluruh Indonesia (PSSI)."
+  },
+  {
+    "index": 90,
+    "soal": "Pahlawan yang memimpin perlawanan di Sumatera Barat melawan Belanda.",
+    "jawaban": "Tuanku Imam Bonjol",
+    "deskripsi": "Pahlawan nasional dari Sumatera Barat yang memimpin Perang Padri."
+  },
+  {
+    "index": 91,
+    "soal": "Pahlawan yang dijuluki 'Jenderal TNI' dan berjuang di Surabaya.",
+    "jawaban": "Bung Tomo",
+    "deskripsi": "Pahlawan revolusi yang membangkitkan semangat perjuangan arek-arek Surabaya."
+  },
+  {
+    "index": 92,
+    "soal": "Pahlawan yang berjasa di bidang politik dan dikenal sebagai 'Bapak Diplomasi'.",
+    "jawaban": "Agus Salim",
+    "deskripsi": "Tokoh diplomasi Indonesia, ahli bahasa, dan perjuangannya di bidang internasional."
+  },
+  {
+    "index": 93,
+    "soal": "Pahlawan yang memimpin perlawanan di Aceh melawan Belanda.",
+    "jawaban": "Cut Meutia",
+    "deskripsi": "Pahlawan wanita Aceh yang berjuang melawan Belanda dan gugur di medan perang."
+  },
+  {
+    "index": 94,
+    "soal": "Pahlawan yang dijuluki 'Bapak Kemerdekaan' dan memimpin perjuangan kemerdekaan.",
+    "jawaban": "Soekarno",
+    "deskripsi": "Presiden pertama Indonesia, orator ulung, dan proklamator kemerdekaan."
+  },
+  {
+    "index": 95,
+    "soal": "Pahlawan yang memimpin perlawanan di Kalimantan Selatan melawan Belanda.",
+    "jawaban": "Pangeran Antasari",
+    "deskripsi": "Pahlawan nasional dari Kalimantan yang memimpin perlawanan terhadap Belanda."
+  },
+  {
+    "index": 96,
+    "soal": "Pahlawan yang berjasa di bidang agama dan pendidikan di Jawa Tengah.",
+    "jawaban": "K.H. Ahmad Dahlan",
+    "deskripsi": "Pendiri Muhammadiyah, pelopor gerakan pembaharuan Islam di Indonesia."
+  },
+  {
+    "index": 97,
+    "soal": "Pahlawan yang memimpin perlawanan di Sumatera Utara melawan Belanda.",
+    "jawaban": "Sisingamangaraja XII",
+    "deskripsi": "Pahlawan Batak yang berjuang melawan Belanda dan gugur di medan perang."
+  },
+  {
+    "index": 98,
+    "soal": "Pahlawan yang dijuluki 'Bapak Pembangunan' dan memimpin pembangunan ekonomi.",
+    "jawaban": "Soeharto",
+    "deskripsi": "Presiden kedua Indonesia yang berkuasa selama 32 tahun dan fokus pada pembangunan ekonomi."
+  },
+  {
+    "index": 99,
+    "soal": "Pahlawan yang memimpin perlawanan di Banten melawan Belanda.",
+    "jawaban": "Sultan Ageng Tirtayasa",
+    "deskripsi": "Sultan Banten yang berjuang melawan Belanda pada abad ke-17."
+  }
+]
