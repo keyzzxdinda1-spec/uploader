@@ -1,0 +1,602 @@
+[
+  {
+    "index": 0,
+    "soal": "Pelukis Italia yang melukis Mona Lisa dan menyempurnakan teknik sfumato.",
+    "jawaban": "Leonardo da Vinci",
+    "deskripsi": "Seniman Renaisans Italia, pelukis, ilmuwan, dan penemu. Karya terkenal: Mona Lisa, Perjamuan Terakhir."
+  },
+  {
+    "index": 1,
+    "soal": "Pematung dan pelukis Italia yang menciptakan patung David dan langit-langit Kapel Sistina.",
+    "jawaban": "Michelangelo Buonarroti",
+    "deskripsi": "Seniman Renaisans Italia, jenius di bidang patung, lukisan, dan arsitektur. Karya: David, Pietà, Langit-langit Sistina."
+  },
+  {
+    "index": 2,
+    "soal": "Pelukis Belanda yang memotong telinganya sendiri dan melukis 'Bintang Malam'.",
+    "jawaban": "Vincent van Gogh",
+    "deskripsi": "Pelukis Post-Impresionis Belanda dengan gaya warna berani dan sapuan kuas ekspresif. Karya: Starry Night, Sunflowers."
+  },
+  {
+    "index": 3,
+    "soal": "Pelukis Spanyol yang menciptakan gerakan Kubisme bersama Braque, dan melukis 'Guernica'.",
+    "jawaban": "Pablo Picasso",
+    "deskripsi": "Pelukis dan pematung Spanyol, salah satu seniman paling berpengaruh abad 20. Karya: Guernica, Les Demoiselles d'Avignon."
+  },
+  {
+    "index": 4,
+    "soal": "Pelukis Prancis yang menjadi pelopor Impresionisme dengan lukisan 'Impression, Sunrise'.",
+    "jawaban": "Claude Monet",
+    "deskripsi": "Pelukis Impresionis Prancis yang terkenal dengan lukisan pemandangan alam dan seri Water Lilies."
+  },
+  {
+    "index": 5,
+    "soal": "Pelukis Belanda yang ahli dalam chiaroscuro dan melukis 'The Night Watch'.",
+    "jawaban": "Rembrandt Harmenszoon van Rijn",
+    "deskripsi": "Pelukis dan pembuat cetak Belanda, maestro cahaya dan bayangan, karya: The Night Watch, Anatomy Lesson."
+  },
+  {
+    "index": 6,
+    "soal": "Pelukis Surrealis Spanyol dengan kumis ikonik dan lukisan 'The Persistence of Memory'.",
+    "jawaban": "Salvador Dalí",
+    "deskripsi": "Seniman Surrealis Spanyol yang dikenal dengan lukisan mimpi dan imajinasi liar. Karya: The Persistence of Memory."
+  },
+  {
+    "index": 7,
+    "soal": "Pelukis Meksiko yang dikenal dengan potret diri dan alis tebal, serta gaya surealis.",
+    "jawaban": "Frida Kahlo",
+    "deskripsi": "Pelukis Meksiko yang terkenal dengan potret diri dan karya yang mencerminkan penderitaan fisik dan emosional."
+  },
+  {
+    "index": 8,
+    "soal": "Pelukis Amerika yang menjadi ikon Pop Art dengan lukisan kaleng sup Campbell.",
+    "jawaban": "Andy Warhol",
+    "deskripsi": "Seniman Pop Art Amerika, pelopor seni konsumen dan reproduksi massal. Karya: Campbell's Soup Cans, Marilyn Diptych."
+  },
+  {
+    "index": 9,
+    "soal": "Pelukis Austria yang melukis 'The Kiss' dengan sentuhan emas dan gaya dekoratif Art Nouveau.",
+    "jawaban": "Gustav Klimt",
+    "deskripsi": "Pelukis Simbolis Austria, terkenal dengan lukisan emas dan pola dekoratif. Karya: The Kiss, Portrait of Adele Bloch-Bauer."
+  },
+  {
+    "index": 10,
+    "soal": "Pelukis Norwegia yang melukis 'The Scream', ikon ekspresi kecemasan manusia.",
+    "jawaban": "Edvard Munch",
+    "deskripsi": "Pelukis Ekspresionis Norwegia yang mengeksplorasi tema cinta, kecemasan, dan kematian. Karya: The Scream, Madonna."
+  },
+  {
+    "index": 11,
+    "soal": "Pelukis Prancis yang memimpin gerakan Fauvisme dengan warna liar dan kuat.",
+    "jawaban": "Henri Matisse",
+    "deskripsi": "Pelukis Prancis, pelopor Fauvisme, dikenal dengan warna berani dan bentuk sederhana. Karya: The Dance, Woman with a Hat."
+  },
+  {
+    "index": 12,
+    "soal": "Pelukis Prancis yang dijuluki 'Bapak Seni Modern' karena pendekatan geometrisnya.",
+    "jawaban": "Paul Cézanne",
+    "deskripsi": "Pelukis Post-Impresionis Prancis yang menjembatani Impresionisme dan Kubisme. Karya: Mont Sainte-Victoire, The Card Players."
+  },
+  {
+    "index": 13,
+    "soal": "Pelukis Italia Renaisans yang terkenal dengan kelembutan dan keindahan madonna-madonanya.",
+    "jawaban": "Raphael Sanzio",
+    "deskripsi": "Pelukis dan arsitek Italia Renaisans, terkenal dengan harmoni dan keindahan komposisinya. Karya: The School of Athens, Sistine Madonna."
+  },
+  {
+    "index": 14,
+    "soal": "Pelukis Italia yang menggunakan realisme dramatis dan efek cahaya dalam lukisan keagamaan.",
+    "jawaban": "Caravaggio",
+    "deskripsi": "Pelukis Barok Italia yang terkenal dengan tenebrisme dan realisme kuat. Karya: The Calling of St Matthew, Judith Beheading Holofernes."
+  },
+  {
+    "index": 15,
+    "soal": "Pelukis Belanda yang melukis 'Girl with a Pearl Earring' dan mahir dalam efek cahaya.",
+    "jawaban": "Johannes Vermeer",
+    "deskripsi": "Pelukis Belanda Zaman Keemasan, terkenal dengan lukisan interior dan efek cahaya. Karya: Girl with a Pearl Earring, The Milkmaid."
+  },
+  {
+    "index": 16,
+    "soal": "Pelukis Spanyol yang dikenal dengan lukisan hitam dan kritik sosial, pelopor Romantisisme.",
+    "jawaban": "Francisco Goya",
+    "deskripsi": "Pelukis Romantisisme Spanyol, terkenal dengan kritik sosial dan lukisan hitam. Karya: The Third of May 1808, Saturn Devouring His Son."
+  },
+  {
+    "index": 17,
+    "soal": "Pelukis Belanda yang menyempurnakan teknik lukisan minyak dan melukis 'Arnolfini Portrait'.",
+    "jawaban": "Jan van Eyck",
+    "deskripsi": "Pelukis Renaisans Utara Belanda, perintis lukisan minyak. Karya: Arnolfini Portrait, Ghent Altarpiece."
+  },
+  {
+    "index": 18,
+    "soal": "Pelukis Italia Renaisans yang melukis 'The Birth of Venus' dengan tema mitologi.",
+    "jawaban": "Sandro Botticelli",
+    "deskripsi": "Pelukis Italia Renaisans Awal, terkenal dengan lukisan mitologi dan keanggunan. Karya: The Birth of Venus, Primavera."
+  },
+  {
+    "index": 19,
+    "soal": "Pelukis Prancis Impresionis yang fokus pada adegan keramaian dan 'Bal du moulin de la Galette'.",
+    "jawaban": "Pierre-Auguste Renoir",
+    "deskripsi": "Pelukis Impresionis Prancis yang terkenal dengan lukisan kehidupan sehari-hari dan keceriaan. Karya: Dance at Le Moulin de la Galette."
+  },
+  {
+    "index": 20,
+    "soal": "Pelukis Prancis yang meninggalkan keluarga dan melukis di Tahiti dengan gaya primitif.",
+    "jawaban": "Paul Gauguin",
+    "deskripsi": "Pelukis Post-Impresionis Prancis, terkenal dengan lukisan warna-warni dan tema eksotis. Karya: Where Do We Come From?, Tahitian Women."
+  },
+  {
+    "index": 21,
+    "soal": "Pelukis Prancis yang mengembangkan teknik Pointillism dengan titik-titik kecil.",
+    "jawaban": "Georges Seurat",
+    "deskripsi": "Pelukis Prancis yang menciptakan teknik Pointillism (Divisionisme). Karya: A Sunday Afternoon on the Island of La Grande Jatte."
+  },
+  {
+    "index": 22,
+    "soal": "Pelukis Belanda yang menjadi pelopor De Stijl dengan lukisan kotak-kotak dan warna primer.",
+    "jawaban": "Piet Mondrian",
+    "deskripsi": "Pelukis abstrak Belanda, pelopor De Stijl, terkenal dengan komposisi geometris dan warna primer."
+  },
+  {
+    "index": 23,
+    "soal": "Pelukis Amerika yang mempopulerkan Action Painting dengan cipratan cat di atas kanvas.",
+    "jawaban": "Jackson Pollock",
+    "deskripsi": "Pelukis Ekspresionisme Abstrak Amerika, terkenal dengan teknik drip painting. Karya: No. 5, 1948, Autumn Rhythm."
+  },
+  {
+    "index": 24,
+    "soal": "Pelukis Amerika Pop Art yang terkenal dengan lukisan komik dan bunga-bunga besar.",
+    "jawaban": "Roy Lichtenstein",
+    "deskripsi": "Seniman Pop Art Amerika yang terinspirasi dari komik dan cetakan titik-titik Benday. Karya: Whaam!, Drowning Girl."
+  },
+  {
+    "index": 25,
+    "soal": "Pelukis Amerika yang melukis bunga-bunga besar dan pemandangan New Mexico.",
+    "jawaban": "Georgia O'Keeffe",
+    "deskripsi": "Pelukis Modernis Amerika, terkenal dengan lukisan bunga besar dan lanskap New Mexico."
+  },
+  {
+    "index": 26,
+    "soal": "Pelukis Belanda-Amerika yang menjadi pelopor Ekspresionisme Abstrak dan Action Painting.",
+    "jawaban": "Willem de Kooning",
+    "deskripsi": "Pelukis Ekspresionisme Abstrak, terkenal dengan lukisan Wanita dan sapuan kuas agresif."
+  },
+  {
+    "index": 27,
+    "soal": "Pelukis Amerika yang terkenal dengan lukisan abstrak berwarna besar dan meditatif.",
+    "jawaban": "Mark Rothko",
+    "deskripsi": "Pelukis Ekspresionisme Abstrak, terkenal dengan komposisi warna berlapis yang memunculkan emosi."
+  },
+  {
+    "index": 28,
+    "soal": "Pelukis Rusia yang mengembangkan seni abstrak geometris dan menjadi pelopor Suprematisme.",
+    "jawaban": "Kazimir Malevich",
+    "deskripsi": "Pelukis Rusia, pelopor Suprematisme dengan karya 'Black Square' yang revolusioner."
+  },
+  {
+    "index": 29,
+    "soal": "Pelukis Prancis yang melukis 'Nude Descending a Staircase' dan terkait dengan Dadaisme.",
+    "jawaban": "Marcel Duchamp",
+    "deskripsi": "Seniman Prancis yang menjembatani Kubisme dan Dada, pelopor seni konseptual dan readymade."
+  },
+  {
+    "index": 30,
+    "soal": "Pelukis Swiss-Jerman yang melukis seperti anak kecil dengan warna cerah dan bentuk sederhana.",
+    "jawaban": "Paul Klee",
+    "deskripsi": "Pelukis Jerman-Swiss, tokoh Bauhaus, dikenal dengan gaya ekspresif, warna-warni, dan simbolis."
+  },
+  {
+    "index": 31,
+    "soal": "Pelukis Spanyol yang merupakan pelopor Surealisme dengan lukisan mimpi dan objek fantastis.",
+    "jawaban": "Joan Miró",
+    "deskripsi": "Pelukis dan pematung Spanyol, pelopor Surealisme dengan gaya abstrak dan simbolisme."
+  },
+  {
+    "index": 32,
+    "soal": "Pematung Swiss yang menciptakan patung-patung ramping dan memanjang seperti manusia.",
+    "jawaban": "Alberto Giacometti",
+    "deskripsi": "Pematung dan pelukis Swiss, terkenal dengan patung manusia ramping yang menggambarkan kesendirian."
+  },
+  {
+    "index": 33,
+    "soal": "Pematung Prancis yang menciptakan 'The Thinker' dan 'The Kiss'.",
+    "jawaban": "Auguste Rodin",
+    "deskripsi": "Pematung Prancis, pelopor patung modern dengan ekspresi emosi dan detail realistis."
+  },
+  {
+    "index": 34,
+    "soal": "Seniman Jepang yang terkenal dengan lukisan titik-titik polkadot dan labu kuning.",
+    "jawaban": "Yayoi Kusama",
+    "deskripsi": "Seniman kontemporer Jepang, terkenal dengan instalasi polkadot dan karya infinity mirror."
+  },
+  {
+    "index": 35,
+    "soal": "Seniman Jepang yang menciptakan karakter Mr. DOB dan gaya Superflat.",
+    "jawaban": "Takashi Murakami",
+    "deskripsi": "Seniman kontemporer Jepang, pelopor gaya Superflat yang menggabungkan seni pop dan budaya otaku."
+  },
+  {
+    "index": 36,
+    "soal": "Seniman Tiongkok yang terkenal dengan instalasi kontroversial dan aktivisme politik.",
+    "jawaban": "Ai Weiwei",
+    "deskripsi": "Seniman kontemporer dan aktivis Tiongkok, terkenal dengan karya instalasi, fotografi, dan kritik sosial."
+  },
+  {
+    "index": 37,
+    "soal": "Seniman Inggris yang menciptakan instalasi 'The Physical Impossibility of Death in the Mind of Someone Living' (hiu dalam formalin).",
+    "jawaban": "Damien Hirst",
+    "deskripsi": "Seniman kontemporer Inggris, pelopor Young British Artists, terkenal dengan karya hewan dalam formalin dan motif tengkorak."
+  },
+  {
+    "index": 38,
+    "soal": "Seniman jalanan misterius dari Inggris yang dikenal dengan mural stensil dan kritik sosial.",
+    "jawaban": "Banksy",
+    "deskripsi": "Seniman jalanan anonim Inggris, terkenal dengan stensil satir, mural, dan aksi provokatif."
+  },
+  {
+    "index": 39,
+    "soal": "Pelukis dan pembuat cetak Amerika yang menciptakan ikon 'Hope' (poster Obama) dan wajah Andre the Giant.",
+    "jawaban": "Shepard Fairey",
+    "deskripsi": "Seniman jalanan Amerika, terkenal dengan stensil 'Obey Giant' dan poster kampanye Obama 'Hope'."
+  },
+  {
+    "index": 40,
+    "soal": "Pelukis Amerika yang terinspirasi dari grafiti dan budaya hip-hop, dengan warna cerah dan figur menari.",
+    "jawaban": "Keith Haring",
+    "deskripsi": "Seniman jalanan Amerika, terkenal dengan gambar figur manusia berwarna cerah dan gaya pop grafiti."
+  },
+  {
+    "index": 41,
+    "soal": "Pelukis Amerika yang memulai karier sebagai grafiti di New York dan menjadi ikon Neo-Ekspresionisme.",
+    "jawaban": "Jean-Michel Basquiat",
+    "deskripsi": "Seniman Neo-Ekspresionis Amerika, terkenal dengan lukisan mentah, teks, dan referensi budaya pop."
+  },
+  {
+    "index": 42,
+    "soal": "Pelukis Inggris yang melukis potret dengan gaya ekspresif dan kasar, pelopor Neo-Ekspresionisme.",
+    "jawaban": "Francis Bacon",
+    "deskripsi": "Pelukis Irlandia-Inggris, terkenal dengan lukisan figuratif yang suram, terdistorsi, dan ekspresif."
+  },
+  {
+    "index": 43,
+    "soal": "Pelukis Inggris yang terkenal dengan potret realistis dan telanjang, cucu dari Sigmund Freud.",
+    "jawaban": "Lucian Freud",
+    "deskripsi": "Pelukis Inggris-Jerman, terkenal dengan potret realistis dan tubuh telanjang dengan tekstur tebal."
+  },
+  {
+    "index": 44,
+    "soal": "Pelukis Inggris yang melukis pemandangan California dan kolam renang dengan gaya Pop Art.",
+    "jawaban": "David Hockney",
+    "deskripsi": "Pelukis Inggris, tokoh Pop Art, terkenal dengan lukisan kolam renang California dan penggunaan warna cerah."
+  },
+  {
+    "index": 45,
+    "soal": "Pelukis Belgia yang terkenal dengan lukisan surealis seperti 'The Treachery of Images' (ini bukan pipa).",
+    "jawaban": "René Magritte",
+    "deskripsi": "Pelukis Surealis Belgia, terkenal dengan lukisan paradoks dan teka-teki visual."
+  },
+  {
+    "index": 46,
+    "soal": "Pelukis Belanda yang terkenal dengan lukisan ilusi optik dan tangga tak berujung.",
+    "jawaban": "M.C. Escher",
+    "deskripsi": "Seniman grafis Belanda, terkenal dengan karya ilusi optik, tangga tak berujung, dan transformasi geometris."
+  },
+  {
+    "index": 47,
+    "soal": "Pelukis Prancis yang dikenal dengan lukisan 'The Swing' dan gaya Rococo.",
+    "jawaban": "Jean-Honoré Fragonard",
+    "deskripsi": "Pelukis Prancis Rococo, terkenal dengan lukisan ceria, romantis, dan dekoratif."
+  },
+  {
+    "index": 48,
+    "soal": "Pelukis Prancis yang melukis 'Liberty Leading the People', ikon revolusi Romantisisme.",
+    "jawaban": "Eugène Delacroix",
+    "deskripsi": "Pelukis Romantisisme Prancis, terkenal dengan warna berani dan tema heroik revolusi."
+  },
+  {
+    "index": 49,
+    "soal": "Pelukis Prancis yang menjadi pelopor Neoklasikisme dengan lukisan 'Oath of the Horatii'.",
+    "jawaban": "Jacques-Louis David",
+    "deskripsi": "Pelukis Neoklasik Prancis, terkenal dengan lukisan sejarah dan propaganda revolusi."
+  },
+  {
+    "index": 50,
+    "soal": "Pelukis Flemish yang melukis 'The Descent from the Cross' dan mahir dalam drama Barok.",
+    "jawaban": "Peter Paul Rubens",
+    "deskripsi": "Pelukis Barok Flemish, terkenal dengan figur berotot, warna kaya, dan komposisi dinamis."
+  },
+  {
+    "index": 51,
+    "soal": "Pelukis Spanyol yang melukis 'Las Meninas' dan menjadi pelopor realisme Barok.",
+    "jawaban": "Diego Velázquez",
+    "deskripsi": "Pelukis Barok Spanyol, terkenal dengan realisme, permainan cahaya, dan komposisi kompleks."
+  },
+  {
+    "index": 52,
+    "soal": "Pelukis Yunani-Spanyol yang melukis dengan gaya ekspresif dan figur memanjang.",
+    "jawaban": "El Greco",
+    "deskripsi": "Pelukis Renaisans Akhir Spanyol-Yunani, terkenal dengan warna dramatis dan figur memanjang."
+  },
+  {
+    "index": 53,
+    "soal": "Pelukis Inggris yang melukis pemandangan romantis dan efek cahaya dramatis.",
+    "jawaban": "J.M.W. Turner",
+    "deskripsi": "Pelukis Romantisisme Inggris, terkenal dengan lanskap dramatis dan efek cahaya atmosferik."
+  },
+  {
+    "index": 54,
+    "soal": "Pelukis Inggris yang melukis pemandangan pedesaan Inggris dengan tenang dan nyata.",
+    "jawaban": "John Constable",
+    "deskripsi": "Pelukis Romantisisme Inggris, terkenal dengan lukisan pemandangan pedesaan dan studi awan."
+  },
+  {
+    "index": 55,
+    "soal": "Pelukis Jerman yang melukis pemandangan alam dengan kesendirian dan mistis.",
+    "jawaban": "Caspar David Friedrich",
+    "deskripsi": "Pelukis Romantisisme Jerman, terkenal dengan lanskap yang menggambarkan kesendirian dan spiritualitas."
+  },
+  {
+    "index": 56,
+    "soal": "Pelukis Prancis yang melukis 'The Stone Breakers' dan pelopor Realisme.",
+    "jawaban": "Gustave Courbet",
+    "deskripsi": "Pelukis Realisme Prancis, terkenal dengan lukisan kehidupan sehari-hari dan sosial."
+  },
+  {
+    "index": 57,
+    "soal": "Pelukis Prancis yang melukis 'Olympia' dan 'Le Déjeuner sur l'herbe' yang kontroversial.",
+    "jawaban": "Édouard Manet",
+    "deskripsi": "Pelukis Prancis yang menjembatani Realisme dan Impresionisme, terkenal dengan subjek kontroversial."
+  },
+  {
+    "index": 58,
+    "soal": "Pelukis Amerika yang melukis 'American Gothic' dengan petani dan wanita di depan rumah.",
+    "jawaban": "Grant Wood",
+    "deskripsi": "Pelukis Regionalis Amerika, terkenal dengan lukisan 'American Gothic' yang ikonik."
+  },
+  {
+    "index": 59,
+    "soal": "Pelukis Amerika yang melukis 'Christina's World' dengan pemandangan padang rumput.",
+    "jawaban": "Andrew Wyeth",
+    "deskripsi": "Pelukis Realis Amerika, terkenal dengan lanskap dan figur dengan suasana melankolis."
+  },
+  {
+    "index": 60,
+    "soal": "Pelukis Inggris yang melukis potret masyarakat kelas atas dan menjadi pelopor Barok Inggris.",
+    "jawaban": "Anthony van Dyck",
+    "deskripsi": "Pelukis Barok Flemish-Inggris, terkenal dengan potret bangsawan dan gaya elegan."
+  },
+  {
+    "index": 61,
+    "soal": "Pelukis Amerika yang melukis 'The Gross Clinic' dan pelopor realisme medis.",
+    "jawaban": "Thomas Eakins",
+    "deskripsi": "Pelukis Realis Amerika, terkenal dengan lukisan anatomi dan olahraga."
+  },
+  {
+    "index": 62,
+    "soal": "Pelukis Amerika yang melukis 'Nighthawks' dengan suasana kota malam yang sepi.",
+    "jawaban": "Edward Hopper",
+    "deskripsi": "Pelukis Realis Amerika, terkenal dengan lukisan kesepian dan suasana kota modern."
+  },
+  {
+    "index": 63,
+    "soal": "Pelukis Prancis yang melukis 'The Dancing Class' dan menjadi pelopor Impresionisme.",
+    "jawaban": "Edgar Degas",
+    "deskripsi": "Pelukis Impresionis Prancis, terkenal dengan lukisan penari balet dan kuda balap."
+  },
+  {
+    "index": 64,
+    "soal": "Pelukis Amerika yang melukis 'The Veteran' dan ilustrasi untuk majalah dan cerita rakyat.",
+    "jawaban": "Norman Rockwell",
+    "deskripsi": "Ilustrator Amerika, terkenal dengan sampul The Saturday Evening Post dan potret kehidupan Amerika."
+  },
+  {
+    "index": 65,
+    "soal": "Pelukis Ceko yang melukis 'The Slav Epic' dan menjadi simbol Art Nouveau.",
+    "jawaban": "Alphonse Mucha",
+    "deskripsi": "Pelukis Art Nouveau Ceko, terkenal dengan poster dekoratif dan wanita cantik."
+  },
+  {
+    "index": 66,
+    "soal": "Pelukis Italia yang melukis 'Birth of Venus' (ulang) dan menjadi ikon Renaisans Awal.",
+    "jawaban": "Sandro Botticelli",
+    "deskripsi": "Pelukis Italia Renaisans Awal dengan tema mitologi dan keanggunan garis."
+  },
+  {
+    "index": 67,
+    "soal": "Pelukis Amerika yang melukis 'The Gulf Stream' dan pelopor realisme maritim.",
+    "jawaban": "Winslow Homer",
+    "deskripsi": "Pelukis Amerika, terkenal dengan lukisan laut dan kehidupan alam liar."
+  },
+  {
+    "index": 68,
+    "soal": "Pelukis Inggris yang melukis 'Whistler's Mother' dan pelopor seni tonal.",
+    "jawaban": "James McNeill Whistler",
+    "deskripsi": "Pelukis Amerika-Inggris, terkenal dengan lukisan tonal dan filosofi 'seni untuk seni'."
+  },
+  {
+    "index": 69,
+    "soal": "Pelukis Prancis yang melukis 'Girl with a Fan' dan menjadi pelopor Kubisme.",
+    "jawaban": "Georges Braque",
+    "deskripsi": "Pelukis Prancis yang bersama Picasso mengembangkan Kubisme, terkenal dengan bentuk geometris."
+  },
+  {
+    "index": 70,
+    "soal": "Pelukis Prancis yang melukis 'The Card Players' dan menginspirasi Kubisme.",
+    "jawaban": "Paul Cézanne",
+    "deskripsi": "Pelukis Post-Impresionis Prancis, dikenal sebagai 'Bapak Seni Modern' karena strukturnya."
+  },
+  {
+    "index": 71,
+    "soal": "Pelukis Prancis yang melukis 'The Luncheon of the Boating Party' dan menjadi pelopor Impresionisme.",
+    "jawaban": "Pierre-Auguste Renoir",
+    "deskripsi": "Pelukis Impresionis Prancis dengan warna cerah dan tema kebahagiaan."
+  },
+  {
+    "index": 72,
+    "soal": "Pelukis Belanda yang melukis 'The Jewish Bride' dan 'The Night Watch'.",
+    "jawaban": "Rembrandt",
+    "deskripsi": "Pelukis Zaman Keemasan Belanda, maestro cahaya dan bayangan."
+  },
+  {
+    "index": 73,
+    "soal": "Pelukis Inggris yang melukis 'Ophelia' dan menjadi pelopor Pra-Raphaelite.",
+    "jawaban": "John Everett Millais",
+    "deskripsi": "Pelukis Inggris, pendiri Pra-Raphaelite Brotherhood, terkenal dengan detail dan warna kaya."
+  },
+  {
+    "index": 74,
+    "soal": "Pelukis Amerika yang melukis 'The Peaceable Kingdom' dan pelopor seni naif.",
+    "jawaban": "Edward Hicks",
+    "deskripsi": "Pelukis Amerika, terkenal dengan lukisan naif dan tema perdamaian."
+  },
+  {
+    "index": 75,
+    "soal": "Pelukis Prancis yang melukis 'The Raft of the Medusa' dan pelopor Romantisisme.",
+    "jawaban": "Théodore Géricault",
+    "deskripsi": "Pelukis Romantisisme Prancis, terkenal dengan drama dan realisme."
+  },
+  {
+    "index": 76,
+    "soal": "Pelukis Austria yang melukis 'Death and the Maiden' dan menjadi pelopor Ekspresionisme.",
+    "jawaban": "Egon Schiele",
+    "deskripsi": "Pelukis Ekspresionis Austria, terkenal dengan figur kurus dan ekspresi emosi."
+  },
+  {
+    "index": 77,
+    "soal": "Pelukis Jerman yang melukis 'The Tower of Blue Horses' dan menjadi pelopor Ekspresionisme.",
+    "jawaban": "Franz Marc",
+    "deskripsi": "Pelukis Ekspresionis Jerman, pendiri Der Blaue Reiter, terkenal dengan hewan berwarna-warni."
+  },
+  {
+    "index": 78,
+    "soal": "Pelukis Italia yang melukis 'Madonna of the Rocks' dan 'The Last Supper'.",
+    "jawaban": "Leonardo da Vinci",
+    "deskripsi": "Jenius Renaisans Italia, pelukis, ilmuwan, penemu."
+  },
+  {
+    "index": 79,
+    "soal": "Pelukis Spanyol yang melukis 'The Burial of the Count of Orgaz' dan pelopor Mannerisme.",
+    "jawaban": "El Greco",
+    "deskripsi": "Pelukis Manneris Spanyol-Yunani dengan warna mistis dan figur memanjang."
+  },
+  {
+    "index": 80,
+    "soal": "Pelukis Prancis yang melukis 'The Voyage of Life' dan pelopor seni lanskap Amerika.",
+    "jawaban": "Thomas Cole",
+    "deskripsi": "Pelukis Amerika, pendiri Hudson River School, terkenal dengan lanskap romantis."
+  },
+  {
+    "index": 81,
+    "soal": "Pelukis Inggris yang melukis 'The Hay Wain' dan pelopor lanskap Inggris.",
+    "jawaban": "John Constable",
+    "deskripsi": "Pelukis Romantisisme Inggris dengan pemandangan pedesaan yang detail."
+  },
+  {
+    "index": 82,
+    "soal": "Pelukis Prancis yang melukis 'The Death of Sardanapalus' dan pelopor Romantisisme.",
+    "jawaban": "Eugène Delacroix",
+    "deskripsi": "Pelukis Romantisisme Prancis dengan warna berani dan tema heroik."
+  },
+  {
+    "index": 83,
+    "soal": "Pelukis Amerika yang melukis 'The Fighting Temeraire' dan pelopor seni maritim.",
+    "jawaban": "J.M.W. Turner",
+    "deskripsi": "Pelukis Romantisisme Inggris dengan efek cahaya dan atmosfer."
+  },
+  {
+    "index": 84,
+    "soal": "Pelukis Belanda yang melukis 'The Potato Eaters' dan pelopor Ekspresionisme.",
+    "jawaban": "Vincent van Gogh",
+    "deskripsi": "Pelukis Post-Impresionis Belanda dengan warna emosional dan sapuan kuas ekspresif."
+  },
+  {
+    "index": 85,
+    "soal": "Pelukis Amerika yang melukis 'The Fox Hunt' dan pelopor seni hewan.",
+    "jawaban": "Winslow Homer",
+    "deskripsi": "Pelukis Amerika dengan lanskap dan adegan kehidupan alam liar."
+  },
+  {
+    "index": 86,
+    "soal": "Pelukis Prancis yang melukis 'The Gleaners' dan pelopor Realisme.",
+    "jawaban": "Jean-François Millet",
+    "deskripsi": "Pelukis Realisme Prancis, terkenal dengan lukisan petani dan kehidupan pedesaan."
+  },
+  {
+    "index": 87,
+    "soal": "Pelukis Italia yang melukis 'The Calling of St Matthew' dan pelopor Barok.",
+    "jawaban": "Caravaggio",
+    "deskripsi": "Pelukis Barok Italia dengan tenebrisme dan realisme dramatis."
+  },
+  {
+    "index": 88,
+    "soal": "Pelukis Amerika yang melukis 'The Peaceable Kingdom' dan pelopor seni primitif.",
+    "jawaban": "Edward Hicks",
+    "deskripsi": "Pelukis naif Amerika dengan tema perdamaian dan hewan."
+  },
+  {
+    "index": 89,
+    "soal": "Pelukis Prancis yang melukis 'The Blue Rider' dan pelopor Ekspresionisme.",
+    "jawaban": "Wassily Kandinsky",
+    "deskripsi": "Pelukis Rusia-Jerman, pelopor seni abstrak, terkenal dengan warna dan bentuk spiritual."
+  },
+  {
+    "index": 90,
+    "soal": "Pelukis Jerman yang melukis 'The Scream' (versi lain) dan pelopor Ekspresionisme.",
+    "jawaban": "Edvard Munch",
+    "deskripsi": "Pelukis Norwegia Ekspresionis dengan tema kecemasan dan kematian."
+  },
+  {
+    "index": 91,
+    "soal": "Pelukis Inggris yang melukis 'The Lady of Shalott' dan pelopor Pra-Raphaelite.",
+    "jawaban": "John William Waterhouse",
+    "deskripsi": "Pelukis Pra-Raphaelite Inggris, terkenal dengan tema mitologi dan wanita."
+  },
+  {
+    "index": 92,
+    "soal": "Pelukis Italia yang melukis 'The School of Athens' dan pelopor Renaisans Tinggi.",
+    "jawaban": "Raphael",
+    "deskripsi": "Pelukis Renaisans Italia dengan harmoni dan keindahan komposisi."
+  },
+  {
+    "index": 93,
+    "soal": "Pelukis Belanda yang melukis 'The Milkmaid' dan pelopor realisme domestik.",
+    "jawaban": "Johannes Vermeer",
+    "deskripsi": "Pelukis Zaman Keemasan Belanda dengan efek cahaya dan kehidupan sehari-hari."
+  },
+  {
+    "index": 94,
+    "soal": "Pelukis Prancis yang melukis 'The Two Fridas' dan menjadi ikon seni Meksiko.",
+    "jawaban": "Frida Kahlo",
+    "deskripsi": "Pelukis Meksiko dengan potret diri dan simbolisme pribadi."
+  },
+  {
+    "index": 95,
+    "soal": "Pelukis Rusia yang melukis 'Black Square' dan pelopor Suprematisme.",
+    "jawaban": "Kazimir Malevich",
+    "deskripsi": "Pelukis Suprematisme Rusia dengan seni geometris murni."
+  },
+  {
+    "index": 96,
+    "soal": "Pelukis Belanda yang melukis 'The Tree' dan pelopor De Stijl.",
+    "jawaban": "Piet Mondrian",
+    "deskripsi": "Pelukis abstrak Belanda dengan garis dan warna primer."
+  },
+  {
+    "index": 97,
+    "soal": "Pelukis Amerika yang melukis 'The Gulf Stream' dan pelopor realisme alam.",
+    "jawaban": "Winslow Homer",
+    "deskripsi": "Pelukis Amerika dengan tema maritim dan alam liar."
+  },
+  {
+    "index": 98,
+    "soal": "Pelukis Prancis yang melukis 'The Dance' dan pelopor Fauvisme.",
+    "jawaban": "Henri Matisse",
+    "deskripsi": "Pelukis Prancis dengan warna berani dan bentuk sederhana."
+  },
+  {
+    "index": 99,
+    "soal": "Pelukis Inggris yang melukis 'The Yellow Christ' dan pelopor Post-Impresionisme.",
+    "jawaban": "Paul Gauguin",
+    "deskripsi": "Pelukis Post-Impresionis Prancis dengan warna eksotis dan tema primitif."
+  }
+]
