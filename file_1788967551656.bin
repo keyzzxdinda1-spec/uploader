@@ -1,0 +1,602 @@
+[
+  {
+    "index": 0,
+    "soal": "Apa arti kata 'arep' dalam bahasa Jawa?",
+    "jawaban": "Mau / Ingin",
+    "deskripsi": "Kata dalam bahasa Jawa ngoko yang berarti 'ingin' atau 'mau'."
+  },
+  {
+    "index": 1,
+    "soal": "Apa arti kata 'bagea' dalam bahasa Sunda?",
+    "jawaban": "Bagus / Cantik",
+    "deskripsi": "Kata dalam bahasa Sunda yang berarti 'bagus' atau 'cantik'."
+  },
+  {
+    "index": 2,
+    "soal": "Apa arti kata 'horas' dalam bahasa Batak?",
+    "jawaban": "Selamat / Damai",
+    "deskripsi": "Salam khas Batak yang berarti 'selamat' atau 'damai'."
+  },
+  {
+    "index": 3,
+    "soal": "Apa arti kata 'urang' dalam bahasa Sunda?",
+    "jawaban": "Orang",
+    "deskripsi": "Kata dalam bahasa Sunda yang berarti 'orang'."
+  },
+  {
+    "index": 4,
+    "soal": "Apa arti kata 'awak' dalam bahasa Minang?",
+    "jawaban": "Saya / Aku",
+    "deskripsi": "Kata dalam bahasa Minang yang berarti 'saya' atau 'aku'."
+  },
+  {
+    "index": 5,
+    "soal": "Apa arti kata 'nyai' dalam bahasa Sunda?",
+    "jawaban": "Kakak perempuan",
+    "deskripsi": "Kata dalam bahasa Sunda untuk 'kakak perempuan'."
+  },
+  {
+    "index": 6,
+    "soal": "Apa arti kata 'dah' dalam bahasa Batak Toba?",
+    "jawaban": "Saudara",
+    "deskripsi": "Kata dalam bahasa Batak Toba yang berarti 'saudara'."
+  },
+  {
+    "index": 7,
+    "soal": "Apa arti kata 'mangan' dalam bahasa Jawa?",
+    "jawaban": "Makan",
+    "deskripsi": "Kata dalam bahasa Jawa ngoko yang berarti 'makan'."
+  },
+  {
+    "index": 8,
+    "soal": "Apa arti kata 'sampurasun' dalam bahasa Sunda?",
+    "jawaban": "Permisi / Maaf",
+    "deskripsi": "Salam pembuka dalam bahasa Sunda yang berarti 'permisi' atau 'maaf'."
+  },
+  {
+    "index": 9,
+    "soal": "Apa arti kata 'horas' dalam bahasa Batak?",
+    "jawaban": "Selamat",
+    "deskripsi": "Ucapan selamat dalam bahasa Batak, juga digunakan sebagai salam."
+  },
+  {
+    "index": 10,
+    "soal": "Apa arti kata 'ombak' dalam bahasa Minang?",
+    "jawaban": "Gelombang",
+    "deskripsi": "Kata dalam bahasa Minang yang berarti 'gelombang' air laut."
+  },
+  {
+    "index": 11,
+    "soal": "Apa arti kata 'pena' dalam bahasa Jawa?",
+    "jawaban": "Pulpen / Pen",
+    "deskripsi": "Kata dalam bahasa Jawa yang berarti 'pulpen' atau 'pen'."
+  },
+  {
+    "index": 12,
+    "soal": "Apa arti kata 'makasih' dalam bahasa Bugis?",
+    "jawaban": "Terima kasih",
+    "deskripsi": "Ucapan terima kasih dalam bahasa Bugis."
+  },
+  {
+    "index": 13,
+    "soal": "Apa arti kata 'koya' dalam bahasa Madura?",
+    "jawaban": "Saya",
+    "deskripsi": "Kata dalam bahasa Madura yang berarti 'saya'."
+  },
+  {
+    "index": 14,
+    "soal": "Apa arti kata 'tana' dalam bahasa Bugis?",
+    "jawaban": "Tanah",
+    "deskripsi": "Kata dalam bahasa Bugis yang berarti 'tanah' atau 'bumi'."
+  },
+  {
+    "index": 15,
+    "soal": "Apa arti kata 'sugeng' dalam bahasa Jawa?",
+    "jawaban": "Selamat",
+    "deskripsi": "Kata dalam bahasa Jawa krama yang berarti 'selamat'."
+  },
+  {
+    "index": 16,
+    "soal": "Apa arti kata 'teu' dalam bahasa Sunda?",
+    "jawaban": "Tidak",
+    "deskripsi": "Kata dalam bahasa Sunda yang berarti 'tidak'."
+  },
+  {
+    "index": 17,
+    "soal": "Apa arti kata 'nang' dalam bahasa Betawi?",
+    "jawaban": "Di",
+    "deskripsi": "Kata dalam bahasa Betawi yang berarti 'di' (keterangan tempat)."
+  },
+  {
+    "index": 18,
+    "soal": "Apa arti kata 'api' dalam bahasa Minang?",
+    "jawaban": "Apa",
+    "deskripsi": "Kata dalam bahasa Minang yang berarti 'apa' (kata tanya)."
+  },
+  {
+    "index": 19,
+    "soal": "Apa arti kata 'kasep' dalam bahasa Sunda?",
+    "jawaban": "Ganteng",
+    "deskripsi": "Kata dalam bahasa Sunda untuk 'ganteng' (laki-laki tampan)."
+  },
+  {
+    "index": 20,
+    "soal": "Apa arti kata 'bocah' dalam bahasa Jawa?",
+    "jawaban": "Anak",
+    "deskripsi": "Kata dalam bahasa Jawa ngoko yang berarti 'anak'."
+  },
+  {
+    "index": 21,
+    "soal": "Apa arti kata 'mimpi' dalam bahasa Bugis?",
+    "jawaban": "Mimpi",
+    "deskripsi": "Kata dalam bahasa Bugis yang berarti 'mimpi' (saat tidur)."
+  },
+  {
+    "index": 22,
+    "soal": "Apa arti kata 'salam' dalam bahasa Melayu?",
+    "jawaban": "Salam / Damai",
+    "deskripsi": "Kata dalam bahasa Melayu yang berarti 'salam' atau 'damai'."
+  },
+  {
+    "index": 23,
+    "soal": "Apa arti kata 'cak' dalam bahasa Lombok?",
+    "jawaban": "Kakak",
+    "deskripsi": "Kata dalam bahasa Lombok untuk panggilan 'kakak'."
+  },
+  {
+    "index": 24,
+    "soal": "Apa arti kata 'anak' dalam bahasa Dayak?",
+    "jawaban": "Anak",
+    "deskripsi": "Kata dalam bahasa Dayak yang berarti 'anak'."
+  },
+  {
+    "index": 25,
+    "soal": "Apa arti kata 'bonai' dalam bahasa Minang?",
+    "jawaban": "Cantik",
+    "deskripsi": "Kata dalam bahasa Minang yang berarti 'cantik'."
+  },
+  {
+    "index": 26,
+    "soal": "Apa arti kata 'sanak' dalam bahasa Batak?",
+    "jawaban": "Saudara",
+    "deskripsi": "Kata dalam bahasa Batak yang berarti 'saudara' atau 'kerabat'."
+  },
+  {
+    "index": 27,
+    "soal": "Apa arti kata 'rena' dalam bahasa Sunda?",
+    "jawaban": "Cantik / Bagus",
+    "deskripsi": "Kata dalam bahasa Sunda yang berarti 'cantik' atau 'bagus'."
+  },
+  {
+    "index": 28,
+    "soal": "Apa arti kata 'tulung' dalam bahasa Jawa?",
+    "jawaban": "Tolong",
+    "deskripsi": "Kata dalam bahasa Jawa ngoko yang berarti 'tolong'."
+  },
+  {
+    "index": 29,
+    "soal": "Apa arti kata 'kabayan' dalam bahasa Sunda?",
+    "jawaban": "Bijak / Cerdas",
+    "deskripsi": "Kata dalam bahasa Sunda yang berarti 'bijak' atau 'cerdas'."
+  },
+  {
+    "index": 30,
+    "soal": "Apa arti kata 'pisan' dalam bahasa Sunda?",
+    "jawaban": "Sekali / Sangat",
+    "deskripsi": "Kata dalam bahasa Sunda yang berarti 'sekali' atau 'sangat'."
+  },
+  {
+    "index": 31,
+    "soal": "Apa arti kata 'bujang' dalam bahasa Melayu?",
+    "jawaban": "Laki-laki lajang",
+    "deskripsi": "Kata dalam bahasa Melayu untuk 'laki-laki yang belum menikah'."
+  },
+  {
+    "index": 32,
+    "soal": "Apa arti kata 'dara' dalam bahasa Minang?",
+    "jawaban": "Wanita lajang",
+    "deskripsi": "Kata dalam bahasa Minang untuk 'wanita yang belum menikah'."
+  },
+  {
+    "index": 33,
+    "soal": "Apa arti kata 'api' dalam bahasa Batak?",
+    "jawaban": "Api",
+    "deskripsi": "Kata dalam bahasa Batak yang berarti 'api'."
+  },
+  {
+    "index": 34,
+    "soal": "Apa arti kata 'pacar' dalam bahasa Sunda?",
+    "jawaban": "Kekasih",
+    "deskripsi": "Kata dalam bahasa Sunda yang berarti 'kekasih' atau 'teman pacaran'."
+  },
+  {
+    "index": 35,
+    "soal": "Apa arti kata 'raos' dalam bahasa Sunda?",
+    "jawaban": "Rasa",
+    "deskripsi": "Kata dalam bahasa Sunda yang berarti 'rasa' (perasaan atau cita rasa)."
+  },
+  {
+    "index": 36,
+    "soal": "Apa arti kata 'ampa' dalam bahasa Bugis?",
+    "jawaban": "Saya",
+    "deskripsi": "Kata dalam bahasa Bugis yang berarti 'saya'."
+  },
+  {
+    "index": 37,
+    "soal": "Apa arti kata 'kakek' dalam bahasa Minang?",
+    "jawaban": "Kakek",
+    "deskripsi": "Kata dalam bahasa Minang untuk 'kakek' atau 'nenek'."
+  },
+  {
+    "index": 38,
+    "soal": "Apa arti kata 'om' dalam bahasa Betawi?",
+    "jawaban": "Paman",
+    "deskripsi": "Kata dalam bahasa Betawi untuk 'paman' atau 'om'."
+  },
+  {
+    "index": 39,
+    "soal": "Apa arti kata 'batur' dalam bahasa Jawa?",
+    "jawaban": "Teman",
+    "deskripsi": "Kata dalam bahasa Jawa yang berarti 'teman' atau 'sahabat'."
+  },
+  {
+    "index": 40,
+    "soal": "Apa arti kata 'makan' dalam bahasa Batak?",
+    "jawaban": "Makan",
+    "deskripsi": "Kata dalam bahasa Batak yang berarti 'makan'."
+  },
+  {
+    "index": 41,
+    "soal": "Apa arti kata 'tama' dalam bahasa Bugis?",
+    "jawaban": "Masuk",
+    "deskripsi": "Kata dalam bahasa Bugis yang berarti 'masuk'."
+  },
+  {
+    "index": 42,
+    "soal": "Apa arti kata 'cai' dalam bahasa Sunda?",
+    "jawaban": "Air",
+    "deskripsi": "Kata dalam bahasa Sunda yang berarti 'air'."
+  },
+  {
+    "index": 43,
+    "soal": "Apa arti kata 'lawang' dalam bahasa Jawa?",
+    "jawaban": "Pintu",
+    "deskripsi": "Kata dalam bahasa Jawa yang berarti 'pintu'."
+  },
+  {
+    "index": 44,
+    "soal": "Apa arti kata 'pahla' dalam bahasa Minang?",
+    "jawaban": "Pahala",
+    "deskripsi": "Kata dalam bahasa Minang yang berarti 'pahala' (reward)."
+  },
+  {
+    "index": 45,
+    "soal": "Apa arti kata 'bato' dalam bahasa Sunda?",
+    "jawaban": "Batu",
+    "deskripsi": "Kata dalam bahasa Sunda yang berarti 'batu'."
+  },
+  {
+    "index": 46,
+    "soal": "Apa arti kata 'maaf' dalam bahasa Bugis?",
+    "jawaban": "Maaf",
+    "deskripsi": "Kata dalam bahasa Bugis yang berarti 'maaf'."
+  },
+  {
+    "index": 47,
+    "soal": "Apa arti kata 'malam' dalam bahasa Betawi?",
+    "jawaban": "Malam",
+    "deskripsi": "Kata dalam bahasa Betawi untuk 'malam hari'."
+  },
+  {
+    "index": 48,
+    "soal": "Apa arti kata 'sore' dalam bahasa Sunda?",
+    "jawaban": "Sore",
+    "deskripsi": "Kata dalam bahasa Sunda untuk 'sore hari'."
+  },
+  {
+    "index": 49,
+    "soal": "Apa arti kata 'pagi' dalam bahasa Jawa?",
+    "jawaban": "Pagi",
+    "deskripsi": "Kata dalam bahasa Jawa untuk 'pagi hari'."
+  },
+  {
+    "index": 50,
+    "soal": "Apa arti kata 'ngopi' dalam bahasa Sunda?",
+    "jawaban": "Minum kopi",
+    "deskripsi": "Kata dalam bahasa Sunda yang berarti 'minum kopi'."
+  },
+  {
+    "index": 51,
+    "soal": "Apa arti kata 'makan' dalam bahasa Minang?",
+    "jawaban": "Makan",
+    "deskripsi": "Kata dalam bahasa Minang yang berarti 'makan'."
+  },
+  {
+    "index": 52,
+    "soal": "Apa arti kata 'siang' dalam bahasa Batak?",
+    "jawaban": "Siang",
+    "deskripsi": "Kata dalam bahasa Batak untuk 'siang hari'."
+  },
+  {
+    "index": 53,
+    "soal": "Apa arti kata 'malam' dalam bahasa Bugis?",
+    "jawaban": "Malam",
+    "deskripsi": "Kata dalam bahasa Bugis untuk 'malam hari'."
+  },
+  {
+    "index": 54,
+    "soal": "Apa arti kata 'senang' dalam bahasa Sunda?",
+    "jawaban": "Senang",
+    "deskripsi": "Kata dalam bahasa Sunda yang berarti 'senang' atau 'gembira'."
+  },
+  {
+    "index": 55,
+    "soal": "Apa arti kata 'sedih' dalam bahasa Jawa?",
+    "jawaban": "Sedih",
+    "deskripsi": "Kata dalam bahasa Jawa yang berarti 'sedih' atau 'duka'."
+  },
+  {
+    "index": 56,
+    "soal": "Apa arti kata 'marah' dalam bahasa Minang?",
+    "jawaban": "Marah",
+    "deskripsi": "Kata dalam bahasa Minang yang berarti 'marah'."
+  },
+  {
+    "index": 57,
+    "soal": "Apa arti kata 'cinta' dalam bahasa Bugis?",
+    "jawaban": "Cinta",
+    "deskripsi": "Kata dalam bahasa Bugis yang berarti 'cinta'."
+  },
+  {
+    "index": 58,
+    "soal": "Apa arti kata 'sayang' dalam bahasa Sunda?",
+    "jawaban": "Sayang",
+    "deskripsi": "Kata dalam bahasa Sunda yang berarti 'sayang' atau 'kasih'."
+  },
+  {
+    "index": 59,
+    "soal": "Apa arti kata 'benci' dalam bahasa Batak?",
+    "jawaban": "Benci",
+    "deskripsi": "Kata dalam bahasa Batak yang berarti 'benci'."
+  },
+  {
+    "index": 60,
+    "soal": "Apa arti kata 'takut' dalam bahasa Jawa?",
+    "jawaban": "Takut",
+    "deskripsi": "Kata dalam bahasa Jawa yang berarti 'takut'."
+  },
+  {
+    "index": 61,
+    "soal": "Apa arti kata 'berani' dalam bahasa Minang?",
+    "jawaban": "Berani",
+    "deskripsi": "Kata dalam bahasa Minang yang berarti 'berani'."
+  },
+  {
+    "index": 62,
+    "soal": "Apa arti kata 'pintar' dalam bahasa Bugis?",
+    "jawaban": "Pintar",
+    "deskripsi": "Kata dalam bahasa Bugis yang berarti 'pintar' atau 'cerdas'."
+  },
+  {
+    "index": 63,
+    "soal": "Apa arti kata 'bodoh' dalam bahasa Sunda?",
+    "jawaban": "Bodoh",
+    "deskripsi": "Kata dalam bahasa Sunda yang berarti 'bodoh'."
+  },
+  {
+    "index": 64,
+    "soal": "Apa arti kata 'cepat' dalam bahasa Batak?",
+    "jawaban": "Cepat",
+    "deskripsi": "Kata dalam bahasa Batak yang berarti 'cepat'."
+  },
+  {
+    "index": 65,
+    "soal": "Apa arti kata 'lambat' dalam bahasa Jawa?",
+    "jawaban": "Lambat",
+    "deskripsi": "Kata dalam bahasa Jawa yang berarti 'lambat'."
+  },
+  {
+    "index": 66,
+    "soal": "Apa arti kata 'besar' dalam bahasa Minang?",
+    "jawaban": "Besar",
+    "deskripsi": "Kata dalam bahasa Minang yang berarti 'besar'."
+  },
+  {
+    "index": 67,
+    "soal": "Apa arti kata 'kecil' dalam bahasa Bugis?",
+    "jawaban": "Kecil",
+    "deskripsi": "Kata dalam bahasa Bugis yang berarti 'kecil'."
+  },
+  {
+    "index": 68,
+    "soal": "Apa arti kata 'panjang' dalam bahasa Sunda?",
+    "jawaban": "Panjang",
+    "deskripsi": "Kata dalam bahasa Sunda yang berarti 'panjang'."
+  },
+  {
+    "index": 69,
+    "soal": "Apa arti kata 'pendek' dalam bahasa Batak?",
+    "jawaban": "Pendek",
+    "deskripsi": "Kata dalam bahasa Batak yang berarti 'pendek'."
+  },
+  {
+    "index": 70,
+    "soal": "Apa arti kata 'tinggi' dalam bahasa Jawa?",
+    "jawaban": "Tinggi",
+    "deskripsi": "Kata dalam bahasa Jawa yang berarti 'tinggi'."
+  },
+  {
+    "index": 71,
+    "soal": "Apa arti kata 'rendah' dalam bahasa Minang?",
+    "jawaban": "Rendah",
+    "deskripsi": "Kata dalam bahasa Minang yang berarti 'rendah'."
+  },
+  {
+    "index": 72,
+    "soal": "Apa arti kata 'kaya' dalam bahasa Bugis?",
+    "jawaban": "Kaya",
+    "deskripsi": "Kata dalam bahasa Bugis yang berarti 'kaya'."
+  },
+  {
+    "index": 73,
+    "soal": "Apa arti kata 'miskin' dalam bahasa Sunda?",
+    "jawaban": "Miskin",
+    "deskripsi": "Kata dalam bahasa Sunda yang berarti 'miskin'."
+  },
+  {
+    "index": 74,
+    "soal": "Apa arti kata 'sehat' dalam bahasa Batak?",
+    "jawaban": "Sehat",
+    "deskripsi": "Kata dalam bahasa Batak yang berarti 'sehat'."
+  },
+  {
+    "index": 75,
+    "soal": "Apa arti kata 'sakit' dalam bahasa Jawa?",
+    "jawaban": "Sakit",
+    "deskripsi": "Kata dalam bahasa Jawa yang berarti 'sakit'."
+  },
+  {
+    "index": 76,
+    "soal": "Apa arti kata 'bangun' dalam bahasa Minang?",
+    "jawaban": "Bangun",
+    "deskripsi": "Kata dalam bahasa Minang yang berarti 'bangun' (dari tidur)."
+  },
+  {
+    "index": 77,
+    "soal": "Apa arti kata 'tidur' dalam bahasa Bugis?",
+    "jawaban": "Tidur",
+    "deskripsi": "Kata dalam bahasa Bugis yang berarti 'tidur'."
+  },
+  {
+    "index": 78,
+    "soal": "Apa arti kata 'mandi' dalam bahasa Sunda?",
+    "jawaban": "Mandi",
+    "deskripsi": "Kata dalam bahasa Sunda yang berarti 'mandi'."
+  },
+  {
+    "index": 79,
+    "soal": "Apa arti kata 'kerja' dalam bahasa Batak?",
+    "jawaban": "Kerja",
+    "deskripsi": "Kata dalam bahasa Batak yang berarti 'kerja'."
+  },
+  {
+    "index": 80,
+    "soal": "Apa arti kata 'main' dalam bahasa Jawa?",
+    "jawaban": "Main",
+    "deskripsi": "Kata dalam bahasa Jawa yang berarti 'main' atau 'bermain'."
+  },
+  {
+    "index": 81,
+    "soal": "Apa arti kata 'belajar' dalam bahasa Minang?",
+    "jawaban": "Belajar",
+    "deskripsi": "Kata dalam bahasa Minang yang berarti 'belajar'."
+  },
+  {
+    "index": 82,
+    "soal": "Apa arti kata 'membaca' dalam bahasa Bugis?",
+    "jawaban": "Membaca",
+    "deskripsi": "Kata dalam bahasa Bugis yang berarti 'membaca'."
+  },
+  {
+    "index": 83,
+    "soal": "Apa arti kata 'menulis' dalam bahasa Sunda?",
+    "jawaban": "Menulis",
+    "deskripsi": "Kata dalam bahasa Sunda yang berarti 'menulis'."
+  },
+  {
+    "index": 84,
+    "soal": "Apa arti kata 'berbicara' dalam bahasa Batak?",
+    "jawaban": "Berbicara",
+    "deskripsi": "Kata dalam bahasa Batak yang berarti 'berbicara'."
+  },
+  {
+    "index": 85,
+    "soal": "Apa arti kata 'berjalan' dalam bahasa Jawa?",
+    "jawaban": "Berjalan",
+    "deskripsi": "Kata dalam bahasa Jawa yang berarti 'berjalan'."
+  },
+  {
+    "index": 86,
+    "soal": "Apa arti kata 'lari' dalam bahasa Minang?",
+    "jawaban": "Lari",
+    "deskripsi": "Kata dalam bahasa Minang yang berarti 'lari'."
+  },
+  {
+    "index": 87,
+    "soal": "Apa arti kata 'terbang' dalam bahasa Bugis?",
+    "jawaban": "Terbang",
+    "deskripsi": "Kata dalam bahasa Bugis yang berarti 'terbang'."
+  },
+  {
+    "index": 88,
+    "soal": "Apa arti kata 'berenang' dalam bahasa Sunda?",
+    "jawaban": "Berenang",
+    "deskripsi": "Kata dalam bahasa Sunda yang berarti 'berenang'."
+  },
+  {
+    "index": 89,
+    "soal": "Apa arti kata 'menari' dalam bahasa Batak?",
+    "jawaban": "Menari",
+    "deskripsi": "Kata dalam bahasa Batak yang berarti 'menari'."
+  },
+  {
+    "index": 90,
+    "soal": "Apa arti kata 'nyanyi' dalam bahasa Jawa?",
+    "jawaban": "Bernyanyi",
+    "deskripsi": "Kata dalam bahasa Jawa yang berarti 'bernyanyi'."
+  },
+  {
+    "index": 91,
+    "soal": "Apa arti kata 'nggambar' dalam bahasa Minang?",
+    "jawaban": "Menggambar",
+    "deskripsi": "Kata dalam bahasa Minang yang berarti 'menggambar'."
+  },
+  {
+    "index": 92,
+    "soal": "Apa arti kata 'main game' dalam bahasa Bugis?",
+    "jawaban": "Bermain game",
+    "deskripsi": "Kata dalam bahasa Bugis yang berarti 'bermain game' (serapan)."
+  },
+  {
+    "index": 93,
+    "soal": "Apa arti kata 'hujan' dalam bahasa Sunda?",
+    "jawaban": "Hujan",
+    "deskripsi": "Kata dalam bahasa Sunda yang berarti 'hujan'."
+  },
+  {
+    "index": 94,
+    "soal": "Apa arti kata 'panas' dalam bahasa Batak?",
+    "jawaban": "Panas",
+    "deskripsi": "Kata dalam bahasa Batak yang berarti 'panas'."
+  },
+  {
+    "index": 95,
+    "soal": "Apa arti kata 'dingin' dalam bahasa Jawa?",
+    "jawaban": "Dingin",
+    "deskripsi": "Kata dalam bahasa Jawa yang berarti 'dingin'."
+  },
+  {
+    "index": 96,
+    "soal": "Apa arti kata 'angin' dalam bahasa Minang?",
+    "jawaban": "Angin",
+    "deskripsi": "Kata dalam bahasa Minang yang berarti 'angin'."
+  },
+  {
+    "index": 97,
+    "soal": "Apa arti kata 'awan' dalam bahasa Bugis?",
+    "jawaban": "Awan",
+    "deskripsi": "Kata dalam bahasa Bugis yang berarti 'awan'."
+  },
+  {
+    "index": 98,
+    "soal": "Apa arti kata 'langit' dalam bahasa Sunda?",
+    "jawaban": "Langit",
+    "deskripsi": "Kata dalam bahasa Sunda yang berarti 'langit'."
+  },
+  {
+    "index": 99,
+    "soal": "Apa arti kata 'bintang' dalam bahasa Batak?",
+    "jawaban": "Bintang",
+    "deskripsi": "Kata dalam bahasa Batak yang berarti 'bintang' di langit."
+  }
+]
