@@ -1,0 +1,602 @@
+[
+  {
+    "index": 0,
+    "soal": "Planet terdekat dengan Matahari, permukaannya penuh kawah.",
+    "jawaban": "Merkurius",
+    "deskripsi": "Planet terkecil di tata surya, tidak memiliki atmosfer, suhu ekstrem."
+  },
+  {
+    "index": 1,
+    "soal": "Planet paling panas di tata surya, atmosfernya kaya CO2.",
+    "jawaban": "Venus",
+    "deskripsi": "Planet kedua dari Matahari, berotasi sangat lambat, efek rumah kaca ekstrem."
+  },
+  {
+    "index": 2,
+    "soal": "Planet biru dengan 75% permukaan air, tempat tinggal manusia.",
+    "jawaban": "Bumi",
+    "deskripsi": "Planet ketiga dari Matahari, satu-satunya planet yang diketahui memiliki kehidupan."
+  },
+  {
+    "index": 3,
+    "soal": "Planet merah, dijuluki 'Planet Merah', memiliki gunung tertinggi di tata surya.",
+    "jawaban": "Mars",
+    "deskripsi": "Planet keempat dari Matahari, memiliki Olympus Mons, gunung tertinggi di tata surya."
+  },
+  {
+    "index": 4,
+    "soal": "Planet terbesar di tata surya, memiliki bintik merah raksasa.",
+    "jawaban": "Jupiter",
+    "deskripsi": "Planet kelima dari Matahari, gas raksasa dengan massa 2,5 kali total massa planet lain."
+  },
+  {
+    "index": 5,
+    "soal": "Planet dengan cincin indah yang mengelilinginya.",
+    "jawaban": "Saturnus",
+    "deskripsi": "Planet keenam dari Matahari, terkenal dengan sistem cincinnya yang luas."
+  },
+  {
+    "index": 6,
+    "soal": "Planet yang berotasi miring, dijuluki 'Planet Miring'.",
+    "jawaban": "Uranus",
+    "deskripsi": "Planet ketujuh dari Matahari, berotasi hampir horizontal dengan kemiringan 98 derajat."
+  },
+  {
+    "index": 7,
+    "soal": "Planet terjauh di tata surya, sangat dingin dan berwarna biru gelap.",
+    "jawaban": "Neptunus",
+    "deskripsi": "Planet kedelapan dari Matahari, memiliki angin tercepat di tata surya."
+  },
+  {
+    "index": 8,
+    "soal": "Planet kerdil yang dulunya dianggap planet ke-9, terletak di Sabuk Kuiper.",
+    "jawaban": "Pluto",
+    "deskripsi": "Planet kerdil yang ditemukan tahun 1930, diklasifikasikan ulang sebagai planet kerdil tahun 2006."
+  },
+  {
+    "index": 9,
+    "soal": "Planet kerdil terbesar di Sabuk Asteroid, antara Mars dan Jupiter.",
+    "jawaban": "Ceres",
+    "deskripsi": "Planet kerdil pertama yang ditemukan, terletak di Sabuk Asteroid utama."
+  },
+  {
+    "index": 10,
+    "soal": "Planet kerdil yang memiliki bulan bernama Dysnomia, lebih besar dari Pluto.",
+    "jawaban": "Eris",
+    "deskripsi": "Planet kerdil terbesar di tata surya, terletak di Sabuk Kuiper."
+  },
+  {
+    "index": 11,
+    "soal": "Planet kerdil yang terletak di Sabuk Kuiper, memiliki orbit yang sangat elips.",
+    "jawaban": "Haumea",
+    "deskripsi": "Planet kerdil berbentuk oval, memiliki dua bulan dan cincin tipis."
+  },
+  {
+    "index": 12,
+    "soal": "Planet kerdil yang memiliki bulan bernama Namaka dan Hi'iaka.",
+    "jawaban": "Haumea",
+    "deskripsi": "Planet kerdil di Sabuk Kuiper, dinamai dari dewi kesuburan Hawaii."
+  },
+  {
+    "index": 13,
+    "soal": "Planet kerdil yang terletak di Sabuk Kuiper, memiliki orbit yang sangat miring.",
+    "jawaban": "Makemake",
+    "deskripsi": "Planet kerdil di Sabuk Kuiper, dinamai dari dewa pencipta Rapa Nui."
+  },
+  {
+    "index": 14,
+    "soal": "Bintang terdekat dengan Bumi, sumber energi utama bagi kehidupan.",
+    "jawaban": "Matahari",
+    "deskripsi": "Bintang katai kuning di pusat tata surya, menyumbang 99,86% massa tata surya."
+  },
+  {
+    "index": 15,
+    "soal": "Satelit alami Bumi, tampak berubah bentuk setiap malam.",
+    "jawaban": "Bulan",
+    "deskripsi": "Satelit alami Bumi yang mempengaruhi pasang surut air laut."
+  },
+  {
+    "index": 16,
+    "soal": "Satelit terbesar Jupiter, memiliki lautan di bawah permukaan esnya.",
+    "jawaban": "Ganymede",
+    "deskripsi": "Satelit terbesar di tata surya, lebih besar dari Merkurius, memiliki medan magnet."
+  },
+  {
+    "index": 17,
+    "soal": "Satelit Jupiter yang memiliki gunung berapi aktif, permukaan berwarna kuning-oranye.",
+    "jawaban": "Io",
+    "deskripsi": "Satelit paling vulkanik di tata surya, memiliki lebih dari 400 gunung berapi aktif."
+  },
+  {
+    "index": 18,
+    "soal": "Satelit Jupiter yang memiliki lautan di bawah permukaan es, mungkin mengandung kehidupan.",
+    "jawaban": "Europa",
+    "deskripsi": "Satelit Jupiter dengan permukaan es yang retak, diyakini memiliki lautan di bawahnya."
+  },
+  {
+    "index": 19,
+    "soal": "Satelit Jupiter yang terkecil dari empat satelit Galileo, permukaannya penuh kawah.",
+    "jawaban": "Callisto",
+    "deskripsi": "Satelit Jupiter dengan permukaan paling tua dan penuh kawah di tata surya."
+  },
+  {
+    "index": 20,
+    "soal": "Satelit terbesar Saturnus, memiliki atmosfer tebal dan danau metana.",
+    "jawaban": "Titan",
+    "deskripsi": "Satelit Saturnus yang memiliki atmosfer tebal dan cairan metana di permukaannya."
+  },
+  {
+    "index": 21,
+    "soal": "Satelit Saturnus yang memiliki geyser air di kutub selatannya.",
+    "jawaban": "Enceladus",
+    "deskripsi": "Satelit Saturnus yang memiliki aktivitas geyser dan lautan di bawah permukaan es."
+  },
+  {
+    "index": 22,
+    "soal": "Satelit Uranus yang memiliki permukaan paling gelap di tata surya.",
+    "jawaban": "Umbriel",
+    "deskripsi": "Satelit Uranus dengan permukaan gelap dan penuh kawah."
+  },
+  {
+    "index": 23,
+    "soal": "Satelit Neptunus yang memiliki orbit terbalik (retrograde).",
+    "jawaban": "Triton",
+    "deskripsi": "Satelit Neptunus yang memiliki orbit retrograde, diduga adalah objek Sabuk Kuiper yang tertangkap."
+  },
+  {
+    "index": 24,
+    "soal": "Sabuk asteroid yang terletak antara Mars dan Jupiter.",
+    "jawaban": "Sabuk Asteroid",
+    "deskripsi": "Wilayah di tata surya yang berisi jutaan asteroid antara orbit Mars dan Jupiter."
+  },
+  {
+    "index": 25,
+    "soal": "Wilayah di luar Neptunus yang berisi planet kerdil dan objek es.",
+    "jawaban": "Sabuk Kuiper",
+    "deskripsi": "Wilayah di tata surya luar yang berisi objek es dan planet kerdil seperti Pluto."
+  },
+  {
+    "index": 26,
+    "soal": "Awan raksasa yang mengelilingi tata surya, berisi komet dan objek es.",
+    "jawaban": "Awan Oort",
+    "deskripsi": "Awan sferis raksasa di tepi tata surya yang berisi komet dan objek es."
+  },
+  {
+    "index": 27,
+    "soal": "Komet terkenal yang terlihat setiap 76 tahun sekali.",
+    "jawaban": "Komet Halley",
+    "deskripsi": "Komet periodik paling terkenal, terakhir terlihat tahun 1986 dan akan kembali tahun 2061."
+  },
+  {
+    "index": 28,
+    "soal": "Bintang paling terang di langit malam, sebenarnya adalah bintang ganda.",
+    "jawaban": "Sirius",
+    "deskripsi": "Bintang paling terang di langit malam, terletak di konstelasi Canis Major."
+  },
+  {
+    "index": 29,
+    "soal": "Bintang terdekat kedua setelah Matahari, sistem bintang tiga.",
+    "jawaban": "Alpha Centauri",
+    "deskripsi": "Sistem bintang terdekat dengan Bumi, terdiri dari tiga bintang."
+  },
+  {
+    "index": 30,
+    "soal": "Bintang yang menjadi panduan bagi pelaut di belahan Bumi utara.",
+    "jawaban": "Bintang Utara (Polaris)",
+    "deskripsi": "Bintang yang selalu berada di atas Kutub Utara, digunakan sebagai penunjuk arah."
+  },
+  {
+    "index": 31,
+    "soal": "Nebula terbesar yang terlihat dari Bumi, terletak di konstelasi Orion.",
+    "jawaban": "Nebula Orion",
+    "deskripsi": "Nebula terbesar dan paling terang di langit malam, tempat lahirnya bintang-bintang baru."
+  },
+  {
+    "index": 32,
+    "soal": "Galaksi tempat kita tinggal, berbentuk spiral.",
+    "jawaban": "Galaksi Bima Sakti (Milky Way)",
+    "deskripsi": "Galaksi spiral tempat tata surya kita berada, berdiameter sekitar 100.000 tahun cahaya."
+  },
+  {
+    "index": 33,
+    "soal": "Galaksi terdekat dengan Bima Sakti, dapat dilihat dengan mata telanjang.",
+    "jawaban": "Galaksi Andromeda",
+    "deskripsi": "Galaksi spiral terbesar di Grup Lokal, terletak 2,5 juta tahun cahaya dari Bumi."
+  },
+  {
+    "index": 34,
+    "soal": "Benda langit yang meledak dan mengeluarkan energi sangat besar.",
+    "jawaban": "Supernova",
+    "deskripsi": "Ledakan bintang yang menghasilkan energi sangat besar dan dapat menjadi lebih terang dari seluruh galaksi."
+  },
+  {
+    "index": 35,
+    "soal": "Lubang hitam di pusat galaksi Bima Sakti.",
+    "jawaban": "Sagittarius A*",
+    "deskripsi": "Lubang hitam supermasif di pusat Galaksi Bima Sakti."
+  },
+  {
+    "index": 36,
+    "soal": "Objek langit yang terdiri dari gas dan debu, tempat lahirnya bintang.",
+    "jawaban": "Nebula",
+    "deskripsi": "Awan gas dan debu di luar angkasa yang merupakan tempat lahirnya bintang-bintang."
+  },
+  {
+    "index": 37,
+    "soal": "Fenomena langit yang tampak seperti titik-titik cahaya bergerak cepat.",
+    "jawaban": "Meteor",
+    "deskripsi": "Benda langit yang masuk atmosfer Bumi dan terbakar, sering disebut bintang jatuh."
+  },
+  {
+    "index": 38,
+    "soal": "Benda langit yang jatuh ke permukaan Bumi tanpa terbakar habis.",
+    "jawaban": "Meteorit",
+    "deskripsi": "Meteor yang berhasil mencapai permukaan Bumi."
+  },
+  {
+    "index": 39,
+    "soal": "Gerhana yang terjadi saat Bulan berada di antara Bumi dan Matahari.",
+    "jawaban": "Gerhana Matahari",
+    "deskripsi": "Fenomena saat Bulan menutupi Matahari, terjadi pada siang hari."
+  },
+  {
+    "index": 40,
+    "soal": "Gerhana yang terjadi saat Bumi berada di antara Matahari dan Bulan.",
+    "jawaban": "Gerhana Bulan",
+    "deskripsi": "Fenomena saat Bumi menutupi cahaya Matahari ke Bulan, terjadi pada malam hari."
+  },
+  {
+    "index": 41,
+    "soal": "Satelit buatan yang digunakan untuk komunikasi dan cuaca.",
+    "jawaban": "Satelit",
+    "deskripsi": "Objek buatan manusia yang mengorbit Bumi untuk berbagai keperluan."
+  },
+  {
+    "index": 42,
+    "soal": "Roket yang membawa manusia ke Bulan pada tahun 1969.",
+    "jawaban": "Apollo 11",
+    "deskripsi": "Misi luar angkasa yang pertama kali membawa manusia ke Bulan."
+  },
+  {
+    "index": 43,
+    "soal": "Stasiun luar angkasa internasional yang mengorbit Bumi.",
+    "jawaban": "ISS (International Space Station)",
+    "deskripsi": "Stasiun luar angkasa yang ditempati oleh astronot dari berbagai negara."
+  },
+  {
+    "index": 44,
+    "soal": "Teleskop luar angkasa paling terkenal yang mengorbit Bumi.",
+    "jawaban": "Teleskop Hubble",
+    "deskripsi": "Teleskop luar angkasa yang telah menghasilkan foto-foto luar angkasa paling ikonik."
+  },
+  {
+    "index": 45,
+    "soal": "Teleskop luar angkasa penerus Hubble yang diluncurkan tahun 2021.",
+    "jawaban": "Teleskop James Webb",
+    "deskripsi": "Teleskop luar angkasa terbaru yang mengamati alam semesta dalam inframerah."
+  },
+  {
+    "index": 46,
+    "soal": "Planet yang pernah dianggap sebagai planet ke-10, ditemukan tahun 2003.",
+    "jawaban": "Sedna",
+    "deskripsi": "Objek trans-Neptunus dengan orbit yang sangat panjang dan eksentrik."
+  },
+  {
+    "index": 47,
+    "soal": "Planet kerdil yang terletak di Sabuk Kuiper, ditemukan tahun 2004.",
+    "jawaban": "Orcus",
+    "deskripsi": "Planet kerdil di Sabuk Kuiper yang memiliki orbit mirip dengan Pluto."
+  },
+  {
+    "index": 48,
+    "soal": "Planet kerdil yang ditemukan tahun 2005, memiliki bulan bernama Xiangliu.",
+    "jawaban": "Gonggong",
+    "deskripsi": "Planet kerdil di Sabuk Kuiper yang dinamai dari dewa Tiongkok."
+  },
+  {
+    "index": 49,
+    "soal": "Planet kerdil yang ditemukan tahun 2003, memiliki orbit yang sangat miring.",
+    "jawaban": "Quaoar",
+    "deskripsi": "Planet kerdil di Sabuk Kuiper yang memiliki ukuran sekitar setengah dari Pluto."
+  },
+  {
+    "index": 50,
+    "soal": "Bulan Saturnus yang memiliki bentuk seperti spons dan permukaan kasar.",
+    "jawaban": "Hyperion",
+    "deskripsi": "Satelit Saturnus dengan bentuk tidak beraturan dan permukaan seperti spons."
+  },
+  {
+    "index": 51,
+    "soal": "Bulan Saturnus yang berwarna dua warna, terang dan gelap.",
+    "jawaban": "Iapetus",
+    "deskripsi": "Satelit Saturnus dengan satu sisi terang dan satu sisi gelap."
+  },
+  {
+    "index": 52,
+    "soal": "Bulan Uranus yang memiliki permukaan berbentuk seperti terowongan.",
+    "jawaban": "Miranda",
+    "deskripsi": "Satelit Uranus dengan permukaan yang sangat aneh dan bervariasi."
+  },
+  {
+    "index": 53,
+    "soal": "Bulan Neptunus yang memiliki orbit terbalik dan sangat dingin.",
+    "jawaban": "Nereid",
+    "deskripsi": "Satelit Neptunus dengan orbit yang sangat eksentrik."
+  },
+  {
+    "index": 54,
+    "soal": "Bintang yang berubah kecerahan secara periodik.",
+    "jawaban": "Bintang Variabel",
+    "deskripsi": "Bintang yang kecerahannya berubah secara periodik karena berbagai alasan."
+  },
+  {
+    "index": 55,
+    "soal": "Bintang yang meledak dan menjadi sangat terang dalam waktu singkat.",
+    "jawaban": "Nova",
+    "deskripsi": "Ledakan bintang yang tidak sekuat supernova, terjadi pada bintang katai putih."
+  },
+  {
+    "index": 56,
+    "soal": "Bintang neutron yang berotasi sangat cepat dan memancarkan sinar radio.",
+    "jawaban": "Pulsar",
+    "deskripsi": "Bintang neutron yang berotasi dengan cepat dan memancarkan sinar radio secara periodik."
+  },
+  {
+    "index": 57,
+    "soal": "Lubang hitam yang sangat kecil dan padat, terbentuk dari bintang yang meledak.",
+    "jawaban": "Lubang Hitam Stellar",
+    "deskripsi": "Lubang hitam yang terbentuk dari keruntuhan bintang masif."
+  },
+  {
+    "index": 58,
+    "soal": "Lubang hitam yang sangat besar, berada di pusat galaksi.",
+    "jawaban": "Lubang Hitam Supermasif",
+    "deskripsi": "Lubang hitam yang massanya jutaan hingga miliaran kali massa Matahari."
+  },
+  {
+    "index": 59,
+    "soal": "Objek langit yang memiliki ekor panjang dan bersinar saat mendekati Matahari.",
+    "jawaban": "Komet",
+    "deskripsi": "Objek es yang mengorbit Matahari dan menghasilkan ekor saat mendekati Matahari."
+  },
+  {
+    "index": 60,
+    "soal": "Hujan meteor yang terjadi setiap tahun pada bulan Agustus.",
+    "jawaban": "Hujan Meteor Perseid",
+    "deskripsi": "Hujan meteor tahunan yang terjadi pada bulan Agustus, berasal dari Komet Swift-Tuttle."
+  },
+  {
+    "index": 61,
+    "soal": "Hujan meteor yang terjadi setiap tahun pada bulan Desember.",
+    "jawaban": "Hujan Meteor Geminid",
+    "deskripsi": "Hujan meteor tahunan yang terjadi pada bulan Desember, berasal dari asteroid 3200 Phaethon."
+  },
+  {
+    "index": 62,
+    "soal": "Awan gas dan debu yang menjadi tempat lahirnya bintang-bintang baru.",
+    "jawaban": "Nebula Gelap",
+    "deskripsi": "Nebula yang sangat padat sehingga menghalangi cahaya bintang di belakangnya."
+  },
+  {
+    "index": 63,
+    "soal": "Nebula yang memancarkan cahaya sendiri karena gas di dalamnya terionisasi.",
+    "jawaban": "Nebula Emisi",
+    "deskripsi": "Nebula yang memancarkan cahaya karena gas di dalamnya terionisasi oleh bintang terdekat."
+  },
+  {
+    "index": 64,
+    "soal": "Nebula yang memantulkan cahaya bintang di sekitarnya.",
+    "jawaban": "Nebula Refleksi",
+    "deskripsi": "Nebula yang memantulkan cahaya dari bintang terdekat."
+  },
+  {
+    "index": 65,
+    "soal": "Sisa-sisa ledakan supernova yang terlihat sebagai awan gas yang indah.",
+    "jawaban": "Sisa Supernova",
+    "deskripsi": "Awan gas dan debu yang ditinggalkan oleh ledakan supernova."
+  },
+  {
+    "index": 66,
+    "soal": "Bintang yang sangat besar dan terang, puluhan kali lebih besar dari Matahari.",
+    "jawaban": "Bintang Raksasa",
+    "deskripsi": "Bintang yang memiliki ukuran dan luminositas yang sangat besar."
+  },
+  {
+    "index": 67,
+    "soal": "Bintang yang sangat kecil dan redup, sebagian besar bintang di alam semesta.",
+    "jawaban": "Bintang Katai",
+    "deskripsi": "Bintang yang berukuran kecil dan luminositas rendah."
+  },
+  {
+    "index": 68,
+    "soal": "Bintang yang berdenyut secara periodik, digunakan untuk mengukur jarak.",
+    "jawaban": "Cepheid",
+    "deskripsi": "Bintang variabel yang periodenya berhubungan dengan luminositasnya, digunakan sebagai 'lilin standar'."
+  },
+  {
+    "index": 69,
+    "soal": "Bintang yang sangat tua dan miskin logam, terletak di halo galaksi.",
+    "jawaban": "Bintang Populasi II",
+    "deskripsi": "Bintang tua yang miskin logam, ditemukan di halo dan gugus bola."
+  },
+  {
+    "index": 70,
+    "soal": "Gugus bintang yang berbentuk bola dan sangat tua.",
+    "jawaban": "Gugus Bola",
+    "deskripsi": "Kumpulan bintang yang sangat tua dan padat, berbentuk bola."
+  },
+  {
+    "index": 71,
+    "soal": "Gugus bintang yang terbuka dan lebih muda, terletak di bidang galaksi.",
+    "jawaban": "Gugus Terbuka",
+    "deskripsi": "Kumpulan bintang yang lebih muda dan tersebar, terletak di bidang galaksi."
+  },
+  {
+    "index": 72,
+    "soal": "Awan gas antar bintang yang tersebar di seluruh galaksi.",
+    "jawaban": "Medium Antar Bintang",
+    "deskripsi": "Gas dan debu yang mengisi ruang antara bintang-bintang di galaksi."
+  },
+  {
+    "index": 73,
+    "soal": "Objek yang sangat padat dan memiliki gravitasi sangat kuat, cahaya tidak bisa keluar.",
+    "jawaban": "Lubang Hitam",
+    "deskripsi": "Objek dengan gravitasi yang sangat kuat sehingga cahaya pun tidak bisa keluar."
+  },
+  {
+    "index": 74,
+    "soal": "Planet yang dulunya dianggap memiliki kehidupan, sekarang diketahui steril.",
+    "jawaban": "Venus",
+    "deskripsi": "Planet yang dulunya dianggap bisa memiliki kehidupan, tetapi sekarang diketahui terlalu panas."
+  },
+  {
+    "index": 75,
+    "soal": "Planet yang memiliki bulan terbesar di tata surya (Ganymede).",
+    "jawaban": "Jupiter",
+    "deskripsi": "Planet yang memiliki satelit terbesar di tata surya, Ganymede."
+  },
+  {
+    "index": 76,
+    "soal": "Planet yang memiliki cincin yang paling jelas terlihat dari Bumi.",
+    "jawaban": "Saturnus",
+    "deskripsi": "Planet yang terkenal dengan sistem cincinnya yang spektakuler."
+  },
+  {
+    "index": 77,
+    "soal": "Bulan Mars yang berbentuk tidak beraturan dan sangat kecil.",
+    "jawaban": "Phobos",
+    "deskripsi": "Bulan Mars yang lebih besar, berbentuk tidak beraturan dan penuh kawah."
+  },
+  {
+    "index": 78,
+    "soal": "Bulan Mars yang lebih kecil dan lebih jauh dari planetnya.",
+    "jawaban": "Deimos",
+    "deskripsi": "Bulan Mars yang lebih kecil, berbentuk tidak beraturan dan permukaan halus."
+  },
+  {
+    "index": 79,
+    "soal": "Planet yang memiliki awan asam sulfat yang sangat tebal.",
+    "jawaban": "Venus",
+    "deskripsi": "Planet yang atmosfernya kaya akan asam sulfat dan CO2."
+  },
+  {
+    "index": 80,
+    "soal": "Planet yang memiliki medan magnet terkuat di tata surya.",
+    "jawaban": "Jupiter",
+    "deskripsi": "Planet yang memiliki medan magnet terkuat, 20.000 kali lebih kuat dari Bumi."
+  },
+  {
+    "index": 81,
+    "soal": "Planet yang memiliki hari terpendek di tata surya (kurang dari 10 jam).",
+    "jawaban": "Jupiter",
+    "deskripsi": "Planet yang berotasi paling cepat, hanya sekitar 9,9 jam."
+  },
+  {
+    "index": 82,
+    "soal": "Planet yang memiliki hari terpanjang di tata surya (lebih dari 240 jam).",
+    "jawaban": "Venus",
+    "deskripsi": "Planet yang berotasi paling lambat, satu hari lebih lama dari satu tahun Venesia."
+  },
+  {
+    "index": 83,
+    "soal": "Planet yang memiliki orbit paling elips di tata surya.",
+    "jawaban": "Merkurius",
+    "deskripsi": "Planet yang memiliki orbit paling eksentrik, sangat elips."
+  },
+  {
+    "index": 84,
+    "soal": "Planet yang memiliki suhu permukaan rata-rata terendah.",
+    "jawaban": "Neptunus",
+    "deskripsi": "Planet terdingin di tata surya, suhu mencapai -218 derajat Celsius."
+  },
+  {
+    "index": 85,
+    "soal": "Planet yang memiliki suhu permukaan rata-rata tertinggi.",
+    "jawaban": "Venus",
+    "deskripsi": "Planet terpanas di tata surya, suhu mencapai 462 derajat Celsius."
+  },
+  {
+    "index": 86,
+    "soal": "Planet yang dijuluki 'Kembaran Bumi' karena ukuran dan massanya mirip.",
+    "jawaban": "Venus",
+    "deskripsi": "Planet yang memiliki ukuran dan massa yang hampir sama dengan Bumi."
+  },
+  {
+    "index": 87,
+    "soal": "Planet yang memiliki gravitasi permukaan terkuat.",
+    "jawaban": "Jupiter",
+    "deskripsi": "Planet dengan gravitasi permukaan terkuat, 2,5 kali Bumi."
+  },
+  {
+    "index": 88,
+    "soal": "Planet yang memiliki gravitasi permukaan terlemah.",
+    "jawaban": "Merkurius",
+    "deskripsi": "Planet dengan gravitasi permukaan terlemah, 0,38 kali Bumi."
+  },
+  {
+    "index": 89,
+    "soal": "Planet yang memiliki jumlah bulan terbanyak di tata surya.",
+    "jawaban": "Jupiter",
+    "deskripsi": "Planet dengan jumlah bulan terbanyak, sekitar 95 bulan yang diketahui."
+  },
+  {
+    "index": 90,
+    "soal": "Planet yang memiliki jumlah bulan paling sedikit (tidak termasuk Merkurius dan Venus).",
+    "jawaban": "Bumi",
+    "deskripsi": "Planet yang memiliki satu bulan alami."
+  },
+  {
+    "index": 91,
+    "soal": "Planet yang tidak memiliki bulan alami.",
+    "jawaban": "Merkurius",
+    "deskripsi": "Planet yang tidak memiliki satelit alami."
+  },
+  {
+    "index": 92,
+    "soal": "Planet yang tidak memiliki bulan alami (sama dengan Merkurius).",
+    "jawaban": "Venus",
+    "deskripsi": "Planet yang tidak memiliki satelit alami."
+  },
+  {
+    "index": 93,
+    "soal": "Satelit yang paling aktif secara vulkanik di tata surya.",
+    "jawaban": "Io",
+    "deskripsi": "Satelit dengan aktivitas vulkanik paling tinggi, memiliki lebih dari 400 gunung berapi."
+  },
+  {
+    "index": 94,
+    "soal": "Satelit yang diyakini memiliki lautan di bawah permukaan es dan mungkin mengandung kehidupan.",
+    "jawaban": "Europa",
+    "deskripsi": "Satelit Jupiter yang memiliki lautan di bawah permukaan es dan menjadi target pencarian kehidupan."
+  },
+  {
+    "index": 95,
+    "soal": "Satelit yang memiliki atmosfer tebal dan danau metana di permukaannya.",
+    "jawaban": "Titan",
+    "deskripsi": "Satelit Saturnus yang memiliki atmosfer tebal dan danau metana, mirip dengan Bumi awal."
+  },
+  {
+    "index": 96,
+    "soal": "Satelit yang memiliki geyser air di kutub selatannya, mirip dengan Enceladus.",
+    "jawaban": "Enceladus",
+    "deskripsi": "Satelit Saturnus yang memiliki geyser air di kutub selatannya, bukti adanya lautan bawah permukaan."
+  },
+  {
+    "index": 97,
+    "soal": "Planet kerdil yang ditemukan tahun 2005, memiliki orbit yang sangat elips.",
+    "jawaban": "Eris",
+    "deskripsi": "Planet kerdil yang memicu perdebatan tentang definisi planet dan akhirnya Pluto diklasifikasikan ulang."
+  },
+  {
+    "index": 98,
+    "soal": "Planet kerdil yang terletak di Sabuk Asteroid dan berputar sangat cepat.",
+    "jawaban": "Ceres",
+    "deskripsi": "Planet kerdil terbesar di Sabuk Asteroid, berputar sangat cepat."
+  },
+  {
+    "index": 99,
+    "soal": "Objek langit yang terlihat seperti bintang tetapi sebenarnya adalah galaksi yang sangat jauh.",
+    "jawaban": "Quasar",
+    "deskripsi": "Objek yang sangat terang dan jauh, diperkirakan adalah lubang hitam supermasif yang aktif."
+  }
+]
