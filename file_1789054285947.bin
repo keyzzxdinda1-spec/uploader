@@ -1,0 +1,107 @@
+[
+  {
+    "nama": "Freya",
+    "gambar": "https://raw.githubusercontent.com/keyzzxdinda1-spec/uploader/main/file_1789038735335.webp",
+    "deskripsi": "Valkyrie dari Northern Vale, pejuang jarak dekat dengan kekuatan luar biasa dan kemampuan lifesteal tinggi."
+  },
+  {
+    "nama": "Martis",
+    "gambar": "https://raw.githubusercontent.com/keyzzxdinda1-spec/uploader/main/file_1789038752060.jpg",
+    "deskripsi": "Raja Asura pertama yang berhasil menaklukkan 3.000 dunia rahasia. Fighter dengan crowd control dan damage besar."
+  },
+  {
+    "nama": "Nolan",
+    "gambar": "https://raw.githubusercontent.com/keyzzxdinda1-spec/uploader/main/file_1789038792432.jpg",
+    "deskripsi": "Sarjana dari Eruditio yang menjelajahi multiverse untuk menyelamatkan putrinya, Layla. Assassin dengan mobilitas tinggi."
+  },
+  {
+    "nama": "Layla",
+    "gambar": "https://raw.githubusercontent.com/keyzzxdinda1-spec/uploader/main/file_1789038815891.png",
+    "deskripsi": "Marksman pemula dengan senapan Malefic Gun, putri dari Nolan. Jangkauan serang jauh dan damage besar."
+  },
+  {
+    "nama": "Dyrroth",
+    "gambar": "https://raw.githubusercontent.com/keyzzxdinda1-spec/uploader/main/file_1789038844196.jpg",
+    "deskripsi": "Pangeran Abyss yang diculik dari Moniyan Empire saat bayi. Fighter dengan kemampuan menembus armor dan lifesteal."
+  },
+  {
+    "nama": "Guinevere",
+    "gambar": "https://raw.githubusercontent.com/keyzzxdinda1-spec/uploader/main/file_1789038877063.jpg",
+    "deskripsi": "Adik Lancelot dari keluarga bangsawan Baroque. Fighter-mage dengan combo magic dan kemampuan melayangkan musuh."
+  },
+  {
+    "nama": "Miya",
+    "gambar": "https://raw.githubusercontent.com/keyzzxdinda1-spec/uploader/main/file_1789038923367.jpg",
+    "deskripsi": "Priestess of the Moon dari Azrya Woodlands. Marksman klasik dengan attack speed tinggi dan kemampuan menghilangkan CC."
+  },
+  {
+    "nama": "Harith",
+    "gambar": "https://raw.githubusercontent.com/keyzzxdinda1-spec/uploader/main/file_1789038938870.png",
+    "deskripsi": "Leonin Elf dari Enchanted Forest, Imperial Master of Magic di Moniyan Empire. Mage dengan mobilitas dash dan shield."
+  },
+  {
+    "nama": "Badang",
+    "gambar": "https://raw.githubusercontent.com/keyzzxdinda1-spec/uploader/main/file_1789038954775.jpg",
+    "deskripsi": "Pejuang legendaris dari Kerajaan Singapura. Fighter dengan kekuatan luar biasa dan kemampuan dinding pembatas."
+  },
+  {
+    "nama": "Hanabi",
+    "gambar": "https://raw.githubusercontent.com/keyzzxdinda1-spec/uploader/main/file_1789039005342.jpg",
+    "deskripsi": "Pemimpin Scarlet Sect dari Cadia Riverlands. Marksman dengan Higanbana dan immune terhadap crowd control."
+  },
+  {
+    "nama": "Lancelot",
+    "gambar": "https://raw.githubusercontent.com/keyzzxdinda1-spec/uploader/main/file_1789039022641.jpg",
+    "deskripsi": "Putra sulung Duke Baroque, pendekar pedang jenius. Assassin dengan mobilitas dash dan damage burst tinggi."
+  },
+  {
+    "nama": "Chou",
+    "gambar": "https://raw.githubusercontent.com/keyzzxdinda1-spec/uploader/main/file_1789039096879.jpg",
+    "deskripsi": "Pendekar Kung-Fu dari daerah kumuh Antonieri. Fighter dengan mobilitas tinggi dan kemampuan menendang musuh."
+  },
+  {
+    "nama": "Estes",
+    "gambar": "https://raw.githubusercontent.com/keyzzxdinda1-spec/uploader/main/file_1789039116038.jpg",
+    "deskripsi": "Raja Elf dari Emerald Woodland. Support dengan kemampuan penyembuhan area luas dan buff untuk tim."
+  },
+  {
+    "nama": "Cici",
+    "gambar": "https://raw.githubusercontent.com/keyzzxdinda1-spec/uploader/main/file_1789039122843.jpg",
+    "deskripsi": "Pemain utama Whimsical Wonders theater troupe. Fighter dengan mobilitas tinggi dan boneka magis Yoyo."
+  },
+  {
+    "nama": "Aldous",
+    "gambar": "https://raw.githubusercontent.com/keyzzxdinda1-spec/uploader/main/file_1789039149531.jpg",
+    "deskripsi": "Penjaga Labirin Minoa yang setia. Fighter dengan stacking damage dan kemampuan one-punch setelah mengumpulkan soul."
+  },
+  {
+    "nama": "Minotaur",
+    "gambar": "https://raw.githubusercontent.com/keyzzxdinda1-spec/uploader/main/file_1789039253726.jpg",
+    "deskripsi": "Pangeran Minoa yang diasingkan ke Labirin. Tank-support dengan mode Rage dan kemampuan menyembuhkan diri serta sekutu."
+  },
+  {
+    "nama": "Ling",
+    "gambar": "https://raw.githubusercontent.com/keyzzxdinda1-spec/uploader/main/file_1789039272505.jpg",
+    "deskripsi": "Mantan murid Great Dragon yang menciptakan organisasi Cyan Finch. Assassin dengan mobilitas dinding dan damage kritis."
+  },
+  {
+    "nama": "Alice",
+    "gambar": "https://raw.githubusercontent.com/keyzzxdinda1-spec/uploader/main/file_1789051695069.jpg",
+    "deskripsi": "Ratu Darah yang lahir di Era of Strife. Mage-tank dengan kemampuan mencuri HP musuh dan ultimate area luas."
+  },
+  {
+    "nama": "Zhuxin",
+    "gambar": "https://raw.githubusercontent.com/keyzzxdinda1-spec/uploader/main/file_1789051767092.png",
+    "deskripsi": "Gadis misterius dari Kota Zhu'an yang memandu kupu-kupu api dengan Lantern of Spirits. Mage dengan damage area besar."
+  },
+  {
+    "nama": "Akai",
+    "gambar": "https://raw.githubusercontent.com/keyzzxdinda1-spec/uploader/main/file_1789051788973.jpg",
+    "deskripsi": "Panda pejuang dari Kawa Village yang bercita-cita menjadi hero. Tank dengan kemampuan roll dan knockback."
+  },
+  {
+    "nama": "Melissa",
+    "gambar": "https://raw.githubusercontent.com/keyzzxdinda1-spec/uploader/main/file_1789051805288.jpg",
+    "deskripsi": "Pemilik tailor shop di Lumina City dengan jarum terkutuk. Marksman dengan kemampuan anti-projectile dan damage berkelanjutan."
+  }
+]
