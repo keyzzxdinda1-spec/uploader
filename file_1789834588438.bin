@@ -1,0 +1,608 @@
+[
+  {
+    index: 0,
+    soal: 'Raja para dewa Olympia, penguasa langit dan petir',
+    jawaban: 'Zeus',
+    deskripsi: 'Memimpin Olympus setelah mengalahkan Kronos, memegang hukum dan keadilan, dikenal dengan petirnya.'
+  },
+  {
+    index: 1,
+    soal: 'Ratu Olympus, dewi pernikahan dan keluarga',
+    jawaban: 'Hera',
+    deskripsi: 'Istri sekaligus saudara Zeus, pelindung wanita dan institusi pernikahan, dikenal pendendam pada selingkuhan suaminya.'
+  },
+  {
+    index: 2,
+    soal: 'Dewa laut dengan senjata trisula yang bisa memicu gempa',
+    jawaban: 'Poseidon',
+    deskripsi: 'Penguasa seluruh perairan, pencipta kuda, dan ber temperamen seperti ombak yang berubah-ubah.'
+  },
+  {
+    index: 3,
+    soal: 'Dewi pertanian dan panen yang kehilangan putrinya ke dunia bawah',
+    jawaban: 'Demeter',
+    deskripsi: 'Mengajarkan manusia bercocok tanam, kesedihannya menciptakan musim dingin pertama di dunia.'
+  },
+  {
+    index: 4,
+    soal: 'Dewi kebijaksanaan yang lahir dari kepala Zeus',
+    jawaban: 'Athena',
+    deskripsi: 'Pelindung kota Athena, dewi perang strategis, kerajinan, dan penasihat para pahlawan besar Yunani.'
+  },
+  {
+    index: 5,
+    soal: 'Dewa matahari, musik, dan ramalan dengan kuil di Delphi',
+    jawaban: 'Apollo',
+    deskripsi: 'Saudara kembar Artemis, dewa penyembuhan, puisi, dan cahaya yang membawa wabah dengan panahnya.'
+  },
+  {
+    index: 6,
+    soal: 'Dewi perburuan dan bulan yang bersumpah tetap perawan',
+    jawaban: 'Artemis',
+    deskripsi: 'Kembaran Apollo, pelindung hewan liar dan perawan, kuilnya di Ephesus termasuk Tujuh Keajaiban Dunia.'
+  },
+  {
+    index: 7,
+    soal: 'Dewa perang yang haus darah dan kekasih Aphrodite',
+    jawaban: 'Ares',
+    deskripsi: 'Anak Zeus dan Hera, dibenci para dewa, namun dihormati para prajurit Sparta sebagai dewa keberanian.'
+  },
+  {
+    index: 8,
+    soal: 'Dewi cinta dan kecantikan yang lahir dari busa laut',
+    jawaban: 'Aphrodite',
+    deskripsi: 'Dewi tercantik di Olympus, istri Hephaestus, namun berselingkuh dengan Ares dan mencintai Adonis.'
+  },
+  {
+    index: 9,
+    soal: 'Dewa pandai besi yang cacat dan menciptakan petir Zeus',
+    jawaban: 'Hephaestus',
+    deskripsi: 'Satu-satunya dewa Olympia yang cacat, bekerja di bengkel bawah gunung berapi dengan bantuan Cyclops.'
+  },
+  {
+    index: 10,
+    soal: 'Dewa utusan bersandal sayap yang memandu jiwa orang mati',
+    jawaban: 'Hermes',
+    deskripsi: 'Dewa perdagangan, pencuri, dan perjalanan, terkenal licik sejak lahir karena mencuri ternak Apollo.'
+  },
+  {
+    index: 11,
+    soal: 'Dewi perapian yang menyerahkan tahtanya pada Dionysus',
+    jawaban: 'Hestia',
+    deskripsi: 'Dewi api suci rumah dan keluarga, melambangkan kehangatan serta persatuan keluarga.'
+  },
+  {
+    index: 12,
+    soal: 'Dewa dunia bawah dengan helm kegelapan',
+    jawaban: 'Hades',
+    deskripsi: 'Penguasa alam kematian dan kekayaan bawah tanah, suami Persephone, bukan dewa jahat melainkan penjaga takdir.'
+  },
+  {
+    index: 13,
+    soal: 'Dewa anggur dan pesta yang mengajarkan manusia membuat wine',
+    jawaban: 'Dionysus',
+    deskripsi: 'Dewa termuda di Olympus, pelindung teater, memiliki dua sisi: ceria dan gelap yang membawa kegilaan.'
+  },
+  {
+    index: 14,
+    soal: 'Titan penguasa waktu yang menelan anak-anaknya',
+    jawaban: 'Kronos',
+    deskripsi: 'Menggulingkan Uranus dengan sabit, dikalahkan Zeus dalam Titanomachy dan dipenjara di Tartarus.'
+  },
+  {
+    index: 15,
+    soal: 'Titan ibu yang menyelamatkan Zeus dari ditelan Kronos',
+    jawaban: 'Rhea',
+    deskripsi: 'Istri Kronos, ibu para dewa Olympia, melambangkan keibuan dan perlindungan terhadap anak.'
+  },
+  {
+    index: 16,
+    soal: 'Dewa langit purba yang digulingkan oleh anaknya sendiri',
+    jawaban: 'Uranus',
+    deskripsi: 'Pasangan Gaia, ayah para Titan, darahnya yang jatuh ke bumi melahirkan Gigantes dan Erinyes.'
+  },
+  {
+    index: 17,
+    soal: 'Dewi bumi purba ibu dari semua kehidupan',
+    jawaban: 'Gaia',
+    deskripsi: 'Personifikasi bumi, ibu para Titan dan Gigantes, membantu Kronos menggulingkan Uranus.'
+  },
+  {
+    index: 18,
+    soal: 'Ratu dunia bawah yang tinggal 6 bulan di bawah dan 6 bulan di atas',
+    jawaban: 'Persephone',
+    deskripsi: 'Anak Demeter yang diculik Hades, siklus hidupnya melambangkan pergantian musim di bumi.'
+  },
+  {
+    index: 19,
+    soal: 'Dewi masa muda yang menjadi juru minum para dewa',
+    jawaban: 'Hebe',
+    deskripsi: 'Anak Zeus dan Hera, menikah dengan Herakles setelah ia naik menjadi dewa di Olympus.'
+  },
+  {
+    index: 20,
+    soal: 'Dewi kelahiran yang membantu para wanita melahirkan',
+    jawaban: 'Eileithyia',
+    deskripsi: 'Anak Zeus dan Hera, sering dipanggil bersama ibunya untuk membantu persalinan manusia maupun dewa.'
+  },
+  {
+    index: 21,
+    soal: 'Dewi perang kota yang menjadi pendamping setia Ares',
+    jawaban: 'Enyo',
+    deskripsi: 'Melambangkan kehancuran kota dalam pertempuran, sering dikaitkan dengan pembawa kehancuran perang.'
+  },
+  {
+    index: 22,
+    soal: 'Dewi perselisihan yang apel emasnya memicu Perang Troya',
+    jawaban: 'Eris',
+    deskripsi: 'Anak Nyx, menikmati pertengkaran antar dewa maupun manusia, sumber kekacauan di Olympus.'
+  },
+  {
+    index: 23,
+    soal: 'Dewa kematian damai yang membawa jiwa dengan lembut',
+    jawaban: 'Thanatos',
+    deskripsi: 'Kembaran Hypnos, pernah dikalahkan Herakles dan Sisyphus, digambarkan sebagai pemuda bersayap.'
+  },
+  {
+    index: 24,
+    soal: 'Dewa tidur yang dapat menidurkan Zeus',
+    jawaban: 'Hypnos',
+    deskripsi: 'Tinggal di gua gelap bersama Thanatos, membantu Hera menidurkan Zeus dalam kisah Perang Troya.'
+  },
+  {
+    index: 25,
+    soal: 'Dewi pembalasan atas kesombongan manusia',
+    jawaban: 'Nemesis',
+    deskripsi: 'Anak Nyx, menghukum mereka yang melampaui batas, dalam beberapa versi adalah ibu dari Helen.'
+  },
+  {
+    index: 26,
+    soal: 'Dewi kemenangan bersayap yang mendampingi Zeus',
+    jawaban: 'Nike',
+    deskripsi: 'Anak Styx dan Pallas, patungnya yang terkenal berada di Samothrace dan menjadi simbol kemenangan.'
+  },
+  {
+    index: 27,
+    soal: 'Dewi pelangi yang menjadi utusan para dewa',
+    jawaban: 'Iris',
+    deskripsi: 'Anak Thaumas dan Electra, menyampaikan pesan dari Olympus ke bumi, melambangkan jembatan dewa dan manusia.'
+  },
+  {
+    index: 28,
+    soal: 'Dewi sihir dan persimpangan jalan yang membantu Demeter',
+    jawaban: 'Hecate',
+    deskripsi: 'Anak Perses dan Asteria, dewi bulan, sihir, dan arwah, dihormati di persimpangan tiga jalan.'
+  },
+  {
+    index: 29,
+    soal: 'Dewa hutan berkaki kambing yang bermain suling',
+    jawaban: 'Pan',
+    deskripsi: 'Anak Hermes, dewa gembala dan alam liar, teriakannya dapat menimbulkan kepanikan mendadak.'
+  },
+  {
+    index: 30,
+    soal: 'Dewa pengobatan yang tongkatnya menjadi simbol medis',
+    jawaban: 'Asclepius',
+    deskripsi: 'Anak Apollo, dapat menghidupkan orang mati, dihukum Zeus karena melanggar hukum alam.'
+  },
+  {
+    index: 31,
+    soal: 'Dewi keberuntungan dengan roda nasib yang berputar',
+    jawaban: 'Tyche',
+    deskripsi: 'Anak Oceanus, membawa kekayaan atau kemalangan, melambangkan perubahan hidup yang tak terduga.'
+  },
+  {
+    index: 32,
+    soal: 'Dewa angin utara yang dingin dan menculik Oreithyia',
+    jawaban: 'Boreas',
+    deskripsi: 'Anak Eos dan Astraeus, membantu Athena dalam pertempuran laut melawan Persia.'
+  },
+  {
+    index: 33,
+    soal: 'Dewa angin barat yang lembut dan membawa musim semi',
+    jawaban: 'Zephyrus',
+    deskripsi: 'Kekasih Chloris dan Hyacinthus, melambangkan hembusan angin hangat yang membawa bunga.'
+  },
+  {
+    index: 34,
+    soal: 'Dewa angin selatan yang membawa badai musim gugur',
+    jawaban: 'Notus',
+    deskripsi: 'Anak Eos dan Astraeus, dikaitkan dengan kehancuran panen dan kabut tebal.'
+  },
+  {
+    index: 35,
+    soal: 'Dewa angin timur yang hangat dan membawa keberuntungan',
+    jawaban: 'Eurus',
+    deskripsi: 'Anak Eos dan Astraeus, dikaitkan dengan datangnya musim panas dan kekayaan.'
+  },
+  {
+    index: 36,
+    soal: 'Dewa matahari yang mengendarai kereta melintasi langit',
+    jawaban: 'Helios',
+    deskripsi: 'Anak Hyperion dan Theia, ayah Phaethon dan Circe, melihat segalanya dari langit.'
+  },
+  {
+    index: 37,
+    soal: 'Dewi bulan yang jatuh cinta pada Endymion',
+    jawaban: 'Selene',
+    deskripsi: 'Anak Hyperion dan Theia, mengendarai kereta perak, menidurkan kekasihnya agar tetap awet muda.'
+  },
+  {
+    index: 38,
+    soal: 'Dewi fajar yang air matanya menjadi embun pagi',
+    jawaban: 'Eos',
+    deskripsi: 'Anak Hyperion dan Theia, menculik Tithonus dan meminta keabadian untuknya tanpa masa muda.'
+  },
+  {
+    index: 39,
+    soal: 'Titan yang mencuri api dari Olympus untuk manusia',
+    jawaban: 'Prometheus',
+    deskripsi: 'Anak Iapetus, dihukum dirantai di batu dengan hati dimakan elang setiap hari, memberi manusia seni dan ilmu.'
+  },
+  {
+    index: 40,
+    soal: 'Titan yang menerima Pandora meski sudah diperingatkan',
+    jawaban: 'Epimetheus',
+    deskripsi: 'Saudara Prometheus, melambangkan penyesalan setelah tindakan yang terburu-buru.'
+  },
+  {
+    index: 41,
+    soal: 'Titan yang dihukum memikul langit selamanya',
+    jawaban: 'Atlas',
+    deskripsi: 'Anak Iapetus, namanya menjadi nama pegunungan di Afrika, pernah ditipu Herakles untuk sementara.'
+  },
+  {
+    index: 42,
+    soal: 'Titan kebijaksanaan yang ditelan Zeus karena ramalan',
+    jawaban: 'Metis',
+    deskripsi: 'Istri pertama Zeus, ibunda Athena yang lahir dari kepala Zeus setelah ibunya ditelan.'
+  },
+  {
+    index: 43,
+    soal: 'Titan keadilan yang menjadi ibu para Moirai',
+    jawaban: 'Themis',
+    deskripsi: 'Istri Zeus, dewi hukum ilahi, menasihati Zeus dalam urusan keadilan dan takdir.'
+  },
+  {
+    index: 44,
+    soal: 'Titan air yang menjadi ibu dari semua sungai',
+    jawaban: 'Tethys',
+    deskripsi: 'Istri Oceanus, ibu dari 3000 Oceanid, melambangkan kesuburan air tawar di dunia.'
+  },
+  {
+    index: 45,
+    soal: 'Titan ramalan yang memiliki kuil Delphi sebelum Apollo',
+    jawaban: 'Phoebe',
+    deskripsi: 'Ibu Leto, nenek Apollo dan Artemis, melambangkan cahaya dan ramalan sebelum era Olympia.'
+  },
+  {
+    index: 46,
+    soal: 'Titan memori yang menjadi ibu sembilan Muses',
+    jawaban: 'Mnemosyne',
+    deskripsi: 'Anak Gaia dan Uranus, melambangkan ingatan abadi, namanya menjadi akar kata mnemonik.'
+  },
+  {
+    index: 47,
+    soal: 'Titan cahaya yang menjadi ibu Helios, Selene, dan Eos',
+    jawaban: 'Thea',
+    deskripsi: 'Istri Hyperion, melambangkan keindahan cahaya surgawi yang menerangi langit.'
+  },
+  {
+    index: 48,
+    soal: 'Titan akal yang menjadi ayah Leto dan Asteria',
+    jawaban: 'Coeus',
+    deskripsi: 'Suami Phoebe, melambangkan rasa ingin tahu intelektual dan kekuatan pikiran.'
+  },
+  {
+    index: 49,
+    soal: 'Titan bintang yang menjadi ayah Pallas dan Astraeus',
+    jawaban: 'Crius',
+    deskripsi: 'Melambangkan pengamatan bintang dan konstelasi di langit malam Yunani kuno.'
+  },
+  {
+    index: 50,
+    soal: 'Titan nenek moyang manusia yang dipenjara di Tartarus',
+    jawaban: 'Iapetus',
+    deskripsi: 'Ayah Prometheus, Epimetheus, dan Atlas, dihukum setelah kekalahan Titan dalam Titanomachy.'
+  },
+  {
+    index: 51,
+    soal: 'Titan matahari yang namanya berarti berjalan di atas',
+    jawaban: 'Hyperion',
+    deskripsi: 'Ayah Helios, Selene, dan Eos, melambangkan cahaya tertinggi di langit.'
+  },
+  {
+    index: 52,
+    soal: 'Titan samudra yang mengelilingi dunia dan tidak ikut Titanomachy',
+    jawaban: 'Oceanus',
+    deskripsi: 'Suami Tethys, ayah dari 3000 Oceanid, tetap netral saat perang Titan melawan Olympia.'
+  },
+  {
+    index: 53,
+    soal: 'Titan ibu Apollo dan Artemis yang diusir Hera',
+    jawaban: 'Leto',
+    deskripsi: 'Melahirkan di pulau Delos setelah mengembara, melambangkan penganiayaan ibu yang gigih.'
+  },
+  {
+    index: 54,
+    soal: 'Titan bintang yang berubah menjadi pulau Delos',
+    jawaban: 'Asteria',
+    deskripsi: 'Ibu Hecate, melompat ke laut untuk menghindari Zeus dan berubah menjadi pulau terapung.'
+  },
+  {
+    index: 55,
+    soal: 'Titan angin bintang yang menjadi ayah empat angin utama',
+    jawaban: 'Astraeus',
+    deskripsi: 'Suami Eos, ayah Boreas, Zephyrus, Notus, dan Eurus, melambangkan hembusan angin kosmik.'
+  },
+  {
+    index: 56,
+    soal: 'Titan yang dibunuh Athena dan kulitnya jadi perisai aegis',
+    jawaban: 'Pallas',
+    deskripsi: 'Ayah Nike, Zelos, Kratos, dan Bia, melambangkan perang dan kebijaksanaan prajurit.'
+  },
+  {
+    index: 57,
+    soal: 'Titan kehancuran yang menjadi ayah Hecate',
+    jawaban: 'Perses',
+    deskripsi: 'Suami Asteria, melambangkan kekuatan destruktif dalam mitologi Yunani kuno.'
+  },
+  {
+    index: 58,
+    soal: 'Titan sungai yang menjadi sumpah para dewa',
+    jawaban: 'Styx',
+    deskripsi: 'Ibu Nike, Zelos, Kratos, dan Bia, sumpah di atas sungainya tidak bisa dilanggar bahkan oleh Zeus.'
+  },
+  {
+    index: 59,
+    soal: 'Dewi malam purba yang ditakuti bahkan oleh Zeus',
+    jawaban: 'Nyx',
+    deskripsi: 'Ibu Hypnos, Thanatos, dan Nemesis, melambangkan kegelapan kosmik sebelum alam terbentuk.'
+  },
+  {
+    index: 60,
+    soal: 'Dewa kegelapan purba yang menjadi pasangan Nyx',
+    jawaban: 'Erebus',
+    deskripsi: 'Ayah Aether dan Hemera, melambangkan kegelapan sebelum cahaya ada di alam semesta.'
+  },
+  {
+    index: 61,
+    soal: 'Dewa langit atas dan cahaya murni yang dihirup dewa',
+    jawaban: 'Aether',
+    deskripsi: 'Anak Erebus dan Nyx, melambangkan ruang di atas atmosfer tempat para dewa menghirup udara.'
+  },
+  {
+    index: 62,
+    soal: 'Dewi siang yang membawa cahaya setelah malam',
+    jawaban: 'Hemera',
+    deskripsi: 'Anak Erebus dan Nyx, saudari Aether, melambangkan pergantian malam ke siang setiap hari.'
+  },
+  {
+    index: 63,
+    soal: 'Dewa laut purba sebelum era Poseidon',
+    jawaban: 'Pontus',
+    deskripsi: 'Anak Gaia, ayah Nereus dan Phorcys, melambangkan kedalaman laut primitif.'
+  },
+  {
+    index: 64,
+    soal: 'Dewa laut tua bijaksana yang dapat berubah bentuk',
+    jawaban: 'Nereus',
+    deskripsi: 'Ayah dari 50 Nereid, meramal masa depan jika ditangkap, dikenal jujur dan adil.'
+  },
+  {
+    index: 65,
+    soal: 'Nymph laut yang menjadi istri Nereus dan ibu 50 Nereid',
+    jawaban: 'Doris',
+    deskripsi: 'Anak Oceanus, melambangkan kesuburan laut, namanya berarti pemberian.'
+  },
+  {
+    index: 66,
+    soal: 'Ratu laut dan istri Poseidon',
+    jawaban: 'Amphitrite',
+    deskripsi: 'Ibu Triton dan Rhodos, melambangkan keindahan dan kedalaman laut.'
+  },
+  {
+    index: 67,
+    soal: 'Dewa laut yang meniup terompet kerang untuk menenangkan ombak',
+    jawaban: 'Triton',
+    deskripsi: 'Anak Poseidon dan Amphitrite, utusan laut yang sering digambarkan sebagai putra duyung.'
+  },
+  {
+    index: 68,
+    soal: 'Dewa laut yang dapat berubah bentuk dan meramal masa depan',
+    jawaban: 'Proteus',
+    deskripsi: 'Anak Poseidon, digambarkan sebagai gembala anjing laut, melambangkan sifat laut yang misterius.'
+  },
+  {
+    index: 69,
+    soal: 'Centaur bijaksana yang mengajari Achilles dan Herakles',
+    jawaban: 'Chiron',
+    deskripsi: 'Anak Kronos, guru para pahlawan, terkena panah beracun Herakles dan menjadi rasi bintang.'
+  },
+  {
+    index: 70,
+    soal: 'Pahlawan terkuat Yunani yang tumitnya menjadi kelemahannya',
+    jawaban: 'Achilles',
+    deskripsi: 'Anak Peleus dan Thetis, pahlawan terkuat dalam Perang Troya, dibunuh Paris dengan panah di tumit.'
+  },
+  {
+    index: 71,
+    soal: 'Pahlawan cerdik yang menciptakan Kuda Troya',
+    jawaban: 'Odysseus',
+    deskripsi: 'Raja Ithaca, berkelana 10 tahun sebelum pulang, kisahnya ditulis dalam Odyssey karya Homer.'
+  },
+  {
+    index: 72,
+    soal: 'Pahlawan yang membunuh Medusa dengan bantuan Athena',
+    jawaban: 'Perseus',
+    deskripsi: 'Anak Zeus dan Danae, menyelamatkan Andromeda, dan menjadi pendiri kota Mykenai.'
+  },
+  {
+    index: 73,
+    soal: 'Pahlawan dengan 12 tugas terkenal yang menjadi dewa',
+    jawaban: 'Herakles',
+    deskripsi: 'Anak Zeus dan Alkmene, menikah dengan Hebe setelah menjadi dewa, simbol kekuatan dan ketabahan.'
+  },
+  {
+    index: 74,
+    soal: 'Pahlawan yang membunuh Minotaur di labirin Kreta',
+    jawaban: 'Theseus',
+    deskripsi: 'Anak Aigeus, dibantu Ariadne, menjadi raja Athena dan reformis yang menyatukan Attika.'
+  },
+  {
+    index: 75,
+    soal: 'Pemimpin Argonaut yang mencari Bulu Emas',
+    jawaban: 'Jason',
+    deskripsi: 'Anak Aeson, dibantu Medea, petualangannya berakhir tragis dengan kehilangan keluarga.'
+  },
+  {
+    index: 76,
+    soal: 'Musisi terhebat yang turun ke dunia bawah untuk kekasihnya',
+    jawaban: 'Orpheus',
+    deskripsi: 'Anak Apollo, nyanyiannya mempesona semua makhluk, mati dibunuh Maenad setelah gagal membawa Eurydice.'
+  },
+  {
+    index: 77,
+    soal: 'Wanita pertama yang membuka kotak berisi semua kejahatan',
+    jawaban: 'Pandora',
+    deskripsi: 'Diciptakan Hephaestus atas perintah Zeus, hanya harapan yang tersisa di dalam kotaknya.'
+  },
+  {
+    index: 78,
+    soal: 'Pangeran Troya yang menculik Helen dan memicu perang',
+    jawaban: 'Paris',
+    deskripsi: 'Anak Priam, memilih Aphrodite sebagai dewi tercantik, membunuh Achilles dengan panah.'
+  },
+  {
+    index: 79,
+    soal: 'Wanita tercantik yang menjadi penyebab Perang Troya',
+    jawaban: 'Helen',
+    deskripsi: 'Istri Menelaus, diculik Paris, kembali ke Sparta setelah perang berakhir.'
+  },
+  {
+    index: 80,
+    soal: 'Pahlawan Troya yang dibunuh Achilles dan mayatnya diseret',
+    jawaban: 'Hector',
+    deskripsi: 'Anak Priam, pembela Troya, suami Andromache, simbol kepahlawanan dan kesetiaan pada negara.'
+  },
+  {
+    index: 81,
+    soal: 'Raja Mykenai yang memimpin pasukan Yunani ke Troya',
+    jawaban: 'Agamemnon',
+    deskripsi: 'Anak Atreus, dibunuh istrinya Clytemnestra setelah pulang perang, kisahnya menjadi tragedi terkenal.'
+  },
+  {
+    index: 82,
+    soal: 'Raja Sparta dan suami Helen yang memicu Perang Troya',
+    jawaban: 'Menelaus',
+    deskripsi: 'Anak Atreus, adik Agamemnon, kembali ke Sparta setelah berhasil merebut istrinya dari Paris.'
+  },
+  {
+    index: 83,
+    soal: 'Istri setia Odysseus yang menunggu 20 tahun',
+    jawaban: 'Penelope',
+    deskripsi: 'Menipu pelamar dengan kain tenun, melambangkan kesetiaan dan kecerdikan wanita.'
+  },
+  {
+    index: 84,
+    soal: 'Penyihir yang mengubah manusia menjadi babi',
+    jawaban: 'Circe',
+    deskripsi: 'Anak Helios, menahan Odysseus setahun di pulau Aiaia, memberinya nasihat perjalanan.'
+  },
+  {
+    index: 85,
+    soal: 'Nymph yang menahan Odysseus 7 tahun di pulau Ogygia',
+    jawaban: 'Calypso',
+    deskripsi: 'Anak Atlas, menawarkan keabadian pada Odysseus, melepaskannya atas perintah Zeus.'
+  },
+  {
+    index: 86,
+    soal: 'Gorgon yang mengubah orang menjadi batu dengan tatapannya',
+    jawaban: 'Medusa',
+    deskripsi: 'Dibunuh Perseus, darahnya melahirkan Pegasus dan Chrysaor, sebelumnya cantik dan diperkosa Poseidon.'
+  },
+  {
+    index: 87,
+    soal: 'Monster berkepala banteng yang tinggal di labirin Kreta',
+    jawaban: 'Minotaur',
+    deskripsi: 'Anak Pasiphae dan banteng Kreta, dibunuh Theseus dengan bantuan benang Ariadne.'
+  },
+  {
+    index: 88,
+    soal: 'Anjing berkepala tiga penjaga gerbang dunia bawah',
+    jawaban: 'Cerberus',
+    deskripsi: 'Anak Typhon dan Echidna, pernah dibawa Herakles ke permukaan dalam tugas kedua belas.'
+  },
+  {
+    index: 89,
+    soal: 'Ular berkepala banyak yang kepalanya tumbuh kembali',
+    jawaban: 'Hydra',
+    deskripsi: 'Dibunuh Herakles dengan api, darahnya sangat beracun, salah satu monster paling berbahaya.'
+  },
+  {
+    index: 90,
+    soal: 'Monster campuran singa, kambing, dan ular',
+    jawaban: 'Chimera',
+    deskripsi: 'Anak Typhon dan Echidna, dibunuh Bellerophon yang menunggangi Pegasus.'
+  },
+  {
+    index: 91,
+    soal: 'Monster bersayap yang menanyakan teka-teki kepada pelancong',
+    jawaban: 'Sphinx',
+    deskripsi: 'Dikalahkan Oedipus yang memecahkan teka-tekinya, melambangkan misteri dan kematian.'
+  },
+  {
+    index: 92,
+    soal: 'Kuda bersayap yang lahir dari darah Medusa',
+    jawaban: 'Pegasus',
+    deskripsi: 'Membantu Bellerophon membunuh Chimera, menjadi rasi bintang setelah kematiannya.'
+  },
+  {
+    index: 93,
+    soal: 'Putri Kreta yang membantu Theseus keluar dari labirin',
+    jawaban: 'Ariadne',
+    deskripsi: 'Anak Minos, menjadi istri Dionysus, mahkotanya menjadi rasi bintang Corona Borealis.'
+  },
+  {
+    index: 94,
+    soal: 'Perancang labirin Kreta yang menciptakan sayap lilin',
+    jawaban: 'Daedalus',
+    deskripsi: 'Ayah Icarus, arsitek jenius, melarikan diri dari Kreta dengan sayap buatannya sendiri.'
+  },
+  {
+    index: 95,
+    soal: 'Pemuda yang terbang terlalu dekat matahari dan jatuh',
+    jawaban: 'Icarus',
+    deskripsi: 'Anak Daedalus, sayap lilinnya meleleh, tenggelam di laut yang kini dinamai laut Ikaria.'
+  },
+  {
+    index: 96,
+    soal: 'Raksasa perunggu penjaga pulau Kreta',
+    jawaban: 'Talos',
+    deskripsi: 'Dibuat Hephaestus, berkeliling pulau tiga kali sehari, dibunuh Medea dengan tipuan.'
+  },
+  {
+    index: 97,
+    soal: 'Dewa cinta bersayap yang panahnya membuat siapa pun jatuh cinta',
+    jawaban: 'Eros',
+    deskripsi: 'Anak Aphrodite dan Ares, kisahnya dengan Psyche menjadi salah satu kisah cinta paling terkenal.'
+  },
+  {
+    index: 98,
+    soal: 'Manusia yang menjadi istri Eros dan naik menjadi dewi',
+    jawaban: 'Psyche',
+    deskripsi: 'Melambangkan jiwa manusia, harus melewati berbagai ujian dari Aphrodite untuk bersatu dengan Eros.'
+  },
+  {
+    index: 99,
+    soal: 'Pemuda Troya yang menjadi juru minum para dewa',
+    jawaban: 'Ganymede',
+    deskripsi: 'Dibawa Zeus ke Olympus dalam wujud elang, melambangkan pemuda ideal dalam mitologi Yunani.'
+  },
+  {
+    index: 100,
+    soal: 'Pengantar arwah melintasi sungai Styx dengan perahu',
+    jawaban: 'Charon',
+    deskripsi: 'Membutuhkan koin sebagai bayaran dari keluarga almarhum, melambangkan batas antara hidup dan mati.'
+  }
+]
