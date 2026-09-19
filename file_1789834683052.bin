@@ -1,0 +1,150 @@
+[
+  {
+    index: 0,
+    soal: 'Valkyrie dari Northern Vale, pejuang jarak dekat dengan kekuatan luar biasa dan kemampuan lifesteal tinggi',
+    jawaban: 'Freya',
+    deskripsi: 'Valkyrie dari Northern Vale, pejuang jarak dekat dengan kekuatan luar biasa dan kemampuan lifesteal tinggi.',
+    gambar: 'https://raw.githubusercontent.com/keyzzxdinda1-spec/uploader/main/file_1789038735335.webp'
+  },
+  {
+    index: 1,
+    soal: 'Raja Asura pertama yang berhasil menaklukkan 3.000 dunia rahasia',
+    jawaban: 'Martis',
+    deskripsi: 'Raja Asura pertama yang berhasil menaklukkan 3.000 dunia rahasia. Fighter dengan crowd control dan damage besar.',
+    gambar: 'https://raw.githubusercontent.com/keyzzxdinda1-spec/uploader/main/file_1789038752060.jpg'
+  },
+  {
+    index: 2,
+    soal: 'Sarjana dari Eruditio yang menjelajahi multiverse untuk menyelamatkan putrinya, Layla',
+    jawaban: 'Nolan',
+    deskripsi: 'Sarjana dari Eruditio yang menjelajahi multiverse untuk menyelamatkan putrinya, Layla. Assassin dengan mobilitas tinggi.',
+    gambar: 'https://raw.githubusercontent.com/keyzzxdinda1-spec/uploader/main/file_1789038792432.jpg'
+  },
+  {
+    index: 3,
+    soal: 'Marksman pemula dengan senapan Malefic Gun, putri dari Nolan',
+    jawaban: 'Layla',
+    deskripsi: 'Marksman pemula dengan senapan Malefic Gun, putri dari Nolan. Jangkauan serang jauh dan damage besar.',
+    gambar: 'https://raw.githubusercontent.com/keyzzxdinda1-spec/uploader/main/file_1789038815891.png'
+  },
+  {
+    index: 4,
+    soal: 'Pangeran Abyss yang diculik dari Moniyan Empire saat bayi',
+    jawaban: 'Dyrroth',
+    deskripsi: 'Pangeran Abyss yang diculik dari Moniyan Empire saat bayi. Fighter dengan kemampuan menembus armor dan lifesteal.',
+    gambar: 'https://raw.githubusercontent.com/keyzzxdinda1-spec/uploader/main/file_1789038844196.jpg'
+  },
+  {
+    index: 5,
+    soal: 'Adik Lancelot dari keluarga bangsawan Baroque',
+    jawaban: 'Guinevere',
+    deskripsi: 'Adik Lancelot dari keluarga bangsawan Baroque. Fighter-mage dengan combo magic dan kemampuan melayangkan musuh.',
+    gambar: 'https://raw.githubusercontent.com/keyzzxdinda1-spec/uploader/main/file_1789038877063.jpg'
+  },
+  {
+    index: 6,
+    soal: 'Priestess of the Moon dari Azrya Woodlands',
+    jawaban: 'Miya',
+    deskripsi: 'Priestess of the Moon dari Azrya Woodlands. Marksman klasik dengan attack speed tinggi dan kemampuan menghilangkan CC.',
+    gambar: 'https://raw.githubusercontent.com/keyzzxdinda1-spec/uploader/main/file_1789038923367.jpg'
+  },
+  {
+    index: 7,
+    soal: 'Leonin Elf dari Enchanted Forest, Imperial Master of Magic di Moniyan Empire',
+    jawaban: 'Harith',
+    deskripsi: 'Leonin Elf dari Enchanted Forest, Imperial Master of Magic di Moniyan Empire. Mage dengan mobilitas dash dan shield.',
+    gambar: 'https://raw.githubusercontent.com/keyzzxdinda1-spec/uploader/main/file_1789038938870.png'
+  },
+  {
+    index: 8,
+    soal: 'Pejuang legendaris dari Kerajaan Singapura',
+    jawaban: 'Badang',
+    deskripsi: 'Pejuang legendaris dari Kerajaan Singapura. Fighter dengan kekuatan luar biasa dan kemampuan dinding pembatas.',
+    gambar: 'https://raw.githubusercontent.com/keyzzxdinda1-spec/uploader/main/file_1789038954775.jpg'
+  },
+  {
+    index: 9,
+    soal: 'Pemimpin Scarlet Sect dari Cadia Riverlands',
+    jawaban: 'Hanabi',
+    deskripsi: 'Pemimpin Scarlet Sect dari Cadia Riverlands. Marksman dengan Higanbana dan immune terhadap crowd control.',
+    gambar: 'https://raw.githubusercontent.com/keyzzxdinda1-spec/uploader/main/file_1789039005342.jpg'
+  },
+  {
+    index: 10,
+    soal: 'Putra sulung Duke Baroque, pendekar pedang jenius',
+    jawaban: 'Lancelot',
+    deskripsi: 'Putra sulung Duke Baroque, pendekar pedang jenius. Assassin dengan mobilitas dash dan damage burst tinggi.',
+    gambar: 'https://raw.githubusercontent.com/keyzzxdinda1-spec/uploader/main/file_1789039022641.jpg'
+  },
+  {
+    index: 11,
+    soal: 'Pendekar Kung-Fu dari daerah kumuh Antonieri',
+    jawaban: 'Chou',
+    deskripsi: 'Pendekar Kung-Fu dari daerah kumuh Antonieri. Fighter dengan mobilitas tinggi dan kemampuan menendang musuh.',
+    gambar: 'https://raw.githubusercontent.com/keyzzxdinda1-spec/uploader/main/file_1789039096879.jpg'
+  },
+  {
+    index: 12,
+    soal: 'Raja Elf dari Emerald Woodland',
+    jawaban: 'Estes',
+    deskripsi: 'Raja Elf dari Emerald Woodland. Support dengan kemampuan penyembuhan area luas dan buff untuk tim.',
+    gambar: 'https://raw.githubusercontent.com/keyzzxdinda1-spec/uploader/main/file_1789039116038.jpg'
+  },
+  {
+    index: 13,
+    soal: 'Pemain utama Whimsical Wonders theater troupe',
+    jawaban: 'Cici',
+    deskripsi: 'Pemain utama Whimsical Wonders theater troupe. Fighter dengan mobilitas tinggi dan boneka magis Yoyo.',
+    gambar: 'https://raw.githubusercontent.com/keyzzxdinda1-spec/uploader/main/file_1789039122843.jpg'
+  },
+  {
+    index: 14,
+    soal: 'Penjaga Labirin Minoa yang setia',
+    jawaban: 'Aldous',
+    deskripsi: 'Penjaga Labirin Minoa yang setia. Fighter dengan stacking damage dan kemampuan one-punch setelah mengumpulkan soul.',
+    gambar: 'https://raw.githubusercontent.com/keyzzxdinda1-spec/uploader/main/file_1789039149531.jpg'
+  },
+  {
+    index: 15,
+    soal: 'Pangeran Minoa yang diasingkan ke Labirin',
+    jawaban: 'Minotaur',
+    deskripsi: 'Pangeran Minoa yang diasingkan ke Labirin. Tank-support dengan mode Rage dan kemampuan menyembuhkan diri serta sekutu.',
+    gambar: 'https://raw.githubusercontent.com/keyzzxdinda1-spec/uploader/main/file_1789039253726.jpg'
+  },
+  {
+    index: 16,
+    soal: 'Mantan murid Great Dragon yang menciptakan organisasi Cyan Finch',
+    jawaban: 'Ling',
+    deskripsi: 'Mantan murid Great Dragon yang menciptakan organisasi Cyan Finch. Assassin dengan mobilitas dinding dan damage kritis.',
+    gambar: 'https://raw.githubusercontent.com/keyzzxdinda1-spec/uploader/main/file_1789039272505.jpg'
+  },
+  {
+    index: 17,
+    soal: 'Ratu Darah yang lahir di Era of Strife',
+    jawaban: 'Alice',
+    deskripsi: 'Ratu Darah yang lahir di Era of Strife. Mage-tank dengan kemampuan mencuri HP musuh dan ultimate area luas.',
+    gambar: 'https://raw.githubusercontent.com/keyzzxdinda1-spec/uploader/main/file_1789051695069.jpg'
+  },
+  {
+    index: 18,
+    soal: "Gadis misterius dari Kota Zhu'an yang memandu kupu-kupu api dengan Lantern of Spirits",
+    jawaban: 'Zhuxin',
+    deskripsi: "Gadis misterius dari Kota Zhu'an yang memandu kupu-kupu api dengan Lantern of Spirits. Mage dengan damage area besar.",
+    gambar: 'https://raw.githubusercontent.com/keyzzxdinda1-spec/uploader/main/file_1789051767092.png'
+  },
+  {
+    index: 19,
+    soal: 'Panda pejuang dari Kawa Village yang bercita-cita menjadi hero',
+    jawaban: 'Akai',
+    deskripsi: 'Panda pejuang dari Kawa Village yang bercita-cita menjadi hero. Tank dengan kemampuan roll dan knockback.',
+    gambar: 'https://raw.githubusercontent.com/keyzzxdinda1-spec/uploader/main/file_1789051788973.jpg'
+  },
+  {
+    index: 20,
+    soal: 'Pemilik tailor shop di Lumina City dengan jarum terkutuk',
+    jawaban: 'Melissa',
+    deskripsi: 'Pemilik tailor shop di Lumina City dengan jarum terkutuk. Marksman dengan kemampuan anti-projectile dan damage berkelanjutan.',
+    gambar: 'https://raw.githubusercontent.com/keyzzxdinda1-spec/uploader/main/file_1789051805288.jpg'
+  }
+]
+  
